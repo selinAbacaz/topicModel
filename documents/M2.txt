@@ -1,0 +1,426 @@
+Researcher  0:02  
+Yeah. So the first question is, like, can you briefly tell me about the kinds of CS one courses you've taught recently, I guess, also like the context as well. So like, maybe, like, how big is University? How big your classes, some details like that. 
+
+Interviewee  0:17  
+So, yeah, I'm at [INSTITUTION]. It's a
+
+it's a small liberal arts ish school. I don't actually know what our total enrollment is,
+
+but it's primarily undergrad stuff like that. The CS department itself has about
+
+like that. I don't know if that's enough context if you want anything else. 
+
+Researcher  2:10  
+I guess other, I guess a follow up question is just like, so is it one section per like? 
+
+Interviewee  2:16  
+No, so we have, we typically have two sections in the fall,
+
+and they're run between 15 and 30 students in the fall, and then one section of the spring, which is our off sequence, one which currently has 20 people in it, we try to limit to 20 to 30 students. It starts getting because I do a lot of group work and a lot of interacting with individual students a lot. And once you get above 30, it diminishes quite rapidly, and how much attention you can give each person.
+
+Researcher  2:51  
+That's true. I was gonna say, I'm actually, my undergrad is at Temple University, so, so I'd like, I guess, like same state, but we had 30 size classes, like, a ton of sections, so a little bit different. But, yeah,
+
+Interviewee  3:04  
+my parents went to you Delaware, though, fighting blue, fighting blue hands, right?
+
+Researcher  3:11  
+Yeah. I mean,
+
+Interviewee  3:12  
+not that a graduate student really cares what their mascot is, but,
+
+Researcher  3:17  
+I mean, I in a way, I in a way, people tell me it's like, I downgraded, because I went from the owl that was like, you know, like predator, I went down like the hens, so they're like, Oh, you still like birds and like, supposedly, but, yeah, I guess. Um, what aspects of teaching do you find particularly rewarding? And then on the flip side, which one are there any aspects of teaching that you find particularly challenging?
+
+Interviewee  3:41  
+Um, one thing, I particularly like that's rewarding that I always think about is when students get that aha moment, when they get that realization about something, yeah, okay, so all students, they have the, you know, they have the progressive building, and they slowly gain knowledge and stuff like that. Great. In those cases, I feel like I'm just dumping knowledge into them, but when they really, like, can put pieces together all of a sudden about two topics and like, make a realization about what this actually means and stuff like that. That's one of the My happiest moments, is when students are making those kind of realizations and stuff like that. So I have been changing my intro class a little bit around that, instead of actually trying to teach them what they should know, I've been just giving them problems, and I have to figure out what the code does just by reading code they've never seen before, like reading for loops that they've never seen before and trying to figure out what it does. And then they can answer the question, the computer will automatically give them a response whether that was correct or not, give them a hint about how it might go differently next time, and then they have to try randomly generated problems more until they get how that problem is working. And then that makes them able to make the realization on their own what it's doing or what it's not doing and stuff like that, as opposed to just saying this is what a for loop is.
+
+Researcher  5:00  
+Gotcha so moving away from the textbook and more from like, more practical, yeah, so I
+
+Interviewee  5:04  
+actually made this tool. I didn't realize this, this, this interview was gonna be on a tool that you're trying to make. I actually this tool that I based it off of another tool I saw, but expanded it quite a bit, where it just gives the students problems over and over again that are increasing in difficulty as they and adding new topics as they, as they complete them. But it basically gives them feedback, but it doesn't give them any instructions, like it doesn't tell them what trim means. They have to figure out what trim means. It gives them a bunch of possible answers, and they have to figure out, oh, that must have been this one, so forth. And then, you know, eventually gets hard enough where it doesn't give them possible answers. It just gives it just gives them a blank box that they have to type in what the answer should be and stuff like that. And it's broken on individual topics. So I say like, oh, today we're covering strings. So make sure first do the string topics. I only started doing that last semester. The downside of it was, as you were talking about, is getting feedback about where the students are at. So I actually had students working on it last semester in a different class, and they recruit a whole back end server that records all students progress, because at the point I just made a front end program that they just this played with, and I never got any, I never got the feedback. But now it records progress. It shows what problems students are struggling with, what's problem students are doing really easy with, which students are struggling more than other students, and stuff like this. And I can get eyes and structure. Cannot understand where students are. I haven't used the tool yet because it's only been one week. We haven't done any programming yet, but I'm hopeful that this semester I'll actually get some of that, that feedback about how individuals and the group are performing Awesome?
+
+Researcher  6:46  
+Yeah, no, I'd say at University of Delaware, we have something similar. We're using block pi, so it's like, it's like an like an ID, so they have, if they code in this IDE, then we can track, like, their coding progress. Gotcha. Yeah, yeah, yeah, yeah, it's like open source block dash pi, yeah, I think so. Block pi network, ah, let me see. Let me see what the GitHub was.
+
+See, yep, there's a block pi, dash edu, there's, there's that them, that's like, one of them. There's, like, many, because there's also block, oh, pie. I was sorry, like Python, yeah, yeah.
+
+Interviewee  7:33  
+I was thinking pi, as in, like, Raspberry Pi.
+
+Researcher  7:35  
+Oh, no, that's the system that we use. But then, so there may be some similarities, actually, then, well, there's like a in the like second part of this, then we'll kind of like touch on it a bit more, okay, actually, but yeah. And then, I guess you mentioned about the challenging part
+
+Interviewee  7:54  
+already, right? So, I mean, the most challenging part is confirming the students are actually learning what they need to learn. Especially in the age of AI. How do I make a problem tough enough that AI can't do it right away, but they're still learning something, and they don't just get annoyed by it because it's too difficult and stuff like this class. So that is definitely a challenge, an annoying I wish everyone did perfectly. All the grading was easy, right?
+
+Researcher  8:28  
+Because it's when the problem when they it's not right now I have to look at it, yeah. So, yeah, I guess. Can you describe a time when you thought a student needed help, and then how did you intervene?
+
+Interviewee  8:43  
+Plenty of times students need help.
+
+I mean, I prefer students who actually come and ask questions, but I've also had students who don't come and ask questions who need that intervention. And I have worked with them, I usually try to find out what because this is intro, my intro class has a lot of non majors in it. So, you know, I try to find out what their actual interest is. I try to find ways to make topics relate to what their fields are. So last semester, for example, there was a student who struggled that I find struggled that I finally pulled away from everything and started talking to him. He was a business major, and I was gonna start able to describe things in terms like business terms like functions are like, just different people working. And then, like, you have a manager who calls multiple functions, and those are the multiple people working under that manager, and then there's another one above him. And like, he actually started getting how functions were. Functions work, because thinking about it in the business terms and stuff like that. Of course, I can't do that in the classroom because everyone's different majors, everyone's got different backgrounds, but if more people came and talk to me, then I would more to their own backgrounds and stuff like that. Uh, but that's what I try to do, is make it something that they've already learned in some other way, and try to try to relate to that,
+
+Researcher  10:09  
+right, like, finding, like, common language, or like, yeah, we're just like, okay, they'll understand if I say it this way with this example. And then so then I guess you mentioned, you touched on a little bit, but it's like, can you describe how you typically identify when a student needs extra help, and then how do you usually provide support to these students?
+
+Interviewee  10:28  
+Okay, so I know it's bad to say this, but there are some students I really don't want to help because, I mean, there are students who only show up one out of four classes. There are students who have only turned in one out of 10 homework assignments. I mean, they're, they've never asked a question, they've never responded to any of my emails, you know, things like this. So there's that group of students. I'm not going to be referring to that group of students. I'm going to refer to the group of students who is the students who are trying, they are trying to show up. They are doing assignments, but they're doing poorly. They're not understanding things well and stuff like that, but they they're at least trying. I know there's there's other things to do for the other ones too. I'm not saying I'm abandoning them completely, but I want to talk about the people who are trying already, but are just not gathering them. How do you identify them? So as of like, two years ago, at this point we started, I started using something called mastery quizzes instead of exams or homework assignments and stuff like this. Mastery quizzes are something that's becoming a little bit more popular nowadays. A few other people on our campus who do this, I've heard from students that they've done this in high school a bunch where the quiz is graded all or nothing. So they either prove mastery on a topic or they get nothing. But the caveat is, they're allowed to retake similar quizzes any number of times. Oh, okay. They're allowed to take it home. They're allowed to study it. They're allowed to improve their understanding of it and then come back and say, I'm gonna I'm ready to prove my mastery. To prove my mastery on this topic. Give me another quiz. And so I have six topics, and that is like functions, strings, lists, loops, conditionals, dictionaries. I'll read the exact six topics, but I have to prove mastering all six topics. I mean, even if they don't, they can still almost pass the class. If they get like, one or two, they're gonna get a bad grade. But anyways, it helps me track how students are doing, and then I also track how many attempts they've taken on each one. So yeah, Peter is the one student who's only attempted it once and got it wrong. And okay, but there's also a student who's taken it eight times and still struggling. So I go and then i Next they have to physically come to me for the quiz. So next time they come to me for the quiz, I go over them. I go with them, over, you know, through the quiz, and I say, Okay, what do you go through this problem with me? What are you thinking and stuff like that. So I've been using these quizzes as a way to force the students to talk with me, and also monitor how many times they're trying and putting effort into understanding a problem but still not getting it.
+
+Researcher  13:17  
+So this is all like, man, is like manual kind of so it's like you, they come to you.
+
+Interviewee  13:21  
+It's on paper and pencil. I was doing it digitally before AI stuff, but with AI and then the questions were all like us, copy them and answer all of them. So now it's on paper and pencil. But I do have a grader who is able to and the answer is, I actually, they're all just randomly generated. They're not even hard for me to grade, because I just have a spreadsheet that says, okay, quiz number 123, has these answers, and so I just look at the answer sheet enter. Quiz just has a different set of answers generated based on similar what.
+
+Researcher  13:56  
+So you've automated. It kind of on your own system. I've
+
+Interviewee  13:58  
+automated, and there's still some manual stuff, because I have to, like, check off the problems, but, but it is as automated as I can make a physical quiz, gotcha, because the generation of it is automated, the answering of it is all the answers are exact answers. There's no leeway, because they're all just like, what does this code output or things like that.
+
+Researcher  14:21  
+Got you how many guys, how many versions of the quiz Do you have, the mastery quiz? Do you have this?
+
+Interviewee  14:27  
+So they're all randomly. So I just have, I made templates. So like, I basically say, like, this code might have this kind of loop or this kind of loop, and then, like, substitute variable names, substitute the range on the loop, and then have it print out, right? And so I just have my code, just generates 150 copies, but they're all different. They all look similar and like but it's not they're different enough that, like if you try to just memorize answers, you're there's no way you can memorize answers, because the numbers are gonna be different every time. But I keep on generating them, and sometimes do turn out to be harder than others. But. So they can just take it again if they really want to, if it really is it really is too hard. Every so often there's been an impossible problem. It's supposed to catch them, it's supposed to run the code and see if it actually works. But every so often, there's three problems I've gotten through that legitimately not actually legit. Syntax error in them or something. But for the most part, I've mostly fixed up, fixed up most of those things, though. Yeah, so a mostly automated, but still somewhat manual, still a manual component to it to get feedback. The manual component is actually, I think, helpful for me, because then, if they want to take the quiz again, they have to come to my office hours, they have to ask for it, and I can choose not to give it to them at that moment before they tell me what they did to study. What are they struggling with? How they're thinking about this problem and so forth. So it does give me a moment to actually talk with them I've had in the long time past. Now, I used to have so much problem getting people into my office just to ask questions, especially in the introductory classes, upper level class, not so much, but introductory classes, because a lot of them just, you know, they were taking it for a gen ed or whatever. But now this is actually forcing them to engage with me. And it's actually kind of nice. I mean, it's kind of a little bit mean to them too, but because they have to come here, they have a fine time. But like, they should be finding time if
+
+Researcher  16:26  
+they're struggling, yeah. I mean, also, if you if you really want the grade, then yeah.
+
+Interviewee  16:30  
+I mean, I give them a chance to but the first time I take it, they take it in class. So it's not like they if they get it right the first time, then they never had to show up to my office hours. But that's the student who also doesn't really need to interact with me anyways.
+
+Researcher  16:41  
+So, yeah. So, if you're, if you're trying to find the struggling the more, like the students that need more support, then yeah, so, and you said, like, right, like, before they take when they asked for the mastery quiz, then you asked them, like, what they've done to prepare? Like, yeah,
+
+Interviewee  16:56  
+yes, gotcha. What have you? What have you tried since last time? What do you what are you getting stuck on? Have you done? So, the online tool that I made, the snake bites, has all the same problems, and it generates them exactly the same way. So they can actually play the same problems over and over again, the same randomly generated problems. But like, you know, there's still enough variation that they're never gonna memorize it. But like, they can play those problems over and over again. So I'm like, how do you try the snake bites? One, what question were you struggling on? What? What was the thing that you thought you were running into always that was a problem? Or now are you doing better stuff like that? Of course, in the future, I'll be able to look up their record this I started this semester, I'll be able to look up their record and say you actually did not try this question on, on the on the online tool. You should go tried a few times.
+
+Researcher  17:42  
+Got you? Oh, that'll be that'll be interesting.
+
+Interviewee  17:46  
+So I'm excited for the fact that I had students make this reportable tool for me to get more feedback about how they're studying behind the scenes. So not just how many times have they tried the quiz, but how many times have they actually done it at home and tried and
+
+Researcher  18:00  
+stuff like that. Gotcha cool. I guess moving forward, then, I guess this kind of, How challenging is it to determine when a student requires additional support, and then do you think the class size affects this difficulty?
+
+Interviewee  18:15  
+I definitely, I mean, so as we talked about, my classes are 20 to 30 students, they're never going to be. I do think that if you suddenly, if I suddenly went up to 100 students, it would be much more difficult to do any of this. I would have to get a proctor. I wouldn't be able to hand out 100 quizzes times six for all the makeups that would have to happen, or whatever. So like, I would start losing some of that personal touch. I do think the personal touch does help quite a bit for those quizzes. It's possible that now that I'm getting reporting about their studying habits, that will overcome some of it, because that's all been digital, I can, you know, quickly see a spreadsheet or whatever, so that might help. But yes, I do think that the reason this does work for me is because I only ever have most across all sections in a semester, only 40 students,
+
+Researcher  19:08  
+right? So the scalability, it might
+
+Interviewee  19:10  
+scalability is limited to, yeah, not less than 100 I would say, for one person got you definitely went into scaling issues.
+
+Researcher  19:25  
+And I guess, let's see, what are some signs or behaviors and students that help you identify that they need help, I guess, besides, like, like,
+
+Interviewee  19:35  
+there's, they're, like, constantly trying to retake quizzes but still not passing. That's one aspect. But I do a lot of they have a lot of group work too, where they all have to, like contribute in the group work. And it becomes obvious when I'm walking around the classroom, who is contributing and who is not, who's just passively, just learn, thinking they're learning by listening, but they're not actually doing anything, so they're actually not learning. So I do monitor that. I do know. So that uses a technique. Called POGIL, P, O, G, I, L, I've modified it a bit, but it is a popular technique, and people you do use it in classrooms of 100 to 200 students. It gets modified a bit when you're in that scale. But people do use that and it's it's this way of getting groups of students who have different backgrounds and different abilities together and trying to work together. And I can mostly tell when students disengage and stuff like that. But like they each have some responsibility to overall group project that they're working on. So it can become obvious and we do those. I did my first one yesterday in intro as the first week of classes. So we were starting to that already. I'm starting to figure out who might be needing more pushing and stuff like that. Who do I need to gently pick on to make sure that they're staying with the material and stuff like that and not falling behind? So, you know, in my class of 20 this semester, I already have two or three people in mind that I need to watch out for. Gotcha. There's also, I also have two or three people in mind when I'm like, Okay, I'm never gonna have to deal with them, because they're just doing excellent. So Gotcha.
+
+Researcher  21:13  
+So through like kind of group this the pogo like group work that's seeing how they interact with each other as well, yeah, and how they interact with the group
+
+Interviewee  21:21  
+and what they're contributing to the group. Yeah, contributed to
+
+Researcher  21:24  
+the group. Yeah. Gotcha. The next bit of this is like, did you ever feel uncertain about providing extra support? So as in, like you weren't sure if the student needed it or not?
+
+Interviewee  21:34  
+There have been situations where I thought someone needed, like, extra support academically, and then it turned out to be a completely unrelated issue, like they were having a major issue with their like, roommate, or they had just been sick or and they were, like, really, definitely sick for like, two weeks, and they didn't tell me, but, like, I thought they were just, like, dropping off the face of the earth, really struggling and giving up or whatever. But it turned out to be completely so I've not approached some of those students and then they're like, Oh, I think it will be fine. I just need to get over issue X that has nothing to do with this class. So like, I have reached out to students who I thought were struggling, but not because of the reason I thought they were struggling, right? So I have reached out to some of those students. There have been students who have tricked me in the other way, I guess, because, like, they were doing excellent through the first six weeks of the class, and then we got to a certain topic that they really struggled with. But like, by that point, I already in my had in my head they were a fine students, or whatever. And then, like, they started tanking. But they actually really needed help at that point, because that topic was really hard for them. So there have been situations where the opposite has happened, and that's probably the one I really need to detect. We work on making sure as soon as they have that inflection point where it goes from being doing great to doing poorly, I do something to catch them. Gotcha so it's like,
+
+Researcher  23:02  
+usually you can detect when it's like, oh, something's a little off. But then it's like, he's not sure if it's like, sometimes nothing, and sometimes it's actually something, yeah. I mean,
+
+Interviewee  23:10  
+maybe you're just, you know, going through a tough time in their life or whatever. But sometimes it's Oh, they actually just don't understand any of this material anymore. Something happens. Everything? Scouts, yeah, everything is, like, I listen to some other faculty members talk about how they structure their classes and how, like, all the weeks are independent of, like, there is nothing I do that is independent of any other week. Like, it is so intertwined, right, right? It's really hard making quizzes for just conditionals that doesn't also test on functions or strings or something else like this. It's really hard to make a quiz that always targets one topic. Yeah.
+
+Researcher  23:53  
+Okay. The next bit, I think we answered it already because it was saying, like, Do you use any tools or like, Canvas features to identify students in need? So I know you mentioned you
+
+Interviewee  24:00  
+have, I don't really use, I mean, I use Canvas to do all the grading and stuff like that. And I do look for people who are poor grades, because sometimes it's across multiple things that you see it. But for the most part, I'm using my own tools outside of Canvas to do stuff. I mainly use Canvas to
+
+Researcher  24:18  
+deliver grades. Okay, so more like Content Manager, just passively update it for Yeah, I have some stuff posted there, but, like, all
+
+Interviewee  24:25  
+of our group activities are actually done through shared Google Docs. But I made a tool that, like, shares it with each of the groups automatically and stuff like this. So most of it is my tooling and not Gotcha.
+
+Researcher  24:35  
+So most of it's your, like, you said Snake, snake bites and all. That's why I call my that's like, call my own product, yeah? Okay, we have block five, so as long as it also has snakes as their logo as well. Yeah? Well, because it's Python, yeah,
+
+Interviewee  24:49  
+the idea was, like, a bite at a time, but also bite, as in computer science, because there's small little problems
+
+Researcher  24:54  
+that you do got, you know, we have something similar. It's, um, I think the textbook is Python Baker. Because you're supposed to, like, learn different recipes and then eventually Gotcha. So I would say it's there's a similar analogy. Yeah, I guess, if you had to pick one or two things, what is the big what are the biggest challenges you face as a CS one instructor when identifying students in need?
+
+Interviewee  25:18  
+Um, I guess, I guess kind of, as we discussed, is when they're needed in my situation versus when they when they need somebody else to be helping them, like, like, like, some sort of therapy, or not necessarily therapy, but like accommodations of some sort, like, outside the realm of what I'm exactly teaching, or when they need help from my teaching. Some students I have actually, I mean, some students kind of like, skate by for certain parts because they're using too much AI tools. When I told them, You should probably not at this point in the class, we'll use them later. And then when it gets to points where the AI tools can no longer do things. They can't do anything at all because they've relied on them too much, and like I can't those are hard to detect, because, you know, they're they're doing something behind the scenes that makes it look like they're doing fine, but they themselves are not actually doing fine. Those are a little bit harder, I guess, to really to determine. So I don't know. I do think that the reporting tool I will have that's part of the snake bites, will hopefully be pretty good, because I'll be those. It's useless to use AI in them, because there's such sort problems, and there's so many of them that you would be spending all your time going back and forth between the prompt and that. I could use more information how they're doing immediately, because I'll have that information more readily, as opposed to wait until the first quiz and see if they pass the first quiz or not, which only happens like four or five weeks in. So it's a little more reactive master like the first one is, have you mastered this particular topic? I can't. They can't have mastered a topic in two weeks. There's no way. So the first one that happens several weeks in and so I don't actually detect that till much later this semester. I'm hoping that the having reporting continuously about how they're studying habits are ahead of time will actually help with that. Maybe we'll see. Gotcha.
+
+Researcher  27:26  
+And then next section of this is about concern, slash features for an instructor tool. So the first is more of a yes or no question, but says, are you comfortable working with the learning management system? So like Canvas or Blackboard that your institution asks you to use?
+
+Interviewee  27:39  
+Yeah, I like working with Canvas. My colleague has been working more with their API to, like, have things automatically enter grades and upload things to the canvas, so they can write things down in Markdown and then have them automatically published on Canvas. So less interaction with the canvas UI, and more with the API, which we're a computer scientist, right? But I'm perfectly comfortable with it. I mean, I do think that I just this is like three months ago, I was at CCSE conference in Philadelphia,
+
+Researcher  28:21  
+live near Philadelphia. That's why I actually still live in PA, even though I'm that's I even know so
+
+Interviewee  28:28  
+ccsc is like mini 60. It was like really small scale SIG Z, and there are some of them presenting on people's reactions to how many buttons you have to press in Canvas to get one thing done. I totally agree with that. Is that, like, the number of steps I have to go through to do something simple is sometimes absurd.
+
+Researcher  28:52  
+Got you like, is it like, for example, like, if you're trying to find how to edit something, it's like, buried within Yeah,
+
+Interviewee  28:59  
+or like, so this is actually relevant to what we're talking about. Is like seeing how people have done on certain canvas. Quizzes like, Yes, I can get their overall grade pretty easily. Yes, I can get the overall percentages of what problems each person did, okay. But like, anything in between those two is actually really difficult to get information about. Like, are these students performing worse on the first questions, but not the last questions? Like, like other questions? I wish I could ask more of those easily, without exporting into Excel and doing a bunch of my analysis on my own. So there's they're going to tell you just how that one student is doing just with a single number. Or they tell you how each problem is being done as a percentage, but once again, a single number per question. There's no There's no like middle part without exporting and going to another tool. Gotcha.
+
+Researcher  29:51  
+So either like too much detail or too little detail?
+
+Interviewee  29:55  
+Well, it's just details for different things, right? One is on question by question basis. One is a student by. Student basis, but there's no questions by student real information unless you export and then analyze it yourself.
+
+Researcher  30:07  
+Got you maybe you're trying to figure out an individual student, then that's not
+
+Interviewee  30:10  
+Yeah, it's not as easy, yeah, at least in my opinion. Oh, one little frustration I've asked, I have a canvas.
+
+Researcher  30:19  
+Um, I guess the next bit was like, Would you feel comfortable using an LMS plugin to process student data, to provide you with insights about your students?
+
+Interviewee  30:27  
+Yes, I've actually looked into writing my own plugins, but never made it very far. They seem a little daunting. But yes, I would love to be able to have some sort of analysis that tells me students are struggling on these topics, but not these topics, or individuals starting on these topics. What should they focus on? Or who's struggling on what, and stuff like that. That would be great.
+
+Researcher  30:53  
+And do you think CS one instructors would benefit from having a tool that could identify students in need, or could help you identify Yeah,
+
+Interviewee  31:02  
+grade, but you know other information, yeah, that'd be great.
+
+Researcher  31:07  
+Then I guess, what kinds of tools do you think CS one instructors identify students in need would benefit from? So you can be as like, abstract as you want, because it's kind of just like, what kinds of tools are like? So obviously,
+
+Interviewee  31:19  
+I've created a bunch of my own tools that I thought are needed. There are some on my I want list, but I haven't made yet, or haven't seen made yet. But I actually noticed one was already in block by that has the trace so that it'll actually show you the trace of going through the program. Yeah, and I think that is incredibly useful. There's so many students who just cannot read a single line of code at a time and update the variables what that line does, and that is like a critical skill, because programs run one line at a time, at least this level. So like that is something I've wanted, something that's an interactive tracing tool, that's not just a debugger, but like, is leading them through what's going on at each step.
+
+Researcher  32:10  
+Got you, yeah, there's another tool that it's like, it's like, kind of built into our system, called pedal. That one's more like a feedback system. I think it's also so it's like, you can, um, instructors can write scripts. So it's like, for this particular code state, then it can tell, like, Oh, you didn't use this. You use the print statement instead of the debugger, or you used, um, used the wrong type of variable, wrong data type. So it'll like, contextually, like, give feedback as well.
+
+Interviewee  32:35  
+So that's pretty nice. How is that? Does that work internally? I'm curious.
+
+Researcher  32:39  
+Um, that is a question for one of the people. But, um, yeah, they not sure exactly in turn. I think there's something that runs like when you compile, then I think pedal also runs it line by line like, kind of like debugger. And then I think that's what triggers it, because it's just like, it'll check like, Oh, if you have a print statement in when it first, like, tracing file and you're supposed to use debugger, then it'll, like, throw it also. It also prioritizes which, which errors, I guess, first. So if you have a syntax error, that will be the first one, yeah, obviously have, like, only one you should fix first, yeah? Versus if you have runtime error or it's just not the right output, then it's like, once you get it working, then we'll talk about the actual thing. Yeah, let's see kind of touching it was it? What kind of characteristic or feature should a CS this like tool have, and then provide as much detail as possible I
+
+Interviewee  33:34  
+want to interact with. Like, what I've imagined is the tracing tool, but like, make them predict what the what the next line will do to the trace table, or how it will change all the variables. And then they get to say step next. And then does it? Does their prediction match? And then if it doesn't match, it tries to explain why, or whatever. So a tool that allows them to make the prediction for each line, run the line of code and see if their prediction matches, and then analyze why or why not match.
+
+Researcher  34:04  
+That would be more like student facing, right?
+
+Interviewee  34:07  
+Like completely student facing, yes. This is a tool for a struggling student who is struggling to understand what certain things are doing in the programming language, not for the not for the instructor, to identify who is struggling, but once you know who's struggling a tool to have them play with over and over again until they can understand what each like conceptual thing is,
+
+Researcher  34:29  
+got you then maybe the data at the end can save it and then
+
+Interviewee  34:33  
+try how many times, What? What? What are their what are the steps that people most make, the mistakes on which, which? Which variable do they get to update or update incorrectly? And it's like, that's, yeah, there's a lot of data that could be extracted from it then reported
+
+Researcher  34:46  
+back as well. So I see, okay. So yeah, okay. So then guess a tool that, like, connects to whatever the student is seeing, gives maybe instructors some like, like numb, like numerical. At some
+
+Interviewee  34:57  
+point the student has to say what they think will happen. Otherwise you're not going to get a report about what they think. You're going to look at the report about what they went, what, what buttons they clicked. But that might necessarily tell you, Oh, they thought this is going to be a two, but it actually ended up being a three, right? You need, at some point, have to know when they made a mistake. And sometimes they make mistakes just because it's a mental error or whatever. But you know, if there's one line, they always make a mistake on. Like every students is making mistakes on frequently. Then it's not just mental mistakes, it's it's a misunderstanding of that line or whatever.
+
+Researcher  35:28  
+So, right? And then, would you use such a tool? Personally? I guess these like kinds of CS, one instructor tools.
+
+Interviewee  35:35  
+We've been like, imagine. Yeah. So I've been working on making these tools. I want to make more tools in the future. Yes, I will use more tools if they already exist. I guess one other tool that I haven't brought up in all of this is it already partially exists, but I don't perfectly like the current version of it. It takes a student's submitted homework assignments and can generate multiple choice questions on it to see if they're understanding their own code. All right. So, like, ask questions like, What is the variable x doing online? 92 like, what is it being used for? Then it gives, like, four possible choices, or something like this. And so I, I they can submit homework that they wrote with AI, but to understand what it's doing, because you have to be able to answer all these questions about why the computer chose to use a variable there, or why using this variable. What is that you variable use, being used for stuff like that. So it only has like six types of questions. I want it to be more expansive, but I haven't gotten around to also change that. That was made by someone else. It's called Q, L, C, pi, questions for learners of code
+
+Researcher  36:55  
+in Python. I see okay, so it's like, the reason you don't like is because it's not, um, it doesn't cover enough. It doesn't
+
+Interviewee  37:02  
+cover enough, yeah, but I like the concept. I love the concept of quizzing students on their own thing, and that way you can see, are they understanding what they actually produced, or they just magically get to an answer that they don't understand. Gotcha.
+
+Researcher  37:17  
+Um, like saving these, like, web pages. I guess the before we go to the after this, we'll show you a prototype of what we currently have. But then, like, last question here is, like, how would you want to make sense of your data about students? So, like, here we're thinking about data visualization. So are there any kinds of graphs or things you can think of, or things you'd like, information you'd like to see presented. That is a great question,
+
+Interviewee  37:44  
+and I don't have an answer. That's okay. I I would have to see some examples and then say, Oh, I like this. One actually tells me more than that one does. But like a priori, I don't know if I know how I want to display gosh, I would want to interact with it. I know that in some cases I've interacted with things I like, but most cases I've not liked what I've interacted with.
+
+Researcher  38:10  
+So that's totally fine, because honestly, that leads to our second part of this, which is where we show you the prototype of what we have so far. And then here's where we ask you to say what you like and also what you don't like. So it helps give us direction. I'm going to share my screen, and then I'm going to move the zoom around, but so let me know when it's when it pops up for you. Block right now, like they showed up. Okay, okay, awesome. And then I'm going to walk you through three kind of like action slash tasks that we're thinking of having, and then just let me know your first impressions, or if you have any questions as well on explaining any of the early prototypes that we have here. So the first is called viewing a visualization from one class section. So after you log into Canvas as an instructor, you're met with this following page showing data visualizations of student behavior metrics for one of your class sections. So you can, like, change which section you if you have multiple sections here, and then the top left is showing potentially struggling students, and it shows also the reasons for why they might be a lot. Yeah. So these would be with like, right now we have like behavior metrics based on So, as we said, like for block pi, it records when students are like, typing on their IDE and stuff. So, for example, low effort maybe, like, maybe they're not submitting as much as other students versus like, high syntax error would be like the ratio between the number of compiles that didn't compile over the total number of like compile attempts. So it'd be like, something like something like that. Yeah. Then the top right shows the histogram of the average scores across weeks, or, I guess, average assignments right now. And the histogram can show other metrics using this drop down here. Then the left bottom is showing this is just comparing two different metrics on a dot plot. Each of the dots is a student. So this is right now saying syntax errors on the x axis and then unit test ratio on the Y axis. So for example, if you're over here, then you're probably doing pretty well, because you're getting, you have some syntax errors, but you've, they've probably figured it out, and now they have a high like unit test score, versus if you're over here, this might be, this might be worse, because then that means you have a lot of syntax errors and you're not doing too well enough.
+
+Interviewee  40:25  
+Yeah. Are you passing any tests if you got syntax errors?
+
+Researcher  40:29  
+But yeah, this is true. Yeah, they're might not. So yeah. And then the last quadrant here is like a submission timeline for the latest assignments. So right now we're showing the latest three, and then it's showing like days before the due date. So this is why it's counting down, and then as it gets this is not actually wanted
+
+Interviewee  40:49  
+to analyze before. So the way our school has submissions work, we have timestamps of whenever they submit anything to they don't submit through Canvas, they submit through another service. They do it through they got to get push an assignment to a repo, but we have all the timestamps and when they get push, and if that push was did pass tests or whatever, so I wanted to know this as well. I never actually extracted the data.
+
+Researcher  41:18  
+And then the bottom, sorry, I'm like, lashfield here is like, oh, there's a full class roster. So this is, like, all the students, and then they have some metrics about them. So that's, that's the first that's your, I guess, instructor landing page. So, yeah, I guess thoughts, feelings, how you record
+
+Interviewee  41:35  
+total amount of time coding, because I know you have your own IDE but what if they just have the web page open, but not
+
+Researcher  41:41  
+actually doing anything. Right now, we're looking at like key log. So if they like type, then we count that. So we don't count durations. So we look, we have the timestamps when they start typing. So it's like, right now is excluding time, excluding gaps that are longer than 15 that are like longer than 15 minutes. So it's like, if they type and then they stop, then they stop, and they type and they stop, then we still, we count. We still, we we count.
+
+Interviewee  42:07  
+But then, like, because we use VS code, and I have rather people, plugins for similar things to that, that will, like, record your activity over time and stuff like that. So I do wonder if your system? Could we, can people ease into it? Can they can connect with other tools that they might already be using to get some of the same metrics extracted?
+
+Researcher  42:34  
+That's, that's a good question, that we could add that to our future. The possible features right now, it's with block pi, because we have, like, I know you have all, you have all control over block pie, yeah, because we also let's, I think there's for our curriculum. There's like, a pre test too. So if they actually pass the pre test, then they can waive the class, so that way. So I think it's like, most of the so most of this, so all the students here in our data have not passed the pre test. So they might not know. They might not have used VS code yet, I guess, yeah,
+
+Interviewee  43:06  
+second week, just to get them started. But, yeah, I understand why you would do something with block pi or something like that. It's it's nice. I like a lot of the features of it, so I was playing around with it.
+
+Researcher  43:19  
+Yeah, I guess is there anything you don't like about this, or things that are unclear, that you wish were like, made more sense, or how you would change them?
+
+Interviewee  43:27  
+So, I mean, just some, some basic things, is like with the metric comparison, right? So if you look at the two drop downs, that's like 25 different combinations of things, or maybe not.
+
+Researcher  43:42  
+They can be because, yeah, right now
+
+Interviewee  43:45  
+I was, I was going off of class wide metrics being like five, also had five or whatever. I mean,
+
+Researcher  43:53  
+they could, they probably would, I guess, because it's like, right now we have some metrics here, but then we're thinking maybe, like, if people wanted to put their own like, it'd be able to, like, make everything like, script, the bowl, stuff like that.
+
+Interviewee  44:05  
+No, I would say like, Aristotle favorites, like, so like, I always look at these three. I don't want to have to select double, select two drop downs. I don't want to click one button, right? So it seems mostly like tiny things. I'm glad that you put the like the this, like the student records the bottom, because that's already mostly available through like Canvas or whatever. I mean, I guess not the unit test ratio. I guess those are all new metrics. They're not canvas, except for current grade. You did highlight the lowest and yeah, whatever made sense for lowest and highest. Yeah. So no, I think this is overall good. I do reiterate that I wanted to, I wish it could be pluggable, and then I could, I could submit my own metrics into it. From, wow,
+
+Researcher  44:56  
+yeah, no, I guess that we can see what we'll add, we'll like. We'll keep that in mind, because we're trying to make it as accessible as possible. Because right now, it's like we're thinking as a canvas plugin. But if there's a way to like that way you Canvas
+
+Interviewee  45:09  
+plugin, you can still have an API endpoint elsewhere, right, that can accept submitting a metric for this student. Yeah?
+
+Researcher  45:18  
+That we can definitely see, yeah. Because right now. Place that right now. This is a visual prototype, so we haven't worked on the back end. So yeah, so, but definitely we'll keep that in mind, though. Yeah. And then the next bit here is viewing visualizations for a particular student. So clicking on either the dot representing students, or you click on their name here, then this will take you to a page that's just for that student. So here there's some like, not demographic, but like, like, registration data, yeah. So like, for example, if, since your class has both majors and non majors, you could see if they were a CS major or not, you could see maybe their honors or not. And then this would be like an intervention log, if you want to keep track of the number of times you met with them, and also like why you're meeting with them, that's also useful.
+
+Interviewee  46:07  
+Yeah, that definitely helps with scalability, because I do know there's a big difference when I'm teaching only one section that has 20 students, versus two sections with a total of 40 students, keeping track of who I've followed up with at 40 students is way harder than with 20, right?
+
+Researcher  46:23  
+Because they all come to the year one office hour, and it's just, oh, I'm here for this. It's like, which one? Um, yeah. And then the bottom part of this web page here is um, showing, like, different metrics. So here you'd be able to, like, click on it and it would update this timeline here at the bottom. So right now, this is selected for average time spent on on assignments, so you can see them compared to the class average. And then if you were to theoretically click like this, that this other one right, then it will show you the scores. Okay, same thing, yeah. This is nice too, yeah. And then this is just like, yeah. This is just how they performed on various assignments, yeah. So the same question about, like, thoughts, feelings, so one thing to hear.
+
+Interviewee  47:05  
+So we've got some of these metrics directly turn into the tags that are put on the student, like low effort or high syntax, area, error ratio and stuff like this, right? Yes. So it might be nice to have the thresholds for those highlighted on these plots, okay? So you can see, are they right at the threshold? Are they way off the threshold? Are they way below the threshold? Like, having that that Mark might
+
+Researcher  47:31  
+be useful too, like on the timeline, like, like a horizontal line, it's like, okay, this is like, yeah, instructor sets it. Or something like, Oh, this is what you called a like,
+
+Interviewee  47:41  
+but just being able to see that visually with everything else, I
+
+Researcher  47:44  
+don't know, yeah, that makes sense. Because, like, maybe they put more effort in one assignment. And you can see it like maybe as a semester continues the effort, it's dropping down.
+
+Interviewee  47:53  
+Yeah, there was a sudden drop down. And then, like, you talk with them, and you find out that topic just made no sense to them. And then, since everything builds off each other, then they're really struggling after that point. Like, yeah, but like, yeah, just having extra, a few extra lines for that are used internally to make those tags also highlighted here.
+
+Researcher  48:16  
+Gotcha cool? Anything else, any is,
+
+Interviewee  48:18  
+this is So one question I have is, this is average time spent per assignment? Is this on that? That's the time spent on that one assignment, right? Because the height of the
+
+Researcher  48:28  
+dot, yeah, like the Yeah, like the total, yeah, like, the total time they spent on this. It's kind of explaining. How did we get this average is from averaging these sums of, oh, okay,
+
+Interviewee  48:41  
+those dots are average. Okay, gotcha. And then I mean,
+
+dynamics wise, you know, I like trend lines too. If someone's got a trend line going down or a trend line going up, I mean, yes, you can visually see that, but maybe that's something else to add there. But maybe not, I don't know. You also want to avoid clutter.
+
+Researcher  49:07  
+When you say like a trend line, do you mean like, just like a linear line, like, kind of showing line of best fit kind of thing?
+
+Interviewee  49:15  
+And maybe only over the last three is, I don't know. But then this starts getting way too many options. And then you start getting you user fatigue,
+
+Researcher  49:25  
+I mean, something, we'll add it to our like, list of consideration. Maybe you can have to have a toggle as well. Like, good toggle. Like, how much do you want to see as well? Yeah, and then I guess to get there's like, so, like, the last thing here is more of a more of an imaginative thing again. So there's a feature we're considering, and it's about comparing visualizations between two class sections. So I'm going to go back to the original class dashboard, because it'll be we're thinking maybe it'll be like a similar layout, because if they recognize this one already, then this should be okay, but it's like. Com on a separate page that allows comparing different classes of students, like an overlay. So for example, the averages of the current Class A assignment grades could be from like last semester, or like another section, and
+
+Interviewee  50:15  
+do this in a time wise because maybe I changed to the assignments, and I want to see or I changed how I'm teaching one of the topics, and I want to see if that made if that made a difference. So not just sections within the same semester, right? They're they're across different semesters too, right?
+
+Researcher  50:31  
+Right now we wrote, like, just another section, so it could be from last semester, or it could be from another section that's concurrently happening.
+
+Interviewee  50:38  
+Yeah, I would want to be able to compare across time, not just the same semester.
+
+Researcher  50:44  
+Got you so it's like, as long as there's an option, so it's like, if we're just, like,
+
+Interviewee  50:48  
+comparing two drop down includes historic semesters of classes or sections of classes, then that's that's great. Gotcha. Gotcha because, you know, I changed assignment, and I want to see how that had an impact.
+
+Researcher  51:01  
+Gotcha says like, seeing like, if I added an extra assignment on this topic, did it with the like later.
+
+Interviewee  51:08  
+People who try to quiz that came after that then do a lot, you know, need lot less iterations on the quiz or whatever,
+
+Researcher  51:16  
+not shit. Yeah, I guess any it says it's like, any likes or dislikes thing about the about this feature as No,
+
+Interviewee  51:25  
+I like it. It's definitely good. When are you thinking about going live? I guess
+
+Researcher  51:34  
+we hope to soon. Hope not well, not soon. I guess this is so right now we're currently, I mean, I guess also, this is our that was the last question I had, so I wasn't saying Any other thoughts. Other thoughts or feelings about this current program. That's good. Okay, cool. So I'll stop sharing able to see data like that, so it's good. Yeah? Glad you like that's a good compliment for our team. Yeah? So I guess in terms of, like, timeline right now, we're still recruiting professors. So I guess a good question I have right now is like, Would you be willing to share the recruitment message, if I like, send it via email to you, like, Would you be able to help distribute it if you know
+
+Interviewee  52:11  
+any other Possibly, yeah. I mean, I interact with some other intro CS folks in the Lehigh Valley and in New Jersey that all go to the same conferences, teaching CS classes, choreo counselors. You should also consider going to CCSE, where you're going to get the smaller schools getting going to those places. So it's a consortium of computer science colleges. Okay, got it, and they have a conference. The Eastern one is the biggest one, and that's the one that has been in Philadelphia and other nearby places. The Northeast one is coming up soon, and that's probably just in New York State somewhere. So there's, there's also a southeast one, which is usually in one of the Carolinas, and so advertising yourself at one of these could also be a good way to do it. Cool, yeah, small schools or small ish schools. I know some of the teachers actually have 100 200 students in their classes too. So you get all variety, but they're not at the large research institutions. They're at a more focused teaching institution, they're more interested in this kind of thing and looking at that.
+
+Researcher  53:25  
+So yeah, no, I'll definitely keep that in mind. It is
+
+Interviewee  53:29  
+basically like 60 light. But every time I've gone to one, I've made great connections and talked great about pedagogy and how to get tools into the classroom and what tools we're all using and stuff like this.
+
+Researcher  53:44  
+Going to my first SIG z this year, actually. So yeah, so, and first conference ever, actually, as well. So, yeah, so I'll keep that in mind as another option, because, yeah, because, I mean, we're in Delaware, so it's not, not it's around.
+
+Interviewee  53:59  
+So it moves around every, all the time, but like the Eastern one is the biggest one. It's always somewhere in this general area, gotcha.
+
+Researcher  54:07  
+But yeah, thank you so much for that. And then I guess, do you have anything else, any other questions from your research team? No, yeah,
+
+Interviewee  54:17  
+thank you for letting me cancel the whole time. Yeah.
+
+Researcher  54:20  
+But thank you. I mean, well, that was no problem. I mean, things happened. My son got sick, so I'm glad he's feeling better than I guess he's
+
+Interviewee  54:31  
+back at school again, so that's good. Oh, daycare, I guess. Anyways, thank you for doing this, and thank you for working towards better pedagogy and data analysis tools I like.
+
+Researcher  54:42  
+So great. So yeah, thank you so much, Professor. And then, I guess have a rest of your day, and then feel free to look up block pi as well. Yeah, I was a DR Corey Bart. He's on our what's it called? He's one of the PIs on this. So he made block pi some of the view. Have questions, you can probably shoot them an email as well, but yeah, all right, thank you so much. Yeah, bye. Have a rest of your day. Have a great weekend. You too, with lots of snow. Of course, you.
+
+Transcribed by https://otter.ai

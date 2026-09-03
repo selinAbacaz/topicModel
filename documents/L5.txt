@@ -1,0 +1,688 @@
+Researcher  0:00  
+One, and then is being recorded. Okay, there we go, yeah. And then for Yeah, this research is to understand CS one instructors needs when identifying students struggle. And our aim is to eventually design a user interface to help instructors gain insights about their students. That's the Yeah. So then the first question is, you can give some context about the CS one courses that you've taught. So for example, like average age of students, what probably, what programming languages, average class size?
+
+Interviewee  0:32  
+Yeah. So average ages is tough because they're actually quite a bit of a range. I found it's not just like fresh out of high school, it seems to be a pretty wide range in terms of age. I don't have a perfect number. I don't even think I look at that data too much. I do know we teach in C+ roughly speaking, my class size is about 90 per class, and I usually have two of them, two Cs ones, and then one CS two. So roughly, my CS one students is like 180 or so a semester,
+
+Researcher  1:15  
+okay, and then, would you say, like, then for the age of students, is it like, usually, like freshmen sophomore,
+
+Interviewee  1:22  
+yeah, usually freshman sophomore, but not always. I guess I'd probably put the majority in that for sure.
+
+Researcher  1:31  
+Okay, and then do you get, do you get non majors also as well? Or does your institution have like, a non major in a major section? Or, um,
+
+Interviewee  1:41  
+I get some people that are not computer science majors, but typically they're, like, it's still required for their major.
+
+Researcher  1:48  
+And so computer science slash engineering, you would say, like,
+
+Interviewee  1:53  
+well, not necessarily, because I have, like, psychology majors and other stuff, and they're, they still have some, oh,
+
+Researcher  2:00  
+is it like, like, a Gen Ed kind of requirement?
+
+Interviewee  2:03  
+It's not a gen ed one. It's just like a weird mid ground where I don't fully understand it, but I just know I do get people that are, like, outside the computer science major, is probably the best way to put it. Gotcha. Would you
+
+Researcher  2:15  
+say it's like, half and half? Then in terms like, some of like, half of them are, it's definitely mostly computer science majors, gotcha. Okay, gotcha. And then are there any particular aspects of teaching on this course that you find rewarding? And then on the flip side, anything particularly challenging?
+
+Interviewee  2:31  
+Ah, I mean, I always like teaching the intro computer science stuff, because it's really good to show people like what computer science is and how it works, and very rarely do they come in with, like, preconceived notions. So that's really nice. I get to set the foundation for students, which is awesome, and see how they think it can be rough, though, because anytime you're teaching someone completely new things, it tends to be a much more difficult concept, and especially since, like, I have a class of maybe 90 or 100 it can be hard to give the individualized student that I would like, you know, if someone's struggling, it's really hard for me to be like, Yeah, I need to pick you so I can help you out, because I they're in a C of 90, or because I can buy my classes together 180 it's really hard to reach out to an individual student. Be like, Hey, is everything going okay? Just have to kind of go with it.
+
+Researcher  3:34  
+Gotcha, um, I would say for, I was asked for the um, for, I guess, class size in a way, slash like, like you mentioned about giving personalized care. What would you say is the limit of like, like, number of students that you had that you'd be able to give personalized care to? Like would be like 10 or like 20? Like, where's the threshold where it becomes like, Okay, I can't really give everyone the attention.
+
+Interviewee  3:57  
+For me, probably around 40, but I've been doing this a while, or I've been in education stuff, not professor, but I was a center director at like mathema San Antonio and stuff like this before, so I can still handle large 90 is just
+
+Researcher  4:16  
+too much. Got you? Got you? Yeah, yeah. And then yeah. And then, can you describe a time when you thought a student needed help? And then how did you intervene? I would say, like, we're kind of asking, in a way, like, about like help, as in, like help with material, but you can also answer it in terms of, like, like help with like personal stuff or whatever as well.
+
+Interviewee  4:39  
+Yeah, I'll keep it to material, because that's what I mostly do anyways. Um, mostly do anyways. Generally, that will happen usually after they do poorly in an assignment or an exam, I can kind of notice, hey, you didn't do so well. So what I've started encouraging them to do is come into a. Office hours so that we can sit down and we can be like, Okay, let's go over your assignment and see where you did understand stuff and didn't understand stuff, and how do we break it down? So I've been I'm between more adamant to sit them down in front of me in my office and then just do that, and it's not always a one on one. I tend to have like, three to four people in that room at the same time, so long as it's not grades, right, like we were all just talking about content, and that seems to help. I think having that like, group of three or four of them with myself, it's not just like, Oh, I'm being singled out one on one. But it's not so large that it's like 90, right? It's that mid ground.
+
+Researcher  5:49  
+Not true. Um, you mentioned that like, you usually reach out to like students via email. Like, what would you say is the return rate? Like, if you to, if you were to answer, like, 10, if you were to email 10 students, what's the return rate? Like, how many
+
+Interviewee  6:00  
+actually, either I if I did 10, I'd be surprised if I got two or three. That would be my guess.
+
+Researcher  6:08  
+Got you so usually it's like, you send a bunch based on like grades, and then like, like a handful will
+
+Interviewee  6:14  
+actually, yeah, I'll use Canvas is like message students who get below some thresholds at occasional times and be like, Hey, what's going on? That kind of stuff. But my return that's pretty typical, though it's never amazingly high, gotcha.
+
+Researcher  6:37  
+And then let's see. Okay, we kind of answered since then this question again, was like, how do you typically identify students? Identify students? So you would say, like, usually it's like, by some grade. So would this be like an exam grade or like a project grade?
+
+Interviewee  6:49  
+It's a combination of stuff. Usually it's project grades and exams. Grades are the ones that are the big flags. But there's other stuff. Like, I have textbooks readings due at certain points, or quizzes that are due, like, at certain points. And if I'm noticing that they haven't taken a quiz, and three times, I'll be like, Hey, what's going on? Why are we not taking quizzes? Um, if I remember and it's not super busy, but usually I would say exams and projects or programs,
+
+Researcher  7:20  
+gotcha, and then yeah, and then says, How do you usually provide support? So usually just the just meeting in office hours, in person. Well, I do office hours.
+
+Interviewee  7:29  
+There's other stuff that we make sure is available. They can always email me, though I don't really love that particular format, because it can be really hard to do a back and forth over an email, I can't that's gonna take way too
+
+Researcher  7:44  
+long type of a paragraph, but they might not read it anyway.
+
+Interviewee  7:48  
+Yeah, I use zybooks in the course, which is the online IDE, kind of tech interactive textbook and their programs has, it's an online IDE that I always have access to, and can, like, remote into and leave comments in there for them. So that will be a good way that I can, like, I'm stuck here, and I can just go in and look, that's more asynchronous. On top of we have, like, tutoring centers and stuff. And I always make sure that the TAS of my class have specific office hours only for my class, that they can be more individualized, rather than the generic tutoring services,
+
+Researcher  8:30  
+gotcha, gotcha. And then how many TAs Do you have? Or do you think it's like a good support, like system,
+
+Interviewee  8:37  
+every semester I have about two TAs for my three classes. So two TAs split between 270 students.
+
+Researcher  8:49  
+That's a high ratio, I guess, between Wow.
+
+Interviewee  8:53  
+So yeah, that's it's not an amazing ratio, for sure. Gotcha. Yeah, this semester we got cut down to one and a half.
+
+Researcher  9:04  
+Oh, so someone's like a part time.
+
+Interviewee  9:06  
+Ta, kind of did they split time with someone else's class and my class?
+
+Researcher  9:11  
+Oh, okay,
+
+Interviewee  9:12  
+so really, I have one and a half for roughly 240 students.
+
+Researcher  9:17  
+Gotcha. So then, do most people go to you, or do they go to TA,
+
+Interviewee  9:20  
+yeah, most people will come to me, yeah, that's just how it works,
+
+Researcher  9:25  
+I guess Gotcha. Wow, that's an impressive number of students. I guess for Yeah, I was, I was a TA but then, but it was for like, an algorithm Class A couple semesters ago. But even that one, I was one of four, but it was only for 60 people. So, so that was, that was a kind I was, I was given a kind ta appointment, I would say,
+
+Interviewee  9:47  
+Yeah, I do my best to not, like a lot of my classes automatic feedback. So I've set up, like, automatic testing and various other stuff to reduce the amount. Yeah, so that the TA can just be there as a resource rather than, like, yes, you have to grade and do all these things. So it's not a perfect system for sure.
+
+Researcher  10:13  
+Could you give me one second? I think my phone is ringing, but yeah, sure you're good. Yeah.
+
+Okay, never mind. It's upbringing, okay, no problem. But yeah so, yeah so I think we cover, yeah, we covered that question about like, TA support and stuff. So then the next bit is, How challenging is it to determine when a student requires additional support? And then do you think class size affects this difficulty?
+
+Interviewee  10:59  
+I mean, the class I've has one big impact, because it's hard to keep track of that many students at a time, like, constantly. Like, after an exam, it's easy. I can, like, see the exam scores. But like, you know, from week to week, I couldn't tell you what each individual student and how well they can do stuff. I can only do what they do in class, which I don't even mandate attendance, so that can make it even more difficult if they never show up. I can't tell you how they're doing for anything like that, but I think the other one is just like it. There's not really like, a good avenue to do that, other than grades, like, there's just, it's not feasible. I think Gotcha.
+
+Researcher  11:49  
+So you say it's, like, more reactive kind of words just like, okay, the grades are out. Now I can see what's happened. And then I don't really,
+
+Interviewee  11:57  
+I mean, I try and be proactive, like, ask questions in class, but there's only so much you can do proactively, because you won't know until you assess them. Gotcha.
+
+Researcher  12:12  
+And then also, is it so then it's like, since also reactive, I guess, is it also hard? Would you say? Is it hard to tell what they're struggling with, like, until you ask them, or is it like, usually you can tell, um,
+
+Interviewee  12:25  
+hmm, I can, I mean, I'll know what they're struggling with. I won't know why until I talk to them. I think it's the better thing, right? Like, I can always identify where they're weak and or strong. It's the why are they weak and or strong there? And that takes a lot more, because you have to sit there and talk to them and figure out, Okay, what's going on? Is it because you're taking five classes? Is it because you have to juggle a job, or is it because you just don't understand the material? Because a lot of the students at our school work as well. So they're balancing both,
+
+Researcher  13:05  
+got you so they would have, like, a full time job, and also,
+
+Interviewee  13:08  
+like, I have a fair number of students, yes, that they work full time, and they're doing like, three or four
+
+Researcher  13:15  
+classes, gotcha, gotcha. Yeah, then I guess, besides grades, are there other signs or behaviors that would help you identify if they need help?
+
+Interviewee  13:26  
+So attendance is one that I can tell, like, if they haven't been showing up to class, even though I don't have points for attendance, I can still see who's attending. So that's one way. There's just like, how I sometimes will use like, how often they access the textbook and or Canvas sites, you know, do they have a high frequency or they've only opened it basically when an assignment is due. So I'll look at that. And then I always track like, how often they come up to my office and, or, like, email me, and then use that as another avenue, but I think attendance is probably
+
+Researcher  14:05  
+the biggest one. So besides grades, then attendance, and then just like behavior, with the course material usually Gotcha. And then, if you were to like, like, when you're looking at these, I guess different things. Is this like for grades? Is it just like the canvas, like grade book, would you say?
+
+Interviewee  14:24  
+Or like, um, yeah, for the most part, I'll get all the grades into Canvas and then look at it there. I also use, so a lot of the exams we use grade scope, and so I'll use that, and it has like a when I'm grading, it will have like, question per question breakdown and things like, recently, I just did a question, and I think what, like, 15% of my students got it right, and so that that probably means that I did something wrong. And so I need to go, you know, I. Look at that. And so that will help me, but I can also look at each individual student and see their performance, and see, okay, they didn't do well in that question. So between those two, and
+
+Researcher  15:10  
+then when you're using, like, I guess, grade, scope, slash canvas, then it's like, you just kind of look at, just scan each individual students, like, like, the what the questions they got wrong? Or slash, like, yeah,
+
+Interviewee  15:20  
+if I'm looking at an individual student, I'll look at the questions they got wrong and and like, what points I allocated for them. If I'm looking at a class as a whole, then I just look at that, like, at a per question basis. Like, right?
+
+Researcher  15:35  
+It's more like a manual scan, kind of like you just look at the web page and then just kind of pick gotcha stuff, then let's see. Did you ever feel uncertain about when or about about either when or like if you should provide extra support?
+
+Interviewee  15:52  
+I mean, all the time there's, there's definitely a fine line between just like over providing support and not prefer writings and enough support at all. I try and lean on like helping them as much as they can. But the other aspect of that is, it is college, so they do have to learn some level of self responsibility, because they're not always going to have someone hover over them. But since I have freshmen, it's like you can't just throw them into the deep water and hope for the best. You need like, a mid ground
+
+Researcher  16:25  
+I think got true. Gotcha. So it's a little bit like, you don't want to be too. Like, I don't want to call it like, helicopter parent, but it's like, kind of like, you don't want to be too.
+
+Interviewee  16:34  
+Like, yeah, I know what you mean. Like, I don't want to hover over them the entire class. Be like, you didn't turn this and you didn't turn this and but also don't want to be like, never interact with them at all. Right, so it's
+
+Researcher  16:45  
+like deciding how many reminders, I guess, like, for example, like, yeah,
+
+Interviewee  16:49  
+how many reminders? And do I even think this is worth it, because I'm only going to get like, two response rates and, you know, and then like, do I send it to everyone, even though it's like, may only be a couple people. Is it better to just tell everyone that way they don't feel singled out and things like that. Gotcha.
+
+Researcher  17:09  
+So it's also like, how, like, what kind of intervention, slash, like, how you would communicate?
+
+Interviewee  17:15  
+Yeah, because, like, you don't want to just, like, keep sending personalized in messages, because then sometimes students will feel targeted and stuff. So sometimes it's just better to be like, Hey, I noticed that as a class this happened, and by telling the whole class it's not, they might be more receptive to it,
+
+Researcher  17:36  
+gotcha, gotcha. And then, okay, yeah, the Okay, yeah, the Okay, we already answered the because the next question was about, like, these Canvas features or any tool. So we kind of talked about great scope and zybooks and great and canvas. I think we talked about that. So next part, next question is, what are the biggest challenges you face as a CS, one instructor, when identifying students in need, like, if you have to pick one or two aspects.
+
+Interviewee  18:03  
+Oh, what is the Can you repeat the question one more time? Sorry, I'm gonna make sure I answer it right, yeah.
+
+Researcher  18:13  
+What are the biggest challenges you face as a CS one instructor in identifying students in need? So like, if you had to pick
+
+Interviewee  18:22  
+one or two? I do the biggest challenges is probably doing it before it's not too late, like identifying it before it needs to be identified. Because if it happens, like identify it, which sometimes they do, but it's like, already way past the point they're going to be able to recover. It's really hard to do that. And then I think the other one is just like, knowing that line of like, okay, what is too much help and what is not enough help?
+
+Researcher  18:59  
+Got you? Got you? Yeah. So I guess in then it's like, striking a balance between everything Gotcha? Um, yeah. So now we're going to talk about features for a prospective like, instructor facing tool. So this is like versus like a yes or no question is just like, are you comfortable with the learning management system that your institution asks you to use? And would you feel comfortable using a like, like, a plugin to process student data, to provide you with insights about your students?
+
+Interviewee  19:28  
+I mean, does i I'm comfortable with the tools that we use so far. I have no issues plugins. I'm always skeptical of plugins. Data is one of those tricky things where it can lead to false narratives and other things. But I don't like having access to those tools are good, like that's a good thing, and I use the ones that are integrated in Canvas. I think relying on them is bad, but I think using them as an additional resources good.
+
+Researcher  20:00  
+It Gotcha. Are there any ones that you use right now for canvas?
+
+Interviewee  20:03  
+Then I use, like, all occasionally, just like, they have their built in, like, when you click on a student, it tells you, like, how many times they've viewed the page, and like, what's their level of frequency with the course. And then, like, their current grade, that's really the only one that I use. And then gradescope has their own, like, assignment specific one, like, what's the median? What's the mean? All the generic stuff
+
+Researcher  20:31  
+got you. And then is iBooks, like, similar to the canvas one, where it just tells you how much time they like, looked at the textbook, like, looked at this question.
+
+Interviewee  20:38  
+So xybox has a bunch of different stuff they have that how long they've looked at, they've interacted the thing, the ones that I mostly use are the assignments, and that one's they're adding a lot more features, and I've been using it more. It's like, how long have they worked the on the assignment? How many times did they submit it and or how many times did they run it themselves across? All their submissions, like, you know, what was their score on each one? How many times did they submit? What's their history? How much did they paste in there? What's their abnormal development? And then I have the class wide ones, which I won't get into, but I look at all of those, when I have time, I guess.
+
+Researcher  21:24  
+Gotcha, what was the abnormal development? What was the last one?
+
+Interviewee  21:29  
+Abnormal development is something XY books is recently thing. I will do my best to explain it, but I am not a zybooks person, so you did it's their algorithm. I have no idea how it works for that, but from my understanding, is they, because it's a live IDE, they track, like, how you're typing the code, right? And so, like, when you're developing code, and it's not just I'm copying it from our favorite LLM, I'm going to ignore the copy paste, because that one's easy, right? Like you have the LLM, abnormal development be like, would be straight typing without any breaks, right? Because that's not how you would normally develop code. You would, like, take breaks, or you'd go back and fix things, if it's just like, straight up and down, that would be like a case of abnormal development.
+
+Researcher  22:15  
+Okay, got you. So they have some detection of, like, the patterns that the students like typing in, Okay, gotcha gotcha. Cool. And then do you think CS one instructors would benefit from having a tool that could identify students in need, and why or why not?
+
+Interviewee  22:33  
+I mean, I think so, but because it's useful for me, and this also goes so for my classes would be useful, because then I can do that. But the other part is that, like our CS one, and a lot of CS ones across the board have like a lab class associated with it, where you go in and program. And typically those are not always instructor specific. So for like our school, all of them get thrown into the lab class. And like I teach 180 doctors even teaches like 270 so up, we can have upwards of, like 600 and so, but each one is split across, like a 20 person lab class. So if we could have something that was like, Oh, we can look at everyone's then it's a lot easier to be like, Oh, you're struggling in lab. And my class and I can help you out for that stuff right now, we really don't have a good way of tracking what's going on in the lab, and it does hurt, for
+
+Researcher  23:38  
+sure, got you. So it's kind of like you can, so it's kind of like you can kind of see from assignments, like so stuff outside the lab, like course materials, or like in class, then you can kind of tell from that, mostly. But then in terms of the lab, it's, I guess, do the TAs run the lab? So it's kind of
+
+Interviewee  23:55  
+like, yeah, the TAs are, they're, they're called Das. They're doctoral instruction assistants. They run the labs themselves, and they are in the well, we communicate and coordinate a little bit more than we used to, but for the most part, it's like,
+
+Researcher  24:10  
+it's pretty separate. You say,
+
+Interviewee  24:12  
+Yeah, I don't interact with them. They don't interact with me. I just get their grade at the end, like a number at the end, and what they got on all the labs, and then I put that in.
+
+Researcher  24:21  
+Oh, wow. Okay, wait, so is it? So TAs are different than the doctoral instruction
+
+Interviewee  24:27  
+you don't TAS aren't a thing for us. It's Dias and GA's, which are doctoral instructional assistants. Those are the ones that like help with my class or do the lab things. And then GIS, which are graduate instructional assistants. Those are, like, help with grading, or they don't ever run anything. They are just,
+
+Researcher  24:47  
+they just grade the Yeah, they
+
+Interviewee  24:48  
+usually grade or help out, but they don't run it.
+
+Researcher  24:51  
+Oh, interesting. Yeah. So it sounds like it's very like everything's like there's separate pieces to the entire like, for what a student's grade is. Okay? Interesting. Yeah, because for us, we just, i ta, I just grade. I mean, I grade, I have office hours, and then I for my algorithms class. I mean, I didn't have a lab, but then, I mean, we had coding assignments, so I was technically the lab, I guess by being in office hours, if people came. But, yeah, yeah, cool. Okay, and then let's see. So what kinds of tools are help? I mean, you kind of described it. If you want to say anything more, this is a chance to so the question is, what kinds of tools or help do you think CS, one instructors, identifying students in need, would benefit from? So here we're thinking about characteristics or features for a tool, and you can be as descriptive or as imaginative as you would like to be, um
+
+Interviewee  25:46  
+to I think there's always one like flagging students that are starting to fall under par, is what I would call them. Would be good, because a lot of, I think a lot of checks are binary, right? It's like they're below this score that the instructor set, and the instructor needs to go look at what score they want to set and then message all the students who are below that score. But like, it's still something the instructor has to do, you know, having a nice tool that was like, Okay, here's like, your running average of the class for all of the assignments, right? Like, your class has a, I use 1000 point scale, so it's a lot easier for me to process that and all than, like, A, B, C, D, right? Like, it's like, it, you know, the average for my class might be like, 200 points at this semester, right? And so having a tool that could be like, here's all the students that are significantly below that 200 point threshold, but not something that I have to, like, go actively seek out, like it should be integrated, that I don't need to go and be like, Oh, what's the what's the average right? Now, okay, now I gotta go find all the students. Now I gotta mark them. Now I gotta send the email, right? Like, I just want to be like, Hey, these are all the ones below 200 great. Or, like, just below my class average, whatever that is, I guess, is the easiest way would be kind
+
+Researcher  27:15  
+of like automation. Like it would just, it would just be there when you're when you want to look at the average, yeah,
+
+Interviewee  27:21  
+like, I have to do a lot of math to figure out what the running average of my classes right now.
+
+Researcher  27:27  
+Got you do you usually, like, is it like you export stuff from Canvas?
+
+Interviewee  27:31  
+Yeah, I'm gonna do Excel stuff and be like, Okay, where are we in terms of that? Because it Canvas is not gonna do that for you. Like, any way shape or form
+
+Researcher  27:43  
+got you. So it's very so again, it's very manual, like, when you so it's like, maybe, like, at certain parts of the semester, you say that's when you do your like, Excel,
+
+Interviewee  27:51  
+like, process, yeah, at certain parts, I can't do it all the time, because I will just be doing it all the time, and then I won't have time for anything else. So, you know, if I was more automated that I could do that. I think I don't know how you solve the other problem, like the other one, is getting the student communication like better, because if there's email, but like, half the students don't check their email at all. That half as generous. Actually, it's more like 75% don't check their email at all, right? So, like, even if I did all that and then sent the email, I get like, a 10% response rate. It's like, okay, I don't know, and I don't even know if they saw the email, because it's email
+
+Researcher  28:34  
+that's just the void, just whatever.
+
+Interviewee  28:38  
+And this is a thing with Canvas message, right? Like, I send out the thing. It's to the void. I might get a response or not. You know, it would be nice to know that that message, the student looked at it that way. It could be like, well, at least they saw it like, I know I sent it, but who knows if they saw it? That would be cool, although I don't really know how feasible that is, yeah.
+
+Researcher  29:01  
+I think for because, for if it was, because email is probably the best communication. But then, unless you had, like, a red thing of where they, like, check if they read the message, but that would be, yeah,
+
+Interviewee  29:10  
+yeah, which you can't do with email that breaks, like, the fundamental definition of an email Gotcha.
+
+Researcher  29:20  
+Then, yeah, would you this question is like, would you use such a tool? Then, given we talked about the features and stuff that you'd like, but would you use such a tool personally? Why or why not?
+
+Interviewee  29:35  
+I mean, I am always open to trying new tools, so long as they make students lives better and or grades better. I'm not one to shy away from, like new tools, like a grade scope was completely new. We didn't use this, and now we I heavily use it, and I didn't use it at all two years ago, xy books was completely new to me when I joined. Just to start teaching. And I use that pretty heavily, and I'm pretty involved in, like, helping other people in the department getting things. The only thing that will prevent me using a new tool is one of, it's like, not allowed. That's obviously the easy one, right? Like it's not University approves, or there's, you know, lots of loopholes that you have to do, but the other one is like, how easy it is to use, both for me and the students. Gotcha, if it's like, here's all this really cool, powerful tool, but you also need to read, like a textbook documentation to know how all these things work. It's not going to happen. Like, I just don't have the time for it that I used to, but if it's mostly intuitive, or, like, a lot of the base features are right there in the front, then it's like, Okay, I'm gonna just try this out and see how it works. And then if I don't like it, I'll move on,
+
+Researcher  30:58  
+gotcha so kind of ease of adoption. And then also, like, just University, like, has to prove it.
+
+Interviewee  31:02  
+Yeah, it does have to be university proof, because that's how that works, you know. But I think ease of use is super important because, you know, grade skill has, like, an automatic testing thing, but that part of it is super dense and really hard to understand. So I just don't use that feature at all, because I'm just like, I'm sure it's great. I'm not going to read a 15 page document to try and figure that out.
+
+Researcher  31:30  
+Is automatic testing, like, like testing to students, or like testing might
+
+Interviewee  31:35  
+be like programs when they, like, submit stuff and, oh,
+
+Researcher  31:38  
+like, unit test, kind of,
+
+Interviewee  31:39  
+yeah, like unit test, which is what I use for zybooks. But zybooks ones is a lot easier to use. It's like, I can write the test in there, I can test it myself, and then the student, I can, like, change it, and I don't have to, like, I think grades could be of, like, create a Docker and, like, image it yourself and then blend. So that's not happening.
+
+Researcher  31:59  
+Those setups, like, a lot more slash, like, just, yeah, set up. It's like, have something a lot
+
+Interviewee  32:05  
+like, how easy it is it to set up. And if it's more than maybe 30 minutes, the it's like an exponential drop,
+
+Researcher  32:14  
+got you, Okay, gotcha, gotcha. And then how would you want to make sense of your data? So we're thinking about, like, data visualizations, or ways that you would like, I guess, student, student data like presented. So what kinds of visualizations do you think would be beneficial to look at?
+
+Interviewee  32:30  
+Um, there's like, the generic graphs. Obviously, like distribution graphs are always cool. I like them. I also really like outlier graphs, like so I can see really easily, like, where they are on that I think, like, those are my main two that I would use, other than that visualize. Then there's like ones that I would like to visualize where it's, like, really easy to pick out all the students who are not doing it and not me, like searching through a list. Like, I could just, like, filter it and be like, Okay, these are all the ones I don't need to go, like, all the way to the Grade column and then go all the way back. These are all the ones that I need to do. I think that that would, that would be cool. Gotcha?
+
+Researcher  33:23  
+Cool. So then the last part of this is, I'm going to share my screen. I'm going to show a prototype of the instructor dashboard that we're currently building, and I'm going to walk you through three scenarios or like actions that you would potentially do in this dashboard. And then during this time, you should say things you like, but also things you don't like, because that will help us give direction to the like, the next iteration of the prototype that we do. Yeah, yeah. And I guess for context for how our course, since we're building it, kind of with our with our courses in mind, so ours, we're using block pi, but not the block part of block pi. We're using, like the IDE, where they code in Python, and it's kind of integrated into Canvas. So then this dashboard is also potentially integrated into Canvas as well, okay? And then we also have data that lets us, basically, it lets us, like, track through that ID, ID. Sorry, one second, you're good. Sorry, I
+
+forgot to preface that. I have, I'm, like, working from home right now. I have a family member that's like, at home, but, but they can just, I only have, I have the in ears so they won't hear they don't like, on your only I'm the only one that's hearing your answers. That's like for confidentiality stuff. But then I'm not worried about it. Yeah, okay, sorry, Thanks for understanding.
+
+Interviewee  34:53  
+Though I've been there.
+
+Researcher  34:56  
+Don't worry. But yeah, so then yeah. So I think that's the context for our stuff. Is like we have our dashboard. It's kind of integrated in Canvas. So the first thing you do for this is, like viewing visualizations of one class section. So if you're an instructor, then after logging into Canvas as an instructor, you'll be met with this page. This will show data visualizations of student behavior metrics for one of your class sections. So you'd be able to, like change, for example, here, whichever class section you're like looking at, and then there's like four quadrants. So I'll go over each one. So the top left is showing potentially struggling students. So these would be, like their names, and they have, like the current grade, and then we have like reasons. So these were, what we're thinking of is that these would be like, instructor defined thresholds. So for example, for like, high syntax error, if it's like, if the if it's like, the number of syntax errors compared to how many times they tried compiling. Then if the like ratio is pretty high, and you like, set, like, oh, some number or something, then this would, this would be like one of the flags, I guess. And then, like, for example, wheel spinning would be like, if they like, for example, if they never got a question right, or never got an assignment, like, completely correct, or they like, they got it correct, but took them, like, way more submissions, then this would also like flag them, for example,
+
+Interviewee  36:18  
+how are those tags applied? Would they be automatic?
+
+Researcher  36:22  
+Um, yeah. So we're thinking is having the instructor, like, pick some threshold for each of the I guess we're using, like, learning analytics. So what I was saying about, like, how with block pi, you can track, kind of like, I guess, key logger, action log, level data. So that's why we can check, for example, how many times they submitted. So if they submitted a lot of times, and then it's like, not an instructor is like, Okay, if you submit like, 100 plus times, then maybe that's, that's too many. Then Then it'll flag them like that, I guess. Does that answer the question?
+
+Interviewee  36:52  
+Yeah, it just seems because, like, those are going to be, like, a high syntax error. I'm not sure how you would automatically tag unless you're just, like, permanently tracking their ID. But anyways, it's not super important. Gotcha?
+
+Researcher  37:13  
+Yeah, I would say for ours. It's for ours. It's currently tracking so we have it like, track all their every time they like anything, they click on Canvas, or basically, in block, pi attracts it. So that's why. But then for, I guess, to make it more adaptable for other like class things, we're also considering, like, having a standalone version of this that'll just be like, so maybe not in Canvas for institutions that don't use Canvas. And then the same thing. Like, if you don't have all the, like, key logger, level data, there's still, like, other ways you can use these the dashboard. Yeah, okay, yeah. So then,
+
+Interviewee  37:51  
+okay, so the, I, like, the potentially struggling students, that's nice. I don't know if that's like, automatic, like, it will just pull from I am worried that, like with my classes, right? Like I have, let's say, up to two sections. It's like 180 Right? Like I can have upward, upwards of, like 30 to 35 students struggling. Like, how would it choose who to display on there? Or is it going to try and show all 35
+
+Researcher  38:23  
+I think it would probably show but then we probably make this like a scrolling thing, so it won't take up, like, the whole page. Um, I guess you could probably also sort these, kind of, like a, like a table,
+
+Interviewee  38:35  
+sort those, or, like, search through those would be cool, too. So I do really like that, like corner.
+
+Researcher  38:44  
+So just kind of, we could have, like, a filter that's just, like, if you only want to see who's struggling because of, like, yeah,
+
+Interviewee  38:50  
+or that'd be nice, I think, gotcha, I'm just throwing things out and no, this is
+
+Researcher  38:59  
+what we're looking that's what we're looking for. So perfect. I mean, that's my type to
+
+Interviewee  39:03  
+talk out loud. You can ignore anything that I'm saying. I'm just that's what's that's how my brain works.
+
+Researcher  39:09  
+But yeah, so then on the top right, then this is class wide metrics. So this is kind of like, right now we have it per assignment. It's just showing like, the grades, but you able to change this. So if you want to see like, how much time people spend on each assignment, then you'd be able to see like that, for example, or like submission counts. So like, for example, if you saw that like, okay, maybe people are not doing as well in like assignment four. Then you can, like, go see what see. Then you can go check that assignment.
+
+Interviewee  39:36  
+All right, how many metrics can you add to that? It's just like, whatever you
+
+Researcher  39:41  
+I think as many as you potentially, because we're trying to make it customizable. It's like, potentially as many as you want and as many as you want to define,
+
+Interviewee  39:49  
+okay, cool, yeah, it would be cool to have multiple like, not only like, the average score, but also the time spent, you know, like, the like, stacked bar kind of, okay. Okay, you know different scales, right? Because it's, it would be weird to like, I'm going to tab over to see what the App class score is, but now I want to see time swing coding. And now I really want to look at those side by side and see that like, oh, everyone spent a lot of time on this, but the score was really low. Okay, something's wrong. Or it was like, no one spent any time on this, and the score was low. Cool, great.
+
+Researcher  40:21  
+Then, because it wouldn't be on the same AX, it wouldn't be on the same Y axis, I guess. But then, like, just having two different, like
+
+Interviewee  40:29  
+a split y axis, right? Like you can have a Y axis on the left and a Y axis on the right.
+
+Researcher  40:35  
+Oh, okay, right. Gosh.
+
+Interviewee  40:37  
+And then the color thing, that's pretty common, I think,
+
+Researcher  40:42  
+got you so then just like, like, the bar would be here for assignment one, and then, and then for the average score, and then the time spent, maybe, like, here, and then
+
+Interviewee  40:50  
+they'll say, like, maybe, like, cut in half. And then they'd have a different axis on the right that you would like, match that one too.
+
+Researcher  40:58  
+Okay, got
+
+Interviewee  40:59  
+you, I think those are called, like, split something, but I don't know the name of them.
+
+Is it different? Anyways, it's not important. I was just, I swear there was a way to have, like, different scaling things. I know there's a name for it. I don't know the name of it.
+
+Researcher  41:25  
+Like dual here, I'll share my Yeah. The Oracle thing is, what? When I Googled, did Google Images, that's what came up. Is it like something like that?
+
+Interviewee  41:36  
+Yeah, something along the lines of that, I think is
+
+Researcher  41:41  
+gotcha, yeah, okay. So just having, yeah. So the same, same, same plot, but then just have different, different scales for the y axis, so that way, yeah, dual scale things like that is cool. Gotcha, okay. And then this one is about metric comparison, so this would be the same, similar like you, as many as you want to add, you can have in this list, but right now, we just have these two. But this would be showing if a relationship between two of the like two of the metrics. So these are correlated, because if you have, if you don't have, if you have a lot of syntax errors, you probably don't have unit tests, a very good unit test score. But then, for example, if you had it like these might be, like, the low effort, for example, because if they didn't really submit, I didn't really have too much syntax errors, and then they also don't have a very high unit test score. Versus, like here might be like, like a decent student, because they have some syntax errors. But then they did eventually get the question right? Like they did get the unit test score, yeah, yeah, how to read it? Clickable? Yeah. So each student, well, they will be, I guess. So each student is a dot, basically, right now,
+
+Interviewee  42:54  
+okay, I was just curious. So they were clickable, because that, that will be a big one, I think, or, like, groupable. Maybe better, like, you know, if you
+
+Researcher  43:06  
+like, like clustering or
+
+Interviewee  43:09  
+really, okay, let's say clusters would be good, right? But let's say like that bottom left hand corner, right, like that stands out to me as like, Oh, these are all students that I need to reach out to. The way that I see that you'd have to do that currently is you'd have to hover each one and then manually try what their thing is, right? Like you'd have to and then, now imagine yours is pretty sparse. Now do like, 217, right? Okay. Now this graph isn't really usable because you can't hover over a single.in a 600 dot thing.
+
+Researcher  43:47  
+Yeah, got you. So then,
+
+Interviewee  43:51  
+yeah, maybe like being able to zoom in or cluster them would be cool.
+
+Researcher  43:56  
+Got you. So yeah, the zoom in thing, I think we can definitely do. And then for when you said class, when you said like, grouping, would that be like, within a certain threshold of stuff again, where it's just like, Oh, if you have unit tests under 40 and your syntax error is like less than one,
+
+Interviewee  44:13  
+that's the easy, the easy way, right, where you like, crossed it based off of that. The interesting way, which I actually don't know if it'd be cool or not is like, have a tool on the right in this square, like you could click and then manually highlight all of the dots in there, and then just like, get all that students data got you.
+
+Researcher  44:33  
+So this would be like, like a instructor cluster, like they decide, like
+
+Interviewee  44:38  
+predefined clusters, or like the data clusters, and then you can also have, like the instructor cluster, because I think with the tool like this, it's not always going to be easy to predefine everything that you want to do. So being somewhat will be like the instructor can define what they think is their own outlier cluster by just like, circling and highlighting it.
+
+Researcher  45:01  
+It would be cool. Gotcha? No, that makes sense, because I'm sure, like, every semester you'll have a different plot.
+
+Interviewee  45:07  
+Yeah, every semester will be different. And then, like, you can visually see, like, I can be like, oh, there's I want to see that group of students. I just want to look at all of them. So that would be cool. But I like that the comparison. Cool.
+
+Researcher  45:23  
+Do you think like, Would you be able to understand this plot if I hadn't explained it before? Or do you think it'd be like, like
+
+Interviewee  45:32  
+I would understand the plot? I don't know how that that particular plot would be that useful. I guess, because like, the individual plot is never going to be enough, right? So it's good that we can, like, switch between them and stuff, which I think the collection of them would be useful, if
+
+Researcher  45:51  
+that makes sense. Okay, so just having all of these together, but if it was just this one, then it'd be like, okay,
+
+Interviewee  45:57  
+yeah, gotcha. Like, having everything here is useful having just that one, I'd be like, okay, when ignore that graph, because I don't, you know, it could have been a fluke
+
+Researcher  46:08  
+or anything. Yeah? Okay, yeah. Cuz, well, these are all just dummy data. But then something that we've been, like, not worried about, but like, slightly concerned, is, like, what if we don't want to give like, false positive or like false relationships, if that makes sense, yeah,
+
+Interviewee  46:23  
+the what is it, like, crude oil versus consumption of chicken kind of graph, yeah,
+
+Researcher  46:31  
+like, for example, these are definitely correlated. But then, yeah, but if you have like, two, I don't know if we had some other metric, and then, like, syntax error ratio, we don't want people, like instructors would be like, interpret as like, oh, like, all my students are like, not doing well because of this or something.
+
+Interviewee  46:45  
+Yeah, that's tricky part about data is data's framed incorrectly, is going to be misinterpreted.
+
+Researcher  46:53  
+But I think that was fine. This one's fine. Okay, cool. And then this last quadrant is showing the submission timeline. So this is saying that for the latest three assignments for now. But it's like the timeline is going like, is like counting down, because counting it down the number of days before it's due. So zero would be like, when it the due date. And then this would be flagging like, some like, what's it called, some instructor to find like, definition of like, lateness, slash cramming. So then it's like anyone that submits like here. I mean, I think this is probably optimistic, because probably everyone's submitting around, like, closer to due date, but there are
+
+Interviewee  47:30  
+way too few dots on the right hand side and there's way too many on the left. But yes, sure, I can show you my graph, and that is not what it looks like. But I don't know about a dot plot for that, per se that is tough to interpret. If it's better to see like because I can't immediately tell how many people are submitting. I can just see that there's activity from those. I guess,
+
+Researcher  48:02  
+yeah, right now, these are just one student. Is one dot. But then, do you think it's not the you think gonna be better? Is there a better way to, like, interpret
+
+Interviewee  48:11  
+one dot would be 180 dots on that line for me, which would be incomprehensible, I'm pretty sure, a lot of mine, I'm always coming from the class with a big perspective, like these things are really good If your class is small. But the ones who are going to get the most use out of these are the ones with actually the bigger class sizes, right? Because the people who have small class sizes can usually track it without much, yeah,
+
+Researcher  48:40  
+or they just talk to their students, right?
+
+Interviewee  48:43  
+They don't need these graphs, because they can just talk to people. The ones that are, you know, have like, a and m levels where there are hundreds in each they're the ones that are going to probably use this, or that would be my assumption.
+
+Researcher  49:00  
+Then, do you think like the zoom in feature would help with this, like what we talked about on this one, like the zoom in feature, or do you think like this is just not the best way to, like, present it?
+
+Interviewee  49:11  
+Um, I personally don't think that's the best way to present that one. Well, I guess it depends on like, what you're trying to do, if you're trying to do it from a student perspective, maybe, but I assume that they want to do it like. They want to see how the class overall is like submitting assignments rather than an individual student. So maybe you could turn that into like, because I like the assignment thing, right? And you see like on the top right, where you have like latest three assignments or whatever. If those could be like students, like individual students that you could search through, then it's like, okay, now I can go look at the specific one, and then the. The, like, default one being the overall class one. And I think actually have a graph of that. Maybe I can just,
+
+Researcher  50:08  
+yeah, I can stop sharing. If you want to, like, share your screen,
+
+Interviewee  50:12  
+then, oh, well, we can keep going, Okay, I don't want to interrupt
+
+Researcher  50:17  
+your flow. Gotcha. Gotcha, yeah. And then this would just be the class roster, which is the, like, just the name, the grade, and then some some metrics. So this would be the same thing. You can probably filter, similar to up here, but then, but then you'd be able to see, like, the actual metrics, yeah. And then I guess other thoughts, any thoughts about this,
+
+Interviewee  50:39  
+like this, like, I do think it would be cool to be able to rearrange the tiles,
+
+Researcher  50:47  
+gotcha. So some kind of dragging, dropping, kind of customized.
+
+Interviewee  50:51  
+Maybe you really like the submission timeline on the top, and then, like the other things, but that's like, not super important. I just think it would be cool.
+
+Researcher  51:01  
+Gotcha? I mean, it's doable, so you can have as a feature, yeah, then, um, so there's two, do you have time? There's two more kind of things. Okay, so, yeah, so the next one is viewing visualizations for a particular student. So you click on the student's name or their dot. But then, right now the name is what works. So click on that, and then this will take you to the student, like the dashboard, but for a particular student. So this will have some enrollment information. The pre test for our like course was like, if they get 100% on the pre test, then they waive the CS one course, basically. So this was this just like, what they got, and then this would be, like, an intervention log. So this would be where you can, like, keep track of, like, when you emailed them, and like, what you met with them, about subway, if they keep meeting with you then, or it's like, it's like, okay, you continually have this problem, or something like that. Um, we're considering making it automated. Um, so it'd be like, for example, if I guess, what kind would I mean? I guess you would prefer it to be automated. But, well, I don't
+
+Interviewee  52:14  
+mind the manual part to it, but I it would be nice if, like, some things were automatically put in the intervention log. Like, I'm not saying, like, the whole thing has to be automatic, because I think that's not realistic. But like, imagine that you, like, went through and you messaged a bunch of students about a missing assignment, right? Like, I think 1114 this emailed about things, and you did that to like, 40 students you don't really want to go, because you're probably going to use some mass email thing, if it's a big class, like, you're going to use all that Canvas tools. Or maybe you guys have something where you can, like, message them. You don't want to go into everyone's inner vision log and be like, okay, emailed about missing, right?
+
+Researcher  52:57  
+Definitely, definitely. So then I guess what we could do is like, like, the same thing about like, the threshold thing is, like, Okay, if these students, this group of students, they didn't hit this grade and exam, right? And then you could have it send like, I mean, the instructor would kind of approve it first, but have you like, Okay, here's some assignment. Do you want to send it to this group of students? And if you hit yes, then it'll like, it'll like, automatically log that that for the student, like, you've sent out that email, yeah, like something like
+
+Interviewee  53:24  
+that, yeah, because that would be helpful, because then you it keeps track. Because I do really like that log right then, because that's one thing that Canvas doesn't have. Like, if you if I reached out or sent emails or stuff like that, is just a memory game to me, if I remember that, I told them this thing, this is nice to have, like, a spot where, like, some students will come in like, Hey, can I do assignment late? And I'm like, hey, you know what? The book still lets you do the assignment. So do the assignment, and then email me back, and then do it. And then I just, like, completely forget. And then they never email me, and then they come back way later and they're like, oh, and you said I could do this thing. And I don't remember that. I said that. God, that's like, a great use of that
+
+Researcher  54:13  
+I see, I see. So I guess it's like, if we can somehow connect it to the canvas messaging system so that way it just
+
+Interviewee  54:20  
+like, like, it doesn't necessarily need to be an intervention log is more of like a note log plus interventions, like, things you can just write,
+
+Researcher  54:31  
+like, gotcha. Manual is still good. Yeah. I think the
+
+Interviewee  54:34  
+manual is great. I don't want, I don't want you to get rid of it. I think that was a really cool idea. I just think some parts need to be automated. Gotcha?
+
+Researcher  54:43  
+No, that's fair, because I agree sending 40 emails plus where it's literally just, it's just a copy paste, the same thing, just like a finger workout on the keyboard. Basically, that's
+
+Interviewee  54:52  
+one of those things where, like, I'd stop using it very quickly, because I, like, after the first five I'd be like, Okay, do.
+
+Researcher  55:01  
+Hmm, gotcha, yeah. And then scrolling down from there, then this would be like, metrics for this individual student. And then what we have are these buttons that would affect this timeline. So for example, right now, this is selected, so it's saying, like, here's how we got this composite metric of like, oh, they how much time they spent on assignments on average. And if you click it, then it will show like, this is the timeline across the assignments that they've done so far compared to the class average. So that's what this is showing. And then theoretically, if you clicked like the average score, then it would show the same thing, but with score, yeah, yeah. And then this is another table that's just like, for this particular student, this is what they did on each assignment. And then their average, like, comparing to class average with their score, time spent, syntax errors. Yeah. So any thoughts about this bottom half? I guess of the I like it.
+
+Interviewee  55:53  
+I don't know how useful it's going to be when the assignment is outside of this box, but I think that's something you have to think about. Like, if it can't be tracked, what's gonna happen? Yeah?
+
+Researcher  56:08  
+Cuz I think these would be like, these would also be like, you'd be able to choose which on, yeah, like, metrics again. So like, for example, like, I guess if you can, for example, if you can export, like, zybook stuff, then you could potentially import it here, and then you would be able to see, like, a number of how much time they spent on this, like, course material, or, like, how much submissions they did.
+
+Interviewee  56:29  
+Yeah, that makes sense. It was just something. But I like it being clickable and stuff. This is a scene, and it's the class average is really nice to have, I think, for visually so I can do that. Gotcha.
+
+Researcher  56:46  
+Yeah, anything else about this student view, I guess, or student specific student metrics page?
+
+Interviewee  56:56  
+I don't think so. I think everything's fine. Gotcha.
+
+Researcher  57:01  
+And then the last task is comparing visualizations between two classes. So this is more like, we don't have a visualization for it yet, but then it'll be, it'll be similar to this, because it will be like, if there's a separate page or like an overlay, for example, if you want to compare, like, two class sections. So for example, maybe like a toggle or something, then it would show like two bar charts or something, or just in different colors. Like, have these have like two different sets of dots, but in different colors on the same plot, so you could see, so it'd be like comparing either, like two consecutive core sections that are happening in the same semester, or just like, maybe your your CS one this year versus CS one last year? Yeah, yeah. So I guess. What are your impressions about this potential feature? Do you think you would use it?
+
+Interviewee  57:51  
+Ah, I know there are professors that like to compare sections in previous sections. I think that's super useful. I I am of the opinion that is among the lower end of usefulness in comparison to like, what you guys have, right? Like, because like, you're not going to get, you're going to get surface level stuff from sections, like you can see it, but deep diving into a section isn't all that useful as much as it is like going to that section and diving in yourself and seeing it compared to others. That's just my opinion, though.
+
+Researcher  58:30  
+So kind of like, useful is it kind of like they're two different distributions in a way. So it's like, like comparing it would be interesting, but
+
+Interviewee  58:40  
+not like, yeah, they're nice. I mean, it's good to know that stuff, and definitely to they'll most likely be used. If I had to guess, it's very rare that people, like, will compare intersectional stuff. Like, they probably will, but not all the time, because they're different sections, right? But a lot of student professors will use it in comparison to, like, previous semesters, and be like, okay, like, How did my test do from last time, and do I have better students? Is, did I mess something up, anything like that? And I think that kind of stuff is definitely useful, and it'd be cool and easier to use in this kind of a format than whatever is available.
+
+Researcher  59:22  
+There Gotcha. So this, having the feature available is good, yes, but you personally, like, might not really use it, just because, like, yeah, you rather, like, do a deeper dive into like, one section. Yeah. I don't
+
+Interviewee  59:34  
+really like to, like, compare against things, because I don't think they're always the same. So I like to, like, stay within the one lane that I'm in.
+
+Researcher  59:49  
+Yeah, okay, cool. And then I guess any other things about the dashboard, in general, other features, last thoughts, that's all the that's all the scenarios we have.
+
+Interviewee  59:59  
+I. Yeah, no, I think, I mean, it looks cool. It seems like a really useful project. It seems like it will be difficult to get everything in one I'm always just the type to spit everything out. So, like, you know, don't take anything I say for truth.
+
+Researcher  1:00:21  
+I mean, it's all like, we're getting like, user opinions and stuff, yeah, we'll see what. We'll see what happens. Like, since the is the like, whatever the goal of this is to find out, like, Why? Why? Like, what instructors need. And then that way, we will hopefully design a tool that catches most of them, I guess because, yeah, I think what we're learning is like, every whatever, it makes sense, though, every institution. Does everything a little differently. Because, for example, University of Delaware, where we're pretty like, everything is done in block pi. So that's why, like putting it in Canvas makes sense. But then most people, I think, just use Canvas as, like a Content Manager more. So it's been like, it's been like, Yeah, didn't know that. Now that's why,
+
+Interviewee  1:01:07  
+because all my stuff, like zybooks and all that are like, outside tools, grade, scope, xy books, top hat, Canvas, really just ends up being the gradebook. That's where all the grades are stored, and that's the entirety of Gotcha.
+
+Researcher  1:01:30  
+So maybe standalone version, like for your use case, if you were to use this tool like a standalone version might be more usable? Would you say?
+
+Interviewee  1:01:39  
+Probably I'm, I'd have to see, obviously, there's still, like, university concerns and data that they would have, because standalones have to go through university approval and all that good stuff. So there's that that's, that's the big thing, is using a tool that the university allows, which is, like, super important, I think, for a lot of schools, because you can't just use whatever. I guess you can, but I'm not going, well, ethically, yeah, ethically you cannot, because there, there's protected data stuff in there. So that's the nice thing of like, using it, and it's integrated in Canvas. If it's like a external tool, I don't have to worry about that, right, right?
+
+Researcher  1:02:29  
+Okay, cool. And then, do you want to share your screen? Yeah, I
+
+Interviewee  1:02:32  
+can show you, um, I'll show you an example of what sidebook. Sidebooks might be a good like. Tests or place for you to go see things, not that it matters. So this is one of the assignments from, actually, the CS one class this semester. But there's no name. So Okay, gotcha. Gotcha. So I can see basically how many people submitted, who hasn't, what the top score is, what the average is. These ones, I can see, like, who submitted all mine have test cases, so they submit for grading. And then there's the distribution of scores, which is, this did this is always the case of this the first one right? Like it's and then these are the number of times they submitted, which this graph is super hard to read, because the numbers just Oh, wow, don't fit on there. Because I had someone submit 70 times. It looks like
+
+Researcher  1:03:42  
+gotcha for this is a submission, a code compile or like a textbook, like, like you
+
+Interviewee  1:03:48  
+answered the question it would be. So this is like, where they work, right? They do it so they can hit the run button, and then that's not a submission. A submission is this okay?
+
+Researcher  1:04:04  
+So they can test it out as many times before they submit,
+
+Interviewee  1:04:07  
+yeah, and they can submit as many times as they want, because I don't restrict that. And so these are their tests where, like, it shows them things, and there's manual parts to all that and all that good stuff. But this is the graph that I was that was on your other page where it was like the dot one. This is like, this is the date. This is the current date, right now. Yes. And then these are all the like t minus when they started working on it. So you can probably tell when the assignment was due here, right there. I had 40 people started or received at least one point on that date.
+
+Researcher  1:04:52  
+This is t minus that means so t minus three is three days before the assignment is due,
+
+Interviewee  1:04:56  
+or so, the way they do it here is t. Minus until the date that this report was run for years. I think it's better. It's t minus like the date it was due. I think is better. But I think this bar graph is like, an easier one to be like, boom, that kind of thing.
+
+Researcher  1:05:19  
+So more of like. So these are whenever students started, and then more just like. So if you were to change it, just change that the x axis to more like, yeah.
+
+Interviewee  1:05:29  
+Make this, yeah. I would change the x axis towards the D Day and I like what you did, where it was like after and before. I don't really do late assignments. So there's never, ever going to be like an after. Usually it's only before. But also, like, you guys would have the flexibility of, if you were doing this, of being able to change this, right? Like, not just, like, when did they start it, but like, when, you know, did they get half of it? Or when did they get three fourths of that? I think that's cool. Gotcha. Gotcha. Gotcha. Let me see before I show this part, because I don't remember this has student data. That part does not I can't show the other, but I can show you this. So this one is the other one we're talking about, where I get, like class averages. So this is how many times, this is on average someone submitted, how many times that they hit that nice green button, button at the top. And so that's not a submission. This is this how much time they did, and then how long each solution was. And I could do that, then they have like, a tab of like, outliers and entire class, okay, the important, like, outliers tab is nice, so it just highlights all those students.
+
+Researcher  1:06:53  
+I was gonna say is that outliers is that, is that you're defining, you define some threshold where you're, like, if
+
+Interviewee  1:06:59  
+you're they define it themselves based off of the data. So I think it'd be cooler for you guys to, like, let the instructor define it. I think would be better, my guess. I don't mind when, like, outlier things already given to me, because it's like a good starting point. And I do think that's like, one thing like for us, I think these data tools are super useful. But like, if you're not really sure how to do data, those predefined ones are nice.
+
+Researcher  1:07:32  
+So you have a default and then you can change it,
+
+Interviewee  1:07:34  
+though, because you know, the English professor may not know their stuff. They may know, like scores and certain things, but they're not going to know, like, all the different data distributions, usually. So like, having predefined ones is always nice, even for me, because I lose track of all the predefined ones. Like, what is it supposed to look like? I'm going to use the default one. Okay, now I'll adjust it from there.
+
+Researcher  1:07:58  
+Gotcha. So if it's like, oh, the class average is here, but you want to see, like, maybe the median is a little different. Little different than, yeah, adjust like, what your reference point is. Okay. Cool. And then also, like, are those the so the zybooks, I guess, dashboard that they that you showed, do you let, does it let you customize anything for that? Or is it just you click like, show, like analytics, and it just spits
+
+Interviewee  1:08:21  
+out all that? No, not really. I can't customize this page. This is just like, I can click for like a section, and I can change like the date, and that's pretty much it. And the other one I can't show because it has student info otherwise I would, but like, I can click on it and it has like position stuff. The other one that I use is grade scope, which I was trying to see if that had. Don't want to show that if it has data. I'm just trying to be careful with that kind of stuff, because I don't want to get in trouble. No. Very fair, very fair. So, okay, this is a good example, because there's no student data here.
+
+Researcher  1:09:08  
+Behold. So this is the grade scope there. This is their dashboard, I guess. Yeah, so this is
+
+Interviewee  1:09:15  
+the final exam which, it doesn't have any student names on it, so it doesn't matter, right? But then, like, I can see each individual question and being like, Oh, here's this. This was the assignment means I can see, like, 30 was not a good question, which was, I don't even know what question 30 was. It was assignment operators, so I might need to look at that or whatever. And so I can, like, click on those, and this, I can filter it by section, just like you guys had. There's tags. I think they are trying to do something similar to you guys, where they you can tag each question with a particular. A topic, I guess, is the, I don't know how they Okay, determine all of that kind of thing.
+
+Researcher  1:10:10  
+Gotcha, you say you mainly use this, though, like the question statistics.
+
+Interviewee  1:10:14  
+I use this to make decisions on stuff, and then I could click in it and see who got it correct and who didn't. And then I can click an individual student, for obvious reasons. I'm not going to, but got
+
+Researcher  1:10:29  
+you, but then it would just show you what they did for each question for that particular student. Basically, okay, yeah. And then,
+
+Interviewee  1:10:35  
+you know, it gives me the minimum, the median, the maximum, and all that standard deviation is also really nice, because that's, like, a good metric, gotcha. So maybe
+
+Researcher  1:10:45  
+including that in our dashboard as well, because we don't have, I don't think we have anything for that, for standard deviation yet.
+
+Interviewee  1:10:50  
+Yeah, standard deviation is really good. I think it's one of the more underrated statistics. Gotcha.
+
+Researcher  1:10:58  
+Yeah, especially so when I say 18% that means, like this is how much they vary. Is how much each student varied, basically by
+
+Interviewee  1:11:05  
+about 18 points, yeah, compared to the average, right? So, like, a lower deviation means that they're clustered more closer to the mean. But if I have a pretty high standard deviation, we have a problem. Gotcha.
+
+Researcher  1:11:20  
+Gotcha, cool. Then, yeah, I think that's all the questions. So I guess Yeah. Do you have anything else you think that would help us understand your the CS, one experience, any other questions for me or the research team?
+
+Interviewee  1:11:37  
+No, I mean, you guys know what's going on. You don't need me to tell I think it's important to kind of consider all class sizes, especially like 90, even for me, even though it seems like a lot like I have, I think you're even meeting with her Dr Seaman, is she does? She can have a class of, like, 270, and one. It's the exact same class, right? Like, I choose to have multiple sections, but
+
+Researcher  1:12:10  
+gotcha, she just has one, one, giant lecture. Okay, right?
+
+Interviewee  1:12:15  
+And so, like, the levels of different stuff each one needs, I think, is different. Like, a lot of those graphs work, you know very well for low amount of students, and decently for 90 but like, would fall apart pretty quickly for a 270 class, right, right? And I think the 270 class really likes the tools that you guys would do, because then they it's it's harder to keep track of all the students and so I think it's really cool what you guys are doing seems cool. Seems like a fun project.
+
+Researcher  1:12:51  
+Yeah, thank you so much. Yeah, I would say, like, I'll stop recording as well, but I'll.
+
+Transcribed by https://otter.ai

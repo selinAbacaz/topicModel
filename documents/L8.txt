@@ -1,0 +1,3012 @@
+﻿
+[Researcher] 13:05:15
+
+Show captions… Give the transcript also. Okay.
+
+
+
+[Researcher] 13:05:23
+
+Can you say something really quick just to make sure it saves.
+
+
+
+[Interviewee] 13:05:28
+
+Sure, testing. Hello, 1, 2, 3.
+
+
+
+[Researcher] 13:05:32
+
+Okay, thank you.
+
+
+
+[Researcher] 13:05:52
+
+Okay, awesome. There you go. So that's… This is all set. Okay? And then I'll start recording.
+
+
+
+[Researcher] 13:06:02
+
+Here? Okay, there we go. Um, so the first question here is, um, can you briefly tell me about the kinds of CS1 courses that you taught recently? This will help give us like context. So, for example, like average age of students, what language? You can also say, like, what size again for the recording.
+
+
+
+[Interviewee] 13:06:22
+
+Sure. So I've taught this class for 2 semesters now. It's a Malvab class.
+
+
+
+[Interviewee] 13:06:29
+
+framed as a intercourse, but specifically for engineers, which is kind of cool, but also really a little bit difficult, because it's not only.
+
+
+
+[Interviewee] 13:06:40
+
+a class for just one type of like major right like SSES traditional course would be. We have like chemical engineers. We have biomedical, we have mechanical, we have.
+
+
+
+[Interviewee] 13:06:51
+
+any… a bunch of other engineering students. But in the basis of just, like, SSCN's intercourse, and so.
+
+
+
+[Researcher] 13:06:53
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:06:57
+
+to most students, which are in the range in their 18 to like 21. So they're all mainly first and second year.
+
+
+
+[Interviewee] 13:07:09
+
+That is their first programming class ever. And so they… We have to go through a lot of that introduction, but at the same time cover MATLAB things that they're likely going to be using in future courses. And so last semester, I taught this.
+
+
+
+[Interviewee] 13:07:24
+
+for around 26 students. They were all actually like 18 to 19.
+
+
+
+[Interviewee] 13:07:29
+
+because it was a part of the 1st year abroad program.
+
+
+
+[Interviewee] 13:07:33
+
+But this semester, I'm teaching it with 215 students, and so we have a greater range of years. The majority of them, I would leave, because I had some stats on this, actually.
+
+
+
+[Interviewee] 13:07:44
+
+I think 50-60% of them were, like, 5th year first year, right? Around 20 was like second year, and then the year ones were like 3rd, 4th, or even fifth year. So, which I'm not sure how that can happen, because this is an intro course, and it's, like, foundational to their engineering course.
+
+
+
+[Interviewee] 13:07:59
+
+So they somehow got through without actually taking this course. And now they're taking it for the first time. And so.
+
+
+
+[Interviewee] 13:08:07
+
+based on experiences, I also measure, like, how, you know, what sort of like languages they knew about were sort of constructs in programming they knew about, and how comfortable they were programming. And so, for a lot of them, I think around 160, they said that it was, like, their first programming course ever, and they had never.
+
+
+
+[Interviewee] 13:08:23
+
+used or taught about programming, even in high school.
+
+
+
+[Interviewee] 13:08:28
+
+So, a lot of the hardships there is, like, trying to.
+
+
+
+[Interviewee] 13:08:31
+
+have students be comfortable with robamine, so, like, not as scared, because I feel like there's a lot of stigma around like just like programming is really difficult, and you're never going to be able to get it or something like that. And so.
+
+
+
+[Interviewee] 13:08:41
+
+That very first step is like, you can do it. And then after that, we can go into the basics of MALAB and all the different, like.
+
+
+
+[Interviewee] 13:08:50
+
+Quicks that it has, really. and then going a little bit more advanced throughout the the semester. So I can take you. I don't know if you wanted to like know about the topics or what we do every week or so. But yeah, that's kind of like an overview.
+
+
+
+[Researcher] 13:09:06
+
+Gotcha. Honestly, it's interesting that they're teaching MATLAB, though, because I would say most of them that we've heard so far, like, a lot of Python or Java, but then is it, like, because of engineering? Because they're not CS majors then? Is it, like… engineers use more MATLAB or is there a decision?
+
+
+
+[Interviewee] 13:09:22
+
+Yeah, so the this language is really just designed.
+
+
+
+[Interviewee] 13:09:27
+
+for a lot of, like, engineering applications. However, there aren't any years that learn Python instead. So like computer engineers or any other civilizations that are a little bit more closely related to Cs. They take Python and Java.
+
+
+
+[Interviewee] 13:09:44
+
+However, for the rest remaining oven deniers, they take MATLAB and they, I think one.
+
+
+
+[Researcher] 13:09:44
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:09:52
+
+one issue that is that this is at least mainly here at [INSTITUTION], that it's the only programming course that engineers take.
+
+
+
+[Interviewee] 13:10:00
+
+So this is a really just foundational class where it's, like, kind of like framed as, like, for CS, like CS1, but also… We to cover a lot of things so that they can be ready and prepare for like their future classes.
+
+
+
+[Interviewee] 13:10:14
+
+because they're likely not going to take any other programming course.
+
+
+
+[Researcher] 13:10:15
+
+Mm-hmm. Gotcha. So it's more like the classes like Lisa, because the language is designed, then they can just take this, and this will be like, get them an idea of like how to code. But then they probably won't need it.
+
+
+
+[Researcher] 13:10:29
+
+Um, and there's, like, subsequent courses.
+
+
+
+[Interviewee] 13:10:33
+
+Um, there are some, depending on the major. There are some that do use it. But I think MALAB is mainly just used for like scripting and just like quick data analysis. Um… because it allows you to do a lot of things really quickly, then Python would.
+
+
+
+[Interviewee] 13:10:50
+
+It's kind of strange to say, because Spython is really quick at doing, like, small things.
+
+
+
+[Interviewee] 13:10:54
+
+But, for example, like in terms of MATLAB, it allows you to do a lot of, like, different operations, like vectorized operations, or, like, do call really quick calculations. Then with Python, you would have to use something like NumPy or Panda or something like that, right? And so all these things are already built in to MATLAB.
+
+
+
+[Researcher] 13:11:08
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:11:10
+
+And you can very quickly just start creating graphs and like annotations and working with a large data set without having to install or worry about anything.
+
+
+
+[Interviewee] 13:11:22
+
+within Python, right? You can just have Madlab and then just do everything from within there, which makes it a lot easier to make interactive graphs, or like make.
+
+
+
+[Researcher] 13:11:24
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:11:32
+
+some nice charts that you can just export, and just visualizations, and do quick statistical analysis and stuff like that without having to… worry about anything in Python. However, because they're closely related, a lot of the things that are done in MATLAB can be done in Python, and the syntax is almost identical, actually, which is…
+
+
+
+[Interviewee] 13:11:51
+
+I mean, they don't know that, this is the first Birming class, but for me, like, I'm like, oh yeah, this is they could just like read Python code after this class, too, because it's actually pretty similar.
+
+
+
+[Researcher] 13:12:02
+
+Gotcha, gotcha. Also, would you consider your class size like like big then, or, like, um, like, what would you say like your context? Is it like I guess it wouldn't be a small class, but then…
+
+
+
+[Interviewee] 13:12:16
+
+Um, yeah, definitely on the larger scale. And part of that is that we are kind of like we're actually at overcapacity this semester because the registrar didn't cap the class fast enough. And so a lot of students are just.
+
+
+
+[Interviewee] 13:12:34
+
+Um, but so for, like, the summer and… so for the summer, we have, uh, capped at 50 already, and then for the fall, it's capped at 100, right?
+
+
+
+[Interviewee] 13:12:42
+
+So in reality, we're kind of, like, double the size of what it should be.
+
+
+
+[Researcher] 13:12:46
+
+I see. So usually it's 100, but then because of a mishap now, now it's a 215.
+
+
+
+[Interviewee] 13:12:47
+
+But yeah.
+
+
+
+[Interviewee] 13:12:54
+
+Yeah, yeah. Yes. And this is also an important distinction. This is like the online section.
+
+
+
+[Researcher] 13:12:56
+
+Gotcha.
+
+
+
+[Researcher] 13:13:01
+
+Okay.
+
+
+
+[Interviewee] 13:13:02
+
+which runs pretty similar to the, like, in-person section, but it's… we have, like.
+
+
+
+[Interviewee] 13:13:07
+
+Like we recorded lectures and we provide I mean, I teach them in person and on Zoom. They're recorded at the same time. They can students can go back to them and everything else. The in-person section.
+
+
+
+[Interviewee] 13:13:18
+
+They have also a lot of students, but they're split up into sections. So I think they have 2 to 3 sections of 150 to 200 students just as but not all together, right?
+
+
+
+[Interviewee] 13:13:29
+
+Brilliant.
+
+
+
+[Researcher] 13:13:29
+
+Gotcha. So wait, so then to make sure I got it. So then, while you're so you teach an in-person lecture, but it's also recorded. And then there's like a zoom session also, or… Do you usually teach in person? Okay.
+
+
+
+[Interviewee] 13:13:40
+
+Yes, yeah, yeah. So because the only section historically has only had videos for the students, like pre-recorded videos, and I thought it would be better for the students if we are, like if we see each other in person and like do examples in class and…
+
+
+
+[Interviewee] 13:13:56
+
+I would have more, like, interactive, like. I'm active like teaching a style. And because it's still an online class, I can't make it so that it's like.
+
+
+
+[Interviewee] 13:14:07
+
+Great. I think it would be unfair to just be like, I'm gonna do this in person, and if you weren't there… then that's up, you know, I so I then what I do is, like, I do teaching in person, but at the same time, I'm.
+
+
+
+[Researcher] 13:14:12
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:14:18
+
+You can join on Zoom, and simultaneously, I'm recording it. So you can either watch it.
+
+
+
+[Interviewee] 13:14:24
+
+in person there and interact with me. You can interact with me online, or watch it later on.
+
+
+
+[Researcher] 13:14:29
+
+I see. Okay, so it's kind of like the students can choose which medium. So you're teaching. You have an in person. But then it's also on Zoom. If case like people. So it's like a hybrid. But then there are also some people that are do you take attendance then? Or is it usually like people? Some people choose to be asynchronous?
+
+
+
+[Interviewee] 13:14:42
+
+Yeah.
+
+
+
+[Interviewee] 13:14:48
+
+Um, I do not take attendance exactly. I do use, um, clicker questions, so, like, just attend, like, participant questions at the beginning of the course, but I don't do it so much, uh.
+
+
+
+[Researcher] 13:14:54
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:15:00
+
+For participation, I do it more just like to determine, like, live, if we need to review something. So I just do, like, I like to do, like, 5 to 10 minutes of reviews at the beginning of a class, and so those questions help me know, like, are we on the right track, or, like.
+
+
+
+[Researcher] 13:15:10
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:15:14
+
+Are we like largely misunderstanding a concept or like some sort of like snippet of code or something, and then I review it.
+
+
+
+[Interviewee] 13:15:21
+
+But then I also have those clicker questions be available up to 24 hours later. So if a student really couldn't make it during that time, then they can still get the points there. And I get the I have them do the points, not for.
+
+
+
+[Interviewee] 13:15:35
+
+Um, correct answer, but actually just participating in it.
+
+
+
+[Researcher] 13:15:38
+
+Mm-hmm. Gotcha. Okay. And what aspects of teaching do you find particularly rewarding? And then on the flip side, are there any parts of teaching that you find particularly challenging?
+
+
+
+[Interviewee] 13:15:40
+
+Yeah.
+
+
+
+[Interviewee] 13:15:50
+
+Mm-hmm. I think it's definitely… it's super rewarding just to interact with the students directly. So we also have recitations that are in person. Those are not recorded.
+
+
+
+[Interviewee] 13:16:01
+
+We have them twice a week, just… I mean, it's the same situation where you just, like, have two slots instead of… in cases that students can't make it to just one.
+
+
+
+[Interviewee] 13:16:11
+
+And so those are just really nice, because I can interact with the students directly and I can see.
+
+
+
+[Interviewee] 13:16:18
+
+what they're, like, understanding, what they're not understanding, and actually, you know, get to sit down with them and see if they need any help. And we usually do that. They're like, Oh, I actually, you know, I asked them like how they're doing in class. I'm like, actually, I really like it, or they tell me, like.
+
+
+
+[Interviewee] 13:16:33
+
+Like, yesterday, I was talking to a student, they're like, you need to speak louder in class, or like speak slower. And I was like, okay. But just those type of interactions are really nice, because, you know, touches large class, I really don't have that much, uh, attention to, like, one-on-one.
+
+
+
+[Interviewee] 13:16:49
+
+So it allows me to… kind of, like, take a breather and just see what's actually happening.
+
+
+
+[Interviewee] 13:16:57
+
+And so through that, just like also includes like office hours, right? Or just like I also students can schedule meetings with me. So like having having like one-on-ones or multiple students with just me.
+
+
+
+[Interviewee] 13:17:08
+
+It's nice to just see like that they're appreciating the class like like multiple like a few times they've told me like, Oh, I really like your teaching style.
+
+
+
+[Interviewee] 13:17:17
+
+And for me, I'm like, Oh, really? Thanks. But because it's things that I don't really think about, because for me, I'm like… my teaching style is just, like, chaotic, and I don't, like, you know, half the times, I don't know what I'm doing, but then they're like, actually, I really like it, and I'm like, okay, so I'm doing something right. Um…
+
+
+
+[Interviewee] 13:17:32
+
+and then other times saying like they they enjoy having kind of like more of it like a younger professor, maybe like with a similar cultural background into all these different things. I'm like, okay, this is this is really rewarding on that side.
+
+
+
+[Interviewee] 13:17:46
+
+What's not as rewarding is when you don't have that many students going to recitations, or like maybe failing exams or quizzes.
+
+
+
+[Interviewee] 13:17:55
+
+and not seeking help. And that is, I mean, I feel sad about it, but I also know that I can't force him to do anything.
+
+
+
+[Interviewee] 13:18:07
+
+And even though I remind them every week, right, we have about also like 10 to 15 office hours every week. I have five office hours every week, just like myself alone.
+
+
+
+[Interviewee] 13:18:17
+
+And I also let them schedule office hours where I'm available from 10 to 6:00 any day.
+
+
+
+[Interviewee] 13:18:23
+
+And even with all those and also hesitations, and… having… we have a forum by like a discussion similar to like Piazza. So we have those.
+
+
+
+[Interviewee] 13:18:33
+
+So we give him a lot of, like, different options and forums and mediums to actually communicate with us.
+
+
+
+[Interviewee] 13:18:40
+
+But they're not doing… some of them are not just… I don't know if they just keep up already or something, but that just makes me sad a little bit, just because I want them to succeed. And if I don't, because it is such a large, a large class, I can't tell who, like, you know, who's like not going to class or like who's not watching the videos because it's.
+
+
+
+[Interviewee] 13:18:58
+
+Too much, like, to keep track of. And so I'm just… At the beginning, I felt bad. Now I'm just like, well, I can't, you know, if I continuously think about it, it would be too much mentally for me and emotionally to, you know, to keep track of. So I'm just like, you know, we're giving them the resources.
+
+
+
+[Interviewee] 13:19:17
+
+We're being as open as we can. So it's ultimately up to them if they are choosing to interact with the class or not. So now I don't feel as bad about it, but it's definitely something that I still think about.
+
+
+
+[Researcher] 13:19:29
+
+Gotcha. Um, oh, one more question I had about, like, the class. When you said it was like online and then online on like asynchronous like an online Zoom and in person. Like, what would you say is the percentage breakup of, like, people that usually come.
+
+
+
+[Researcher] 13:19:45
+
+Like to each how like like how, yeah, what's the usual?
+
+
+
+[Interviewee] 13:19:47
+
+Hmm. So, usually, yeah, for in person, we have… we get usually like 100 to 150 like show up in person, and then 50, 70 online.
+
+
+
+[Interviewee] 13:19:59
+
+So it definitely seems. And even just like talking to students, it seems that they they prefer in-person, even though it is an online class. So I'm in that way. I'm glad that I chose to have kind of like that hybrid approach, because it seems that they enjoy it.
+
+
+
+[Researcher] 13:20:00
+
+Okay.
+
+
+
+[Researcher] 13:20:07
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:20:15
+
+But yeah, and it still surprises me sometimes that I'm like, oh, you actually showed up because they're, you know, they don't have to. And it's also being recorded. So, um, it's nice just to see that.
+
+
+
+[Researcher] 13:20:21
+
+Right.
+
+
+
+[Researcher] 13:20:26
+
+So then usually the asynchronous is usually if they have, like, some conflict, like, they can't make it or something. That's usually.
+
+
+
+[Interviewee] 13:20:32
+
+Right, yeah. So it seems like a lot of, like, students, at least for.
+
+
+
+[Interviewee] 13:20:38
+
+Well, it seems like the majority of the mentions that they work or they're doing something in internships or other activities that just don't allow them to be at that time.
+
+
+
+[Interviewee] 13:20:47
+
+and we actually get them to… Like they comment on that as well. So I have them do reflections after every exam or when I'm asking them like how they're doing or whatever.
+
+
+
+[Interviewee] 13:21:00
+
+They're always kind of, like, sad if they can make a lecture or some sort of recitation because… and that's what they tell me, like, oh, because I had a job or like I was doing something or whatever, right? And so… Um, yeah, it's interesting to me, I think, that they feel bad because of.
+
+
+
+[Researcher] 13:21:11
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:21:17
+
+That's why we gave them options, is because I don't want them to feel that, but they still do. Yeah. But anyway, that was just an aside.
+
+
+
+[Researcher] 13:21:25
+
+Gotcha. And then so would you say most of your are most of your students full-time students, or do some of them like work in another like part-time students, or…
+
+
+
+[Interviewee] 13:21:36
+
+Um, I actually don't have that data. I can maybe talk about it more like just anecdotally. I do believe most students are full time, at least at [INSTITUTION]. That's kind of like the trend.
+
+
+
+[Researcher] 13:21:42
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:21:47
+
+But I have communicated with a few students that are like working or they are.
+
+
+
+[Interviewee] 13:21:52
+
+mainly just, like, doing this class and not that many other classes, so in that way, those are, yeah, they would be part-time. But I don't have the actual, like… stats on that.
+
+
+
+[Researcher] 13:22:00
+
+Gotcha, gotcha. Okay, cool. And then can you describe a time when you thought a student needed help, and then how did you intervene?
+
+
+
+[Interviewee] 13:22:09
+
+Mm-hmm. Um… So I think most cases, I… at least, so I can kind of talk about it like first for like the one I had just like the 2020 students.
+
+
+
+[Researcher] 13:22:23
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:22:25
+
+Those cases were really, really easy, because then I could just see what they're kind of, like, doing in lecture. If they're kind of, like, falling asleep or whatever that… where they need to be like, maybe I need to talk to you, but also because I had them do…
+
+
+
+[Interviewee] 13:22:40
+
+So my lectures, since we've run through a lot of examples, um, usually what happens is that we do an example together, like 10, 15 minutes, and then I have them split off.
+
+
+
+[Interviewee] 13:22:49
+
+And I give them like 10 minutes to work on something else, and then I would just go around the classroom to see if they needed help, or however they're actually coding.
+
+
+
+[Interviewee] 13:22:57
+
+if I… whenever I did those things, and I saw that they were kind of just, like, blankly staring at the code and not knowing, like, where to go on.
+
+
+
+[Researcher] 13:23:04
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:23:06
+
+I would give them space, because I don't want to like just be on top of them or whatever. But after a few minutes, I would say like, hey, do you have any questions? And then at that point, they would either be like, I don't. They were just kind of like start like they would even struggle to form a question.
+
+
+
+[Interviewee] 13:23:23
+
+but also like be self. Like, they knew that they kind of, like, were lost, and they laughed about it at the same time, and I was like, you know, maybe let's talk about this, right, after class or something.
+
+
+
+[Interviewee] 13:23:35
+
+or they were just like, yeah, I'm just thinking or something, so… so in either of those cases, I would reach out.
+
+
+
+[Interviewee] 13:23:43
+
+Usually via email or just like if I see if I saw them just like walking around because it was a small class. So I could just be like, Hey, can you? You know, can we talk about.
+
+
+
+[Interviewee] 13:23:53
+
+Um, and then I would just, like, tell them that they can go to office hours, like, um… however many times I need, they can stay, like, the full time, they can work doing homework, and we can meet separately as well. Um, and so in those cases, that was kind of, like, the way that I would tackle those issues, just because I wanted them to.
+
+
+
+[Interviewee] 13:24:11
+
+Understand what they're, like, not understanding, and see how we can help them.
+
+
+
+[Interviewee] 13:24:16
+
+actually learn through that before, like, an exam, or before any, like, major deadline.
+
+
+
+[Interviewee] 13:24:24
+
+And that I think it it works, at least for like what I was doing like last semester was like the students that were struggling, they met with me like multiple times a week, usually for like one to two hours. We went through a lot of different problems and they asked me like a bunch of questions.
+
+
+
+[Interviewee] 13:24:41
+
+They slowly like started getting more comfortable, and then by the end they're mainly like still attending office hours, but they just spent the entire time working on homework problems, and then maybe asking like a question like every 30 min or so right? And just like having kind of like that space and.
+
+
+
+[Interviewee] 13:24:56
+
+I think, in a way, like body doubling for them helped them actually get through the course. And then by the end they would, you know, I think.
+
+
+
+[Interviewee] 13:25:05
+
+They all got good grades, because, again, because I was so attentive then.
+
+
+
+[Interviewee] 13:25:10
+
+for this semester, because there's so many students. I haven't done… I can't really… I don't know exactly who was, like, actively struggling. So the only way that I know is just by keeping track of, like, the current grades. And so for, like, I think 2 or 3 weeks ago.
+
+
+
+[Interviewee] 13:25:28
+
+I let students know that if you have, like, Velo, this is my percentage, then please like come talk to me and we can talk about and discuss like anything that you need to be discussed, whether it's kind of reviewing lectures from like previous weeks or whatever.
+
+
+
+[Interviewee] 13:25:43
+
+We can do that. I have let them know throughout the semester multiple times that they can just attend office hours and just to work. They don't have to have any questions. And then, most recently, because of the withdrawal deadline coming up, then I told them like, if you're thinking about withdrawing for the past weeks, I've told them this like, if they're thinking about that.
+
+
+
+[Interviewee] 13:25:58
+
+I'd love to, like, chat with them and see how we can maybe help with that, or discuss like study habits, study tips, and all these different things so that they can.
+
+
+
+[Interviewee] 13:26:08
+
+understand, uh, kind of like an overview of, like, should I actually drop, or like, should I consider something else?
+
+
+
+[Interviewee] 13:26:15
+
+Because I think it's easy for them just to be like seeing lower grades, and then just be like, well, I'm going to give up like I can't do anything. But I want to like step in before that happens. So we can actually discuss something. So, so far I've discussed with like 2 students that were considering dropping.
+
+
+
+[Interviewee] 13:26:31
+
+And so we talked about, like, how to study for this class, and how to go from like what they currently are misunderstanding to getting a better understanding, which is like more comfortable with, like.
+
+
+
+[Interviewee] 13:26:41
+
+different parts of MATLAB and concepts in programming and everything else.
+
+
+
+[Interviewee] 13:26:47
+
+I don't know if again, because I don't know how they we haven't finished grading exam two. We'll see. So we'll see what they did about afterwards.
+
+
+
+[Interviewee] 13:26:56
+
+But yeah. And so the throughout the semester. because I didn't have again that great of a connection with the students, because there's so many I've done a few changes already this semester where like I spent like half a lecture, for example, talking about like self regulated learning right? And I wanted them to actually keep track of those like study habits on their own.
+
+
+
+[Interviewee] 13:27:17
+
+I've told them, like, after every exam, I have them do reflections that are worth like, you know, extra credit just because I want to actually have them do it. But also to think about like what they think about the exam. How do they study for that? Are they going to do anything different? Right?
+
+
+
+[Interviewee] 13:27:32
+
+And so through that kind of like force them to actually actively participate in their own learning and the way that they're going about it.
+
+
+
+[Interviewee] 13:27:41
+
+I'm hoping that has been like working. I'm not entirely sure. I think that's kind of like the… Just the drawbacks of, like, having a readouts class that I can't… I don't really see.
+
+
+
+[Interviewee] 13:27:54
+
+the effects until, like, weeks or months later, right? For a lot of these things, I think I want to do, like, an exit survey, right? At the end of the semester, what I ask them, like, hey, do you… how do you feel about this? Or, like, what do you think about this other part, or whatever else?
+
+
+
+[Interviewee] 13:28:09
+
+Because at this point, the only way that I know is, like, by asking.
+
+
+
+[Interviewee] 13:28:13
+
+students like individually, because I know already, like, if I ask this, like, for the entire lecture during class.
+
+
+
+[Interviewee] 13:28:20
+
+They really hate speaking in public. And so… the most I get is, like, a thumbs up, or just, like, a smile and a nod, which is nice, but it, like, when I'm talking to them one-on-one, they actually talk for like 10 minutes, and I'm like, why, you know, why don't you do that in class?
+
+
+
+[Interviewee] 13:28:36
+
+And so like one thing, even like another change is like the, the homeworks for this.
+
+
+
+[Interviewee] 13:28:43
+
+I think historically for this class, and a lot of, like, programming classes is that.
+
+
+
+[Interviewee] 13:28:49
+
+They are framed from a more CS perspective, and they're like, if you have these, like, random inputs, and you want to just, like, join them, or if you want to do something to them, what is the output to multiply them or whatever, right? But it's… there's not that much of a context.
+
+
+
+[Interviewee] 13:29:03
+
+So what I've done this semester is to put them on a like real world application right? So like you would still practice the same skills. But instead be framed on like you're analyzing data from a psychology study.
+
+
+
+[Interviewee] 13:29:19
+
+or you're trying to find out C scores, or you're trying to like, have these periodic elements or like find out the DNA sequencing right? And so all of these things are still applying the same skills that we are doing in class, but actually having a deeper connection to a real world.
+
+
+
+[Interviewee] 13:29:34
+
+And again, I did this. I mean, I've done since the very first day of class. But I don't know about it until I think I was meeting a student last week, and they were like, Oh, actually, I really enjoy that.
+
+
+
+[Interviewee] 13:29:45
+
+And I was like, oh, okay, I didn't know, right? Which is nobody has complained, so I just keep doing that. And I… because I do think that that is working, but again, I don't know, and until probably I do the exit survey at the end of the semester.
+
+
+
+[Researcher] 13:29:48
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:29:58
+
+But in a smart class, I'd be like, hey, how do we feel about this homework, or whatever? And so that would be.
+
+
+
+[Interviewee] 13:30:03
+
+way easier to do, but not… not in… with so many students.
+
+
+
+[Researcher] 13:30:07
+
+Gotcha, gotcha.
+
+
+
+[Interviewee] 13:30:10
+
+Sorry, also, I just I mentioned a lot of things. I don't know if you answered the question, actually.
+
+
+
+[Researcher] 13:30:14
+
+No, I think you did, because it was about, like, um, it was about, like, can you describe when… how you identify? Let's see, oh, when you thought a student needed help, and how did you intervene? So you kind of went over, like, how you identified them, um, and then what you did, both for the smaller class in the in the summer, I believe, and in the bigger.
+
+
+
+[Interviewee] 13:30:23
+
+Oh, yeah.
+
+
+
+[Interviewee] 13:30:28
+
+Hmm.
+
+
+
+[Researcher] 13:30:30
+
+and then the bigger one you have now. I was gonna ask, what's your return rate? Would you say, like, if you, like, send out a like like an email where you're like, Hey, like, um, like, do you want to meet with me? Like, I saw whatever, um… Like, what would you say your return rate is usually?
+
+
+
+[Interviewee] 13:30:47
+
+Um, it's… I think it's pretty… Well, they're basically… I'm not sending, like, any individual messages. I'm mainly kind of like just send announcements to the class.
+
+
+
+[Researcher] 13:30:57
+
+Okay.
+
+
+
+[Interviewee] 13:30:58
+
+From those, I have gotten like, I think… Probably 10 to 20 students that are just like.
+
+
+
+[Interviewee] 13:31:06
+
+They have met with me. They have scheduled office hours to, like, meet with me separately. And so I feel like those are pretty good.
+
+
+
+[Interviewee] 13:31:15
+
+because I do think that it's the majority of the classes is doing well, at least from what I'm gathering from the reflections, that most of them are like, actually, the exam was, like, pretty good. It was fair, like, it was challenging, whatever. Um, and it's only a select few that are like.
+
+
+
+[Interviewee] 13:31:31
+
+It was really difficult like I was completely unprepared, right? Deflections, though I have them anonymous? I don't really know who is saying that which I did. It's just to protect their privacy if they want to like share anything else. Maybe I should not have them be anonymous. But anyway.
+
+
+
+[Interviewee] 13:31:49
+
+I haven't really reached out to like any specific students to be like, Hey, do you should we talk about this more? Because I didn't want to like single anyone out.
+
+
+
+[Researcher] 13:31:53
+
+Hmm.
+
+
+
+[Researcher] 13:31:58
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:32:00
+
+Um, the only thing that if they do reach out to me first and yeah, then I continue in that conversation, but I leave it kind of like up to them.
+
+
+
+[Researcher] 13:32:07
+
+Gotcha. So the students more like has to be proactive in terms of like actually coming to you for like the individualized help.
+
+
+
+[Interviewee] 13:32:14
+
+Yeah, yeah. Although, next week, I am planning to, like, just send… or, like, start sending those individual messages if I see that they're doing really like not the best, just because of that withdrawal deadline coming up, I don't want them to…
+
+
+
+[Interviewee] 13:32:31
+
+realize it too late. So maybe they just, like… Kind of like nudging them a little bit to be like, hey, how are, you know, how are you doing? Because I don't it's not to say that they cannot succeed in the class, but I want them to kind of like think.
+
+
+
+[Interviewee] 13:32:44
+
+about what's happening right now. Because it's easy, I think, as an only class.
+
+
+
+[Interviewee] 13:32:49
+
+They just forget about it.
+
+
+
+[Researcher] 13:32:52
+
+Definitely. And then how would you? Let me see how challenging is it to determine when a student requires additional support? And do you think class size affects this difficulty?
+
+
+
+[Interviewee] 13:33:04
+
+Mm-hmm. Yeah, no, I definitely do think that it.
+
+
+
+[Interviewee] 13:33:07
+
+it affects like the the class size definitely affects, because I.
+
+
+
+[Interviewee] 13:33:11
+
+even though I have like memorized like a few of my students names.
+
+
+
+[Interviewee] 13:33:17
+
+And I recognize a lot of them. I don't know their specific grades. I think that's the biggest difference that I've noticed from like last semester, right? Like.
+
+
+
+[Interviewee] 13:33:27
+
+going from where I had 20 students. And not only did I memorize their names, I knew how they were doing on exams and everything else. I even memorized some of their, like, handwriting, right? So I could see, like, exactly.
+
+
+
+[Interviewee] 13:33:41
+
+what was happening on their, like, exams and homeworks and everything else, and I could see, like, how they were doing on Canvas overall.
+
+
+
+[Interviewee] 13:33:50
+
+So that I could then… kind of like tackle, I guess, their questions differently, right? If I knew that a student was struggling, and they asked a question during class.
+
+
+
+[Interviewee] 13:34:02
+
+I'd be like, oh, this is likely because they misunderstand this other thing. If I knew that a student was doing well, and they asked a different question, and maybe even the exact same question, I knew that it was more about, like, maybe curiosity. Not that there was a misunderstanding with that. Um… But in a larger class, even though I recognize my students, and I think I recall at this point, like, maybe 30 to 40 of their names.
+
+
+
+[Researcher] 13:34:15
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:34:24
+
+Um, I don't know how they're doing in class. Great. I have to like.
+
+
+
+[Interviewee] 13:34:28
+
+if I'm… if I want to know, then I have to, like, build on Canvas and be like, oh, these are the grades, and then 5 minutes later, I'm gonna forget.
+
+
+
+[Interviewee] 13:34:37
+
+And so in those cases, I don't really like I can't get an individual sentence of what.
+
+
+
+[Interviewee] 13:34:45
+
+Is it that they are struggling with specifically, right? I knew maybe when I was when they met with me in office hours to like discuss or go over their exam or quiz.
+
+
+
+[Interviewee] 13:34:56
+
+I can see the grades, and I'm like, oh yeah, you misunderstood these things, or like, you actually did pretty well, you just, like, struggle with these parts.
+
+
+
+[Interviewee] 13:35:04
+
+a day, or even, like, an hour later, I completely forgot what they were struggling with. And so then that means that when it comes to like the second exam or the 3rd exam.
+
+
+
+[Interviewee] 13:35:13
+
+I can't really relate to what they were solving with before it, and see if they actually improved on that or not.
+
+
+
+[Interviewee] 13:35:21
+
+I can only do that if I go into, like, Canvas rate and then check directly. But even then, the campus is only going to tell me the score. It's not going to tell me the individual questions. If I want to see the questions and I have to go to Gradescope to each individual assignment, and then actually check how they did across those, because they're paper exams.
+
+
+
+[Researcher] 13:35:30
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:35:36
+
+But it's not as easy as to do like the analysis.
+
+
+
+[Interviewee] 13:35:41
+
+Which is… I mean, I haven't done that yet, because I think it's… it would be a lot of work, so I don't even… bother at this point if they do want to, like, if they do schedule to meet with me, then at that point, I do kind of, like, open up them multiple at once and see, like, oh yeah, you actually did pretty well here, and it seems like you did better.
+
+
+
+[Interviewee] 13:35:59
+
+you know, on this like code tracing or like masking problems for like, or you know, whatever.
+
+
+
+[Interviewee] 13:36:07
+
+But overall, yeah, that's kind of like. difficult to… to just, like, do.
+
+
+
+[Interviewee] 13:36:13
+
+In general. And I don't know if it… like, in the smaller class, it's not that I memorize exactly what they were struggling with, but I got a sense of, like, oh yeah, this student has, like, they did pretty well on exam 1, they actually just understood this well.
+
+
+
+[Interviewee] 13:36:25
+
+And I could see there's active struggles as I was like going through the classroom and seeing what they were working on in class. I could remember what they were asking about. I could see like how comfortable they were in answering questions and all these different things.
+
+
+
+[Interviewee] 13:36:40
+
+through, like, a combination of all of those, because it was just, like, the same students over and over again.
+
+
+
+[Interviewee] 13:36:45
+
+It would be, like, really easy to just be like, oh, this is what you need more help with right without even need having to look, look at anything. Just because it was kind of like a constant repetition to me.
+
+
+
+[Interviewee] 13:36:58
+
+Oh, it's going over in lecture, their exams, the questions, the answers, and all the way.
+
+
+
+[Interviewee] 13:37:03
+
+And but for this class. It doesn't. I mean, just as a larger class section, I'm not able to do that as well.
+
+
+
+[Researcher] 13:37:13
+
+Gotcha. I was also going to ask, like, do you have like student support staff? Like, do you have like Tas for this class? Or is it just you running everything?
+
+
+
+[Interviewee] 13:37:20
+
+Yeah. No, no. Yeah, we do. I have 90s right now.
+
+
+
+[Researcher] 13:37:24
+
+Okay.
+
+
+
+[Interviewee] 13:37:25
+
+Yeah, so that helps a lot. So because they're the ones that do the majority of the grading, and they have also, like, office hours and all these different things, but it seems that students don't go to their office hours as often. They go more to, like, mine.
+
+
+
+[Interviewee] 13:37:38
+
+Um, we were actually meeting without Teddy this morning because we want them to, like, actually go to the TA's office hours.
+
+
+
+[Researcher] 13:37:39
+
+Hmm.
+
+
+
+[Researcher] 13:37:45
+
+Right? Help distribute the work a little bit, I guess.
+
+
+
+[Interviewee] 13:37:49
+
+Yes, but also just like because they're in a way like the Tas are bored right like they're not.
+
+
+
+[Interviewee] 13:37:54
+
+They're not doing as much as they would like to, because a lot of them do enjoy, like, talking to students and helping them.
+
+
+
+[Interviewee] 13:38:00
+
+And the other part was just like visitations, they… they mostly lead presentations.
+
+
+
+[Interviewee] 13:38:08
+
+I led the first, like, maybe 5 or 6 weeks, and then I laid off a little bit just for 60, and I was just, like, not able to actually go. Um… And then for the the ones, like…
+
+
+
+[Researcher] 13:38:15
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:38:20
+
+This week, for example. I… I went maybe for, like, the first, like, 10 minutes, and then just, like, left, because they.
+
+
+
+[Interviewee] 13:38:29
+
+They got it, like, unlock. But… but yeah, so the majority is kind of a combination of all those.
+
+
+
+[Interviewee] 13:38:37
+
+But they also, I think they can kind of get a sense of like what's of how the students are doing in dissertation overall, but not for any like specific students.
+
+
+
+[Researcher] 13:38:47
+
+And then for you, I'll give you to pick the maximum number of students before you felt like you couldn't give individualized care, like what number would you like threshold would you set that at?
+
+
+
+[Interviewee] 13:39:00
+
+I believe like I want to. I… I'm not being delusional and say that it's 100, but it's actually 50, I think, because… Um, I mean, I think because I think like everything, anything less than 200, uh, that I have right now would be better. Um…
+
+
+
+[Researcher] 13:39:08
+
+Okay.
+
+
+
+[Interviewee] 13:39:19
+
+which… so I'm getting, like, 100 for the phone, so I feel like that would be pretty doable, but definitely, like, 50 would be, like, a pretty good amount that it would… I would still… it would not be a super large classroom, but I could still remember a lot of their names and the specific things that they're like doing in class.
+
+
+
+[Interviewee] 13:39:36
+
+It would still be, like, a little bit of a challenge, I think, to have it more of a medium difficulty, probably like, yeah, 20 to 30 students would be like super ideal.
+
+
+
+[Researcher] 13:39:45
+
+Gotcha. And then, um, did you ever feel uncertain about providing extra support to student?
+
+
+
+[Interviewee] 13:39:56
+
+Um, what do you mean, uncertain like how like if I wasn't sure if they needed…
+
+
+
+[Researcher] 13:39:59
+
+like you were… Yeah, or you weren't sure what you needed to, um, help them with.
+
+
+
+[Interviewee] 13:40:04
+
+Hmm. Yeah, I think the… Well, I haven't like that student hasn't reached out to me. But there were some students that I think they wrote in the reflection.
+
+
+
+[Interviewee] 13:40:18
+
+For one of the exams that they… they struggled a lot because they didn't know how much math was involved.
+
+
+
+[Interviewee] 13:40:26
+
+And if they came to me with that particular prompt, I wouldn't know exactly what to say, because… Yes, the exams do involve math, but the to the extent that I have them do is just like adding, multiplying, dividing, and subtracting.
+
+
+
+[Interviewee] 13:40:42
+
+Um… Maybe, maybe I do have them do equations.
+
+
+
+[Interviewee] 13:40:47
+
+But that's still just all involves, like, you know, those first four operations. Um… So if they came to me, I wouldn't know exactly what to tell them, because they should have that knowledge already. I think it's from like, especially in an Indian degree.
+
+
+
+[Interviewee] 13:41:04
+
+So I'm glad that they haven't come to me, because I don't know exactly what I would go, because I'm not a math professor, so I don't really know, like, what specific gaps they have for that. Um… So if that did happen, I might have like either reached out to like somebody that I that I know like teaches math or.
+
+
+
+[Interviewee] 13:41:22
+
+specifically target the gaps that they actually have. Maybe they think it's enough, maybe it's actually something else, right? Maybe it's like… Understanding word problems or stuff like that. And so that I could be able to help with.
+
+
+
+[Interviewee] 13:41:35
+
+Um, other, I think maybe other times that I could.
+
+
+
+[Interviewee] 13:41:40
+
+not as uncertain, but I was definitely, like, hoping that they didn't ask more questions, um, was, like, prior to exam 2, which was on Monday.
+
+
+
+[Interviewee] 13:41:49
+
+I had a student like stay for like maybe three hours and they were just like constantly saying like, I'm cooked, like I'm not gonna do well or like, I'm going to fail.
+
+
+
+[Interviewee] 13:41:57
+
+And I kept kind of reminding him, like, no, it's, you know, it'll be okay, like, you're gonna be doing fine, let's… do you have any questions? Like, let's review something.
+
+
+
+[Interviewee] 13:42:04
+
+But they were kind of, like, even struggling to, like, to… verbalize what they were struggling with.
+
+
+
+[Interviewee] 13:42:10
+
+And so… I was like, I don't know exactly what to what to do, right? If they're just like completely kind of like blocked off.
+
+
+
+[Interviewee] 13:42:19
+
+from what they're trying to, like… understand better. Um… So, I basically… I gave them an overview of, like, the class and different things, and I asked them specific questions.
+
+
+
+[Interviewee] 13:42:32
+
+And then at the end they were like, you know, it's they're kind of like just were they said that it was like fine or whatever, but it's definitely a combination of just like not having enough time. I think this particular student like didn't study uh maybe until like the day before or even the day of the exam.
+
+
+
+[Interviewee] 13:42:48
+
+So, stuff like that, I was like, I want to help you out a lot, but also… I also need you, like, to put… you know, to give me something, too. I can't. I can't. It's not possible for me to like explain everything in like 3 h. That's leading up to the exams, because.
+
+
+
+[Researcher] 13:42:57
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:43:06
+
+we… we started covering exempt content, like, 4 weeks ago, right? So, like, it was… it's not done.
+
+
+
+[Interviewee] 13:43:12
+
+not that easy to, like… summarize everything there.
+
+
+
+[Researcher] 13:43:16
+
+It's like getting them to understand like you have to it won't magically happen. You can't just like.
+
+
+
+[Interviewee] 13:43:24
+
+Right, yeah. So it's kind of like just a combination of different things, where I'm like.
+
+
+
+[Interviewee] 13:43:29
+
+I have discussed in class before, like, I've told him what to, like, how to study for this class, I've given them the tips and everything, but I don't know if they're… I don't think they're like the ones that are struggling, I'm pretty sure that they're not doing it right. So I might go over that next.
+
+
+
+[Interviewee] 13:43:44
+
+right click next week again to be like, Hey, if you study for the next exam, it's not enough to just.
+
+
+
+[Interviewee] 13:43:49
+
+go through the homeworks and see, like, actually, that was pretty easy, and then move on. Like, that's not, I think, some of them might just be, like, just doing the homework to study. I'm like, No, you should break down the homework problems and actually, since the exams are on paper, you should also like try to write them on down on paper.
+
+
+
+[Interviewee] 13:44:06
+
+understand why you're doing it that way, why not another way, maybe try to, like, solve it different ways.
+
+
+
+[Interviewee] 13:44:11
+
+But it's going to take time. It's not going to be like… like a 2 h thing, right? It's like a continuous, like, weekly thing, or it's just daily, hopefully, right?
+
+
+
+[Researcher] 13:44:15
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:44:21
+
+So we'll see we'll see how that goes.
+
+
+
+[Researcher] 13:44:24
+
+Gotcha. Let me see. Oh, just a heads up. We have. I still have to show like the prototype, but there's about like.
+
+
+
+[Researcher] 13:44:34
+
+like, 5 more questions. Just to give like a heads up. Yeah, some yeah. So then.
+
+
+
+[Interviewee] 13:44:36
+
+Okay.
+
+
+
+[Researcher] 13:44:41
+
+Okay, what is… Yeah.
+
+
+
+[Interviewee] 13:44:42
+
+Also, sorry. Is it okay if I switch to my phone? Because I'm running out of battery.
+
+
+
+[Researcher] 13:44:46
+
+Oh, no problem, yeah. I think you can, yeah, you can… yeah, I'll give you a minute.
+
+
+
+[Interviewee] 13:44:54
+
+Um, yeah, let me…
+
+
+
+[Interviewee] 13:45:01
+
+or I mean, I can. I still have. I can answer like for the next question.
+
+
+
+[Researcher] 13:45:05
+
+Okay, gotcha. Yeah. So if you had to pick one or two aspects, what are the biggest challenges you face as a CS1 instructor when identifying students in need?
+
+
+
+[Interviewee] 13:45:06
+
+I think.
+
+
+
+[Interviewee] 13:45:18
+
+Um, I think it's definitely, like, the amount of things that I have to pay attention to.
+
+
+
+[Interviewee] 13:45:24
+
+It's one thing to like see what they're struggling with, but also trying to.
+
+
+
+[Interviewee] 13:45:30
+
+Make sure that we're not staying behind, and make sure that we're grading appropriately, and then creating the rubrics, creating the exams.
+
+
+
+[Interviewee] 13:45:39
+
+redefining like the homeworks like. Because other things are like happening for the first time.
+
+
+
+[Interviewee] 13:45:45
+
+And so there's been a few times that I'm like, Oh, I should do this in class or like, I should.
+
+
+
+[Interviewee] 13:45:51
+
+Right? Even from, like, first. I think.
+
+
+
+[Interviewee] 13:45:56
+
+Already in February, I was like, oh, I want to reach out to this student because they haven't submitted, like.
+
+
+
+[Interviewee] 13:46:01
+
+The first two homeworks or something, and then that just like I kept delaying that because I kept kind of like having things to do for the class, right? Like prepping the slides or like sometimes I do pre-recorded video. So I was like I had to edit those and make sure that they were like working properly and edit them.
+
+
+
+[Interviewee] 13:46:18
+
+like a lot of things that I eat. I guess I didn't take.
+
+
+
+[Interviewee] 13:46:22
+
+Uh, account off, like, I didn't know how much time that would take. And so when then I was, like, actively doing that, I was like, oh, I don't have time to, like, think about anything else. And so, often, the students would just, like, slip through the cracks, right?
+
+
+
+[Interviewee] 13:46:38
+
+In the end, I think we ended up like talking to those students. So they're they're okay now. But it was definitely like.
+
+
+
+[Interviewee] 13:46:44
+
+in my head that I wanted to like actively work with them.
+
+
+
+[Interviewee] 13:46:50
+
+But I also have to realize that it's not going to, like, I don't have as much of the ability that I had, like, last semester. Where I was just like, Yeah, we can spend like 4 h daily if you want. Now it's like, well… I have time for, like, Monday, and then…
+
+
+
+[Researcher] 13:46:58
+
+Hmm.
+
+
+
+[Interviewee] 13:47:07
+
+Then I'm, like, busy working on a million other things.
+
+
+
+[Interviewee] 13:47:12
+
+So yeah, that's kind of like the… the most difficult.
+
+
+
+[Interviewee] 13:47:16
+
+Okay, sorry
+
+
+
+[Interviewee] 13:47:21
+
+Okay, can you… sorry, I'm on my… So now… Okay, cool. Sorry.
+
+
+
+[Researcher] 13:47:22
+
+Mm-hmm. Yeah, I can hear you. Yep. Okay, yep, all good.
+
+
+
+[Researcher] 13:47:29
+
+Yep. No worries. Yes, next part. So you kind of mentioned that you used Canvas and Gradescope. Are there any other tools or any canvas features you use to identify students in need?
+
+
+
+[Interviewee] 13:47:45
+
+Um, not so much. I mean, I think I… So overall, I use, yeah, Canvas is the, like, the elements that we use. Our homework is through MATLAB grader, which is just like a… It's a platform that the people that created Mallab created, and so it's really nice. You have problems there and create, like, the tests for the prompts themselves, so it's… it's nice to have everything there.
+
+
+
+[Interviewee] 13:48:09
+
+Um, and then Grayscope, we used to, since your exams are on paper and quizzes, we just scan those and upload them to CraigScope so that I can see it, and then sync that to Canvas. Um, behind the scenes, then, I use, like, the Canvas API to make sure, like, you know, transferring the grades from the homeworks.
+
+
+
+[Interviewee] 13:48:27
+
+Um, and also, like, for the clicker questions, and… Uh, what's the other thing?
+
+
+
+[Interviewee] 13:48:34
+
+Oh, because I have them do, kind of, like… Two things that I do, like, for my homework is that.
+
+
+
+[Interviewee] 13:48:42
+
+Their disclaimer for, like, how they're answering questions, and so one of them is, like, they… or the disclaimers, sorry, is that.
+
+
+
+[Interviewee] 13:48:50
+
+They have to use functions that we discussed in class. If they use, like, a function that we haven't really discussed, that's okay, but they have to tell me how they found out about it and what they think that function does.
+
+
+
+[Interviewee] 13:49:03
+
+If they don't, then they would get a zero for that problem. So I have to, like, manually check that, uh… It doesn't take… I mean, I just use, like, uh… I used, like, rejects and then regex, and then VS Code, search for all of those, find if you have any comments, and then check the specific functions that I should be flagging.
+
+
+
+[Researcher] 13:49:03
+
+Mm-hmm.
+
+
+
+[Researcher] 13:49:15
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:49:22
+
+And then I have, like, just a CSV where I add the comments there, and then which functions I use, and then I process all that with, like, Python.
+
+
+
+[Interviewee] 13:49:31
+
+to then use the Canvas API to take, like, points off and, like, have… Um, have the actual comments in Canvas, like, hey, you lost points because you used, like, this function when… and you didn't, like, describe it, right? Um…
+
+
+
+[Interviewee] 13:49:45
+
+And so I also use the Canvas APIs to make, like, there's an assignment, like, an assignment that it's not worth any points, but I just use that to keep track of… how late they have been submitting to assignments, just because I give them…
+
+
+
+[Interviewee] 13:49:57
+
+At the beginning of the semester, I give them 48 hours, like, time credits. That is… it's, like, accumulated throughout the semester, so they can submit late to assignments without a penalty. Um, but that means that I also have to keep track of that.
+
+
+
+[Researcher] 13:50:07
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:50:10
+
+Uh, on my own. Um, because they submit some works to the mallet grader, right? So, like, it's not connected directly to campus, so I have to, like, export those submissions. That's usually, like, a really long CSV, so I process that with Python, and then.
+
+
+
+[Interviewee] 13:50:25
+
+Use the API to make sure that it's actually synced up to the campus there. Um… But I think that's to the extent that you use. I have used, like, kind of like the activity monitor, I think it's called, or something like that for, like, Canvas, just to make sure that they're actually watching the videos and stuff like that.
+
+
+
+[Researcher] 13:50:29
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:50:43
+
+Um, and that is, like, somewhat helpful, that's kind of, like, just a quick check just to make sure that they're, like.
+
+
+
+[Interviewee] 13:50:49
+
+They're actually clicking on that page. But it doesn't really tell me that much, so… For that video, what we use, like, H5P. I think it's, like, an HTML5 package. And so that's where I have, like, the videos, I make them interactive so that they have bookmarks, I have, like, questions embedded into the videos themselves. And so, just, like, to looking, those are embedded into, like, a Canvas page.
+
+
+
+[Interviewee] 13:51:14
+
+So then that just allows me to check, like, did they actually click on that page, right? Hopefully they are then clicking play on the video. I don't really know. Um… But then, yeah, that just, like, allows me to check for that, but then I, of course, I have to, like, manually go to that and see from there, and I… the only thing that I noticed, because I don't have any, like, any analysis or trends like that, is that the majority of them look at those videos, right?
+
+
+
+[Researcher] 13:51:23
+
+Hmm.
+
+
+
+[Interviewee] 13:51:39
+
+Right before the homework is due, which again, you know, I think it makes sense. Um… But I remember, like, I was concerned maybe, like, week 6 or something, or week 5.
+
+
+
+[Interviewee] 13:51:52
+
+That… I was looking at those, like, the activities there, and maybe, like, only 30 students had looked up, like, one page, but the homework wasn't due until, like, next week or something like that.
+
+
+
+[Interviewee] 13:52:03
+
+So, I was like, you know what, I'll check back again, like, on Tuesday. And then I check on Tuesday, and then at that point, I think it said, like, from 30, it jumped to, like, 160, and I was like, okay. So maybe that makes a little bit more sense. Um… But again, it was, like, up to me to, like, check that change.
+
+
+
+[Researcher] 13:52:13
+
+Okay.
+
+
+
+[Interviewee] 13:52:18
+
+I didn't have, like, a way to track that, really.
+
+
+
+[Researcher] 13:52:21
+
+Gotcha, gotcha. Um, let's see… Lindsay, we still have some questions, and then there's the prototype. We have like because we have another interview with, like, two, so I'm trying to, like, we have to speed through the… yeah, we might just speed through it, or I was gonna ask if it's possible, we could, um…
+
+
+
+[Interviewee] 13:52:33
+
+Okay, okay, no worries.
+
+
+
+[Researcher] 13:52:40
+
+If you could come back, I don't know. That would be like a thing or not.
+
+
+
+[Researcher] 13:52:46
+
+Oh.
+
+
+
+[Interviewee] 13:52:46
+
+Yeah, I mean, I should be available after… 3 or 4 ESC today? But yes. But we can, I mean, we can go on.
+
+
+
+[Researcher] 13:52:55
+
+Yeah. Gotcha. I was gonna say, if it's okay, could I ask you to like? I think we can get probably get a couple more questions in, and then could you come back at 3 dish? And then I could show you the prototype and go through the scenarios. Would that work?
+
+
+
+[Interviewee] 13:53:07
+
+Sure.
+
+
+
+[Researcher] 13:53:08
+
+Okay, awesome. Thank you so much. Let's see. Okay, so then next questions are about concerns slash features for an instructor dashboard. So it's like, are you comfortable with working with the learning management system that your institution asked you to use? And would you feel comfortable using an Lms plugin to process student data to provide you with insights about your students?
+
+
+
+[Interviewee] 13:53:30
+
+Yeah, I think that would be pretty cool, because I think it's… Right now, there's barely, like, any activity that I have from Canvas, right? Like I said, like, the activity monitor is the only thing… I don't know what… I don't think it's called Activity Monitor, but it's, like, whatever it's called. Um, I'm just gonna keep calling it that. Um…
+
+
+
+[Researcher] 13:53:45
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:53:49
+
+I barely use that because it doesn't provide me that much useful information, right? It has, like, a kind of like a cool graph, I guess, to see, like, weekly clicks or whatever, but I don't really care about. I don't think that provides me any useful information. Um… I think it'd be nice to, like, have some sort of, like, great analysis, right, of, like, keeping track of, like, specific things, uh, right? I think I told you, like, I don't really know… the only way that I know how a student is doing is just, like, searching for the students on the grades section, and seeing how they did on exam 1 versus Quiz 2, whatever.
+
+
+
+[Researcher] 13:54:00
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:54:20
+
+But it'd be nice to see, like, if they actually are improving, I think, because, for example, one reason that I did use the quizzes is to force them to study for the exams, so the quiz has, like, one less topic than the exam would. So they would study for the quiz, and then ideally, the exam is just, like.
+
+
+
+[Interviewee] 13:54:37
+
+Exactly what was on the quiz, but just one topic. I mean, not the same questions, but, um, the same topics.
+
+
+
+[Interviewee] 13:54:43
+
+And… I haven't done that analysis. I think the only way that I would just, like… I'll probably, at the end of the semester, was thinking of, like, exporting that to Excel and then just, like, using Python to do an analysis or whatever. Um…
+
+
+
+[Interviewee] 13:54:57
+
+But I don't have, like, any trends or anything that's really helpful to me other than, like, student feedback, right? Like, whenever I see students, I try to, like, ask them, like, hey, how are you doing? Like, how's it… class phasing, and then through your questions. I asked them, like, how do you feel about, you know, upcoming exam? Or how do you think the class is going so far, right? So…
+
+
+
+[Interviewee] 13:55:17
+
+Through that, I think… I think I asked him, like, week 6 or something, like, hey, how was the class facing? And most of them were like, you know what, it's just, it's just, I think 60% of them were like, it's just right.
+
+
+
+[Interviewee] 13:55:27
+
+Maybe 10% said it was, like, a little bit too fast, 5% said it was, like… too fast, and maybe, like, 2% said that it was just too slow. And I was like, through all those, like, oh, that's the only way, really, that I can check, is just, like, that live reaction.
+
+
+
+[Interviewee] 13:55:42
+
+Um, or, like, live questions. And then for this upcoming exam, I was like, how do you feel about it? And I think, again, kind of like 50 or 60 were like, yeah, I feel okay, or like I feel fine.
+
+
+
+[Interviewee] 13:55:53
+
+Probably, like, 20… we're like, I'm cooked, or something.
+
+
+
+[Interviewee] 13:55:57
+
+And then, because I let them do kind of like open responses for those, because I think it's funny. But, um… So it's really just, like, asking questions directly, just, like, one-on-one, or, like, in a small group. Um…
+
+
+
+[Interviewee] 13:56:11
+
+or having those clicker questions, that's kind of, like, the main way that I used to analyze what… how we're doing in class, because I think.
+
+
+
+[Interviewee] 13:56:19
+
+Even though I would like to do a lot of, like, more deeper analysis based on grades, or, like, anything else that Canvas provides, I don't have the time to, like, actually.
+
+
+
+[Interviewee] 13:56:28
+
+write the script. You know, I'll probably have the time once the class finishes in April, but, like, at that point… I mean, and I would still do it, just because I want to know how I can improve for the next semester.
+
+
+
+[Interviewee] 13:56:38
+
+But I don't have any, like, live feedback, I guess, other than just like asking directly.
+
+
+
+[Researcher] 13:56:44
+
+Gotcha. And then do you think Cs. One instructors would benefit from having a tool that could identify students in need? And why or why not?
+
+
+
+[Interviewee] 13:56:53
+
+Yeah, I would definitely think that's super helpful, because it's… I mean, at least, I think, that most professors would want to change something, or, like, review a topic, or… Specifically seek out students that need help. So having some sort of like platform or a dashboard.
+
+
+
+[Interviewee] 13:57:15
+
+Some call to action there that can tell the professor, like, hey, pay attention to this, or, like, maybe you should go over this, or maybe you should remind students to X, Y, or Z.
+
+
+
+[Interviewee] 13:57:25
+
+That would definitely be useful, because right now, you're just, like… Even if it is ignored by the faculty.
+
+
+
+[Interviewee] 13:57:34
+
+The opposite of that is just, like, not knowing anything. So, I think at least providing some information that can be ignored later, that's up to the professor to ignore, but right now.
+
+
+
+[Interviewee] 13:57:45
+
+we are just, like, oblivious, right? Other than… asking students directly, right? I'm not completely up-to-face because I'm, like, I'm asking them anytime that I can.
+
+
+
+[Interviewee] 13:57:54
+
+But I don't have any specifics that could, you know, help me, like, change the way that I'm doing Microsoft or like help me see how we could shift office hours for like presentation or anything like that.
+
+
+
+[Interviewee] 13:58:08
+
+I'm just going off, like… What I understand is the best thing for them, and getting their immediate feedback, but that's usually about it.
+
+
+
+[Researcher] 13:58:17
+
+Mm-hmm.
+
+
+
+[Interviewee] 13:58:18
+
+I don't… I guess I can… I… Like, not having some sort of, like… Canvas-weighted dashboard or anything like that, is that I don't have any, uh, prolonged… Effects measured, right? I can see if I made a change, it worked at that time, great, students liked it. I don't know how well it's gonna, like, has been doing 10 weeks from now, right? Or how, like, any kind of, like, longer measures of, like.
+
+
+
+[Interviewee] 13:58:45
+
+Of grades, or, like, attendance or anything like that.
+
+
+
+[Researcher] 13:58:48
+
+Yeah, so I guess these are the things that you just mentioned. These are some, like, tools or, like, characteristics of a tool that you'd like to have. Are there any other like are there any other features or things you wish like a tool that helps CS1 instructors would have, or.
+
+
+
+[Interviewee] 13:59:06
+
+Um… I think depending… I think, because the grades is definitely one thing, I would say that it… It probably would be up to the professor to, like, organize it a little bit differently, and I'd be down to… depending on, like, the dashboard, but I think it'd be cool to see, like.
+
+
+
+[Interviewee] 13:59:25
+
+Which… not which question specifically, but, like, for, like, the questions that students, like, maybe, like, did poorly on, what topics or like what skills were needed for those questions? Because then you would be able to like measure like actually like after this exam, like, well, for this exam or like for this topic or whatever.
+
+
+
+[Interviewee] 13:59:41
+
+Students it worse on this particular thing than other ones, so maybe don't spend as long reviewing this thing, right? Because right now, the only thing that I… I just, I think, like I said, like, I have some clear questions. I'm asking, like, what's the output? Like, what happens if we run the sign or stuff like that. But those are questions that I made from what I understand, students could be misunderstanding, or like some misconceptions that they could be having, not so much about the actual, like.
+
+
+
+[Interviewee] 14:00:07
+
+thing that they could be struggling with, that I potentially don't know about, right? So it could be cool to, like, have some way of measuring those topics directly, like, hey, it seems that students did worse for, like, this thing, or like… you should review this, or… I don't know, stuff like that, that it's just, like, not so much about any particular crate, but much more about the actual content or topic.
+
+
+
+[Researcher] 14:00:29
+
+Mm-hmm. Gotcha. Okay, cool. Thank you so much, uh, for now, I guess. Also like, yeah, I was gonna say, like, I didn't want to stop you because you're giving really, really, really thorough feedback and like answers. So thank you so much. I would say that probably when you come back as straight, it'll probably take maybe 30 minutes at most, I think, to finish. There's like one more literally like one more question, and then.
+
+
+
+[Interviewee] 14:00:37
+
+Of course.
+
+
+
+[Researcher] 14:00:53
+
+We, like, show the prototype, and then I'll go through, like, three scenarios. Um, so I think it'll take, like, 10 minutes about for each. So yeah, thank you so much. And yeah, I'll see you soon, I guess.
+
+
+
+[Interviewee] 14:00:57
+
+Okay, sounds good. Okay, yeah.
+
+
+
+[Interviewee] 14:01:04
+
+Of course, yeah. Also, I think it's 4 PM for me that I'll be available EST. I don't know if I misspoke early, but yeah.
+
+
+
+[Researcher] 14:01:09
+
+Okay. Oh, yeah, I'm oh, I'm ES. I'm also EST. So then.
+
+
+
+[Interviewee] 14:01:13
+
+Oh, okay. Yeah.
+
+
+
+[Researcher] 14:01:15
+
+So those are like, so 3 Pm. Works for you. So like an hour from now, or.
+
+
+
+[Interviewee] 14:01:21
+
+Uh, no, I'm sorry, because I have a meeting at 3, but after that, I should end at 4, yeah. But other ways, we can do it next week, I don't know.
+
+
+
+[Researcher] 14:01:24
+
+Oh… Uh, yeah, we might have to reschedule then, because I'm… yeah, I've… I have to leave at, like, 3.30 for me.
+
+
+
+[Interviewee] 14:01:33
+
+Okay, now you're good.
+
+
+
+[Researcher] 14:01:35
+
+But yeah, we'll… we can talk about it over email, and we'll figure out a time then. So… But yeah, sounds good, so have a good… have a good weekend then, good rest of your day, and good luck with your meeting. Yep, see you. Thank you so much, Ydel. Bye.
+
+
+
+[Interviewee] 14:01:40
+
+Okay, yeah, sounds good. You too. Thanks. All right. Thanks. Bye. Of course. Bye.
+
+
+-------------------------PART 2------------------------------
+
+[Researcher] 12:59:21
+Testing.
+
+[Interviewee] 13:01:38
+Hello. Hi, Abby, I'm so sorry for don't allowing your message. I got so many messages randomly that I was like.
+
+[Researcher] 13:01:38
+Hello? Yep.
+
+[Interviewee] 13:01:47
+I was scrolling the other week, and I was like, oh, I have to reply to Abby, and then… and then I didn't. And then he sent me the follow-up, and I was like, oh.
+
+[Researcher] 13:01:55
+No worries, Adele. I was gonna say, also, I think, because we had… I think we had the same week of spring break, so I can imagine, like, after spring break, it's just like a rush to finish the semester and everything, so… Totally understandable.
+
+[Interviewee] 13:02:02
+Oh, yeah. Yeah, it was up. Mm-hmm.
+
+[Interviewee] 13:02:09
+Yeah, thanks. Understanding. Okay, I'm excited for today, though.
+
+[Researcher] 13:02:11
+Oh. Yeah. So then, I think… Yeah, see, oh, my computer is like doing all the things. Okay. I'm having to test out the transcript as well. Okay, while we were just chatting now. So I'm gonna like make sure the file is ready and everything's good. Then I'll get started.
+
+[Interviewee] 13:02:23
+Okay.
+
+[Researcher] 13:02:42
+Okay, looks good on that end.
+
+[Researcher] 13:02:52
+Okay, so I'm going. Oh, let me also start recording as well.
+
+[Researcher] 13:03:04
+Okay, I think it should be going now. And then, yeah, so for this second half of the.
+
+[Interviewee] 13:03:08
+Mm-hmm.
+
+[Researcher] 13:03:13
+of the interview, uh, we're gonna… I'm gonna share my screen, and then I'll show, like, um, I'll show a prototype. I have to show you… it's a video of a prototype, because my computer died in between this time. Um, like, the CPU just straight up died. I finally got, like, a replacement CPU.
+
+[Interviewee] 13:03:24
+Okay. Oh, no.
+
+[Researcher] 13:03:28
+working in a just finally posted yesterday. But yeah, anyway, thankfully, we have. We have a recording. But that's yeah, but I'll share my screen, and I'll share. I'll show I'll show a prototype of the instructor dashboard that we're building, and then I'll walk you through some of the actions or like tasks that you would do.
+
+[Interviewee] 13:03:28
+Mm-hmm. Okay, well, that's good.
+
+[Interviewee] 13:03:43
+Mm-hmm.
+
+[Researcher] 13:03:48
+for this. So like here, you can think about like, for example, I guess, with how you would want student data visualized or like. Yeah, just think of like tools that you think would help you as an instructor, or like things you'd like to see on the app. And I will probably ask you like your 1st impressions of stuff after I.
+
+[Interviewee] 13:04:01
+Okay.
+
+[Researcher] 13:04:04
+So for each scenario, and then you should say things you like, but also things you don't like, um, so that way we have direction for the next iteration. Yeah.
+
+[Interviewee] 13:04:12
+Okay, that sounds good.
+
+[Researcher] 13:04:25
+this…
+
+[Researcher] 13:04:28
+Okay, you can see it. Okay, cool.
+
+[Interviewee] 13:04:28
+Ah, yes, yep.
+
+[Researcher] 13:04:38
+So then this 1st part is is called viewing visualizations for one class section. So after you log into like canvas or an Lms as an instructor, then you're met with the following page that'll show like data visualizations.
+
+[Researcher] 13:04:53
+for one of your course sections. Oh. Why?
+
+[Interviewee] 13:04:57
+Oh, no, no! Not now.
+
+[Researcher] 13:04:58
+Oh my goodness.
+
+[Researcher] 13:05:04
+Oh, okay. Let me see… Okay, I will… let me stop sharing. Let me see if I open on a different browser, if that works.
+
+[Interviewee] 13:05:12
+You're good.
+
+[Researcher] 13:05:13
+Yeah.
+
+[Selin Bacaz] 13:05:41
+Abby, worst case scenario, if you want, I can share it on my screen.
+
+[Researcher] 13:05:46
+This is true. Thanks to.
+
+[Selin Bacaz] 13:05:47
+Yeah.
+
+[Researcher] 13:05:53
+Yeah, do you have it open actually already? Because I'm like…
+
+[Selin Bacaz] 13:05:58
+I can open it in, like, 2 seconds, if you want.
+
+[Researcher] 13:06:00
+Yeah, why don't you do that, actually, because yeah, I was like, not my laptop too.
+
+[Researcher] 13:06:51
+I'm not sure if, oh, let me see.
+
+[Selin Bacaz] 13:06:51
+Yeah. I am… I should be sharing my screen, can you see it?
+
+[Researcher] 13:06:56
+Yeah, yeah, I can see it.
+
+[Selin Bacaz] 13:06:57
+Okay. Um, I also wanna see something else.
+
+[Interviewee] 13:06:58
+Hmm.
+
+[Selin Bacaz] 13:07:03
+bear with me, because I'm also the note-taker here.
+
+[Researcher] 13:07:03
+Mm-hmm.
+
+[Selin Bacaz] 13:07:07
+Okay, can you still see it?
+
+[Interviewee] 13:07:10
+Yes.
+
+[Selin Bacaz] 13:07:12
+Do you see my notes? You shouldn't be able to.
+
+[Interviewee] 13:07:15
+No, I don't see the… yeah, Chrome open.
+
+[Selin Bacaz] 13:07:17
+Okay, awesome. This is great. Okay.
+
+[Selin Bacaz] 13:07:20
+Um, do you want… do you want me to do it then, Abby?
+
+[Researcher] 13:07:21
+Okay. Um, I think I'll… I'll… yeah, I think… Let's see. Well, should I just read through? And then it's like, you'll just pause as I like.
+
+[Selin Bacaz] 13:07:33
+Yeah.
+
+[Researcher] 13:07:34
+Okay, yeah, let's… Yeah, I guess just, yeah, just start, and then yeah, I'll just.
+
+[Researcher] 13:07:42
+So yeah, so after logging into Canvas as an instructor, then you're met with the following page that shows data visualizations for one of your class, for one of your class sections. And it'll be the student behavior metrics.
+
+[Researcher] 13:07:56
+So then I'll go over. There's like 4 quadrants. So on the top left it'll say it says potentially struggling students.
+
+[Interviewee] 13:08:05
+Mm-hmm.
+
+[Researcher] 13:08:05
+and then this is where you'll have like the students name. So it's like students like A and B. It'll have the.
+
+[Researcher] 13:08:13
+Let's see. Oh, so can you pause it for a second? Thank you. Yeah. So then this top. So yeah, the potentially struggling students would be like a list of based on certain thresholds of student behavior metrics. So for example, if you see the top one, it says like low effort.
+
+[Selin Bacaz] 13:08:16
+Yeah.
+
+[Researcher] 13:08:29
+Then it's saying like this student might be struggling, and then one of the reasons why is because of low effort, or like high syntax error for the second one.
+
+[Interviewee] 13:08:30
+Yeah.
+
+[Researcher] 13:08:38
+Then on the right side, on the right top side. This is class wide metrics. This is showing a bar chart of the.
+
+[Researcher] 13:08:47
+a bar chart, and it's basically on… depends what metric you want to see. So right now it's just showing the average score across assignments.
+
+[Researcher] 13:08:54
+Um, so then in the dropdown, uh, that's, like, right there, then you'd be able to, uh, change the metric depending on what you want to see. So, for example, it says average score, but you could also do, like, um, like, how many syntax errors, or, like, how much, uh, time spent coding.
+
+[Interviewee] 13:09:02
+Hmm.
+
+[Interviewee] 13:09:10
+Yeah. That's cool.
+
+[Researcher] 13:09:11
+Yeah. Then bottom left is metric comparison, and this compares 2 different metrics, and you'd be able to set this. So those X and Y axis, those are drop downs as well. So based on if you have certain metrics that you want to compare to see if there's like a relationship.
+
+[Interviewee] 13:09:22
+Mm-hmm.
+
+[Researcher] 13:09:26
+then you'd be able to do that, and each student is a dot in both of these bottom like graphs. So then, for example, right now it's showing like syntax errors on the x-axis and unit test error on the y-axis. So if they're.
+
+[Researcher] 13:09:42
+very, like, they have a lot of syntax errors, and they also have low, like, unit test ratio, then you would know that, like, oh, maybe this group of students is, like, struggling.
+
+[Researcher] 13:09:52
+Yeah. And then on the right side of that is the submission timeline. So this would be showing the latest 3 assignments, and it shows a time like it's a counting down timeline. So this is showing that, like.
+
+[Researcher] 13:10:05
+Um, in terms of days before the due date, so zero would be when it's due, and this would be to help you like track like when students start assignments. And then so anyone that's like, if based on some threshold, if they're closer to the due date, that's when they start, then you can.
+
+[Interviewee] 13:10:12
+Mm-hmm.
+
+[Researcher] 13:10:20
+essentially label them as cramming. Um, and then the bottom part's like a class roster.
+
+[Interviewee] 13:10:23
+Yeah.
+
+[Researcher] 13:10:25
+But yeah, so that's, like, the blurb. So do you have any… what are your first impressions of this page? Anything you like or dislike? Yeah.
+
+[Interviewee] 13:10:32
+Nice. Yeah, that looks very cool. I think it'd be it'd be interesting to like.
+
+[Interviewee] 13:10:36
+This is interesting data to then compare to sort of like their overall grade. I think it'd be.
+
+[Interviewee] 13:10:43
+For me, interesting to see something like… What are students doing to help them, like.
+
+[Interviewee] 13:10:49
+In terms of like the grade, right? So maybe there are some relationships that you can show to students like, hey, by the way, like students that are starting earlier, they actually have better scores on their exams or like better scores on their homeworks, right?
+
+[Researcher] 13:11:02
+Mm-hmm.
+
+[Interviewee] 13:11:02
+But the ones that are doing it later, I don't know. That's just, like, if that relationship exists, it would be nice, because you would have data there, right? So you would actually be able to see that and not… not make up some scenarios to your students of the class. It gives you the rate be like, hey, by the way, this is, like, what's actively happening, and so it seems like it's better, you know, if we do that ahead of time, and if you need help, you know, starting earlier, then let us know.
+
+[Researcher] 13:11:26
+Mm-hmm. Gotcha.
+
+[Interviewee] 13:11:26
+Um, as opposed to, like, not knowing it at all. Um… I thought, and then for the second quadrant, like, at the top row, I thought that was also really interesting.
+
+[Interviewee] 13:11:37
+And what I would find more interesting there for me is to know.
+
+[Interviewee] 13:11:41
+The syntax errors that they face for, like, these, the different assignments to kind of, like, see if there is, like, a trend based on that?
+
+[Interviewee] 13:11:48
+Um, I'm pretty sure for my class, I know, I'm pretty sure I know what it would be. But also… if… I don't know if it does it right now, but, like, maybe extracting those even and being like, actually. It's a syntax area. But it's like specifically for like, I don't know, like this thing like in extra parentheses, or like, if you're using Python like correct indentation or just an extra argument where there shouldn't be one, right? It's like.
+
+[Researcher] 13:12:10
+Mm-hmm.
+
+[Interviewee] 13:12:13
+So going a little bit deeper than the syntax, which is, I think, not needed like it means like it's just like an extra thing. Because even just this, just knowing how many sensors students are facing in each assignment. Overall, it's like pretty cool in itself.
+
+[Researcher] 13:12:21
+Mm-hmm.
+
+[Researcher] 13:12:28
+Gotcha. So this is for the bar chart, right? So saying, like, um, like having more context about, like, for a certain, uh, what's it called? I guess for certain metrics, like, for example, you said, the syntax error, what kind of syntax error? Like, what's the makeup of this bar chart, I guess? So if it was like.
+
+[Interviewee] 13:12:29
+Yeah. Yes, yeah.
+
+[Interviewee] 13:12:40
+Right, yeah. Yeah.
+
+[Researcher] 13:12:44
+not like necessarily like a stacked bar chart, but like something where it's like, Oh, okay, this is how many like is how many were just like indentation, or this is how many are they're like missing like actual characters.
+
+[Interviewee] 13:12:53
+Right, yeah. And it can even be something like it's just like looking up the exception.
+
+[Researcher] 13:12:55
+Hmm.
+
+[Interviewee] 13:13:00
+like the class exception or something. Like, it doesn't have… I don't think it has to be, like, that in-depth that you have to, like, map every single thing, and I know, I mean, I know there are, like, papers that are just… They try to, like, understand and map, like, or classify errors. I don't think it has to be, like, that deep. It could just be, like.
+
+[Interviewee] 13:13:15
+It threw, like, an out-of-bounds exception, like in Java or something, like, you know, like, it just.
+
+[Researcher] 13:13:18
+Mm-hmm. Gotcha.
+
+[Interviewee] 13:13:20
+I feel like professors would know, like, what that means.
+
+[Interviewee] 13:13:25
+So yeah, I think that that's pretty cool. And then for the first quadrant there, I was wondering, like, if… Or maybe just because it's part of the demo, if… but it later on, you would be able to kind of, like, select maybe how many students to display, or if they're like passionate like there's different pages of like students, or if you are going to click on that metric and then it shows you like a bigger.
+
+[Interviewee] 13:13:47
+piece of it, I don't know. Um, or just, like, filter through the reasons or you know storage ascending or descending order based on the current grade. Kind of like just mind yourself like that, which I'm guessing just because it's the demo, like you're probably already going to do that, but yeah.
+
+[Researcher] 13:13:55
+Hmm.
+
+[Researcher] 13:14:01
+Gotcha. So, like, um, I guess basic table, like filtering. And then you mentioned like when when you say it gets bigger, do you mean like like it makes the like it would take up the like this table would take up the rest of the screen space.
+
+[Interviewee] 13:14:13
+Oh.
+
+[Interviewee] 13:14:17
+Right, yeah. Like, if you want to maybe, like, see, I don't know if you have, like… 25 struggling students, and that would take up a lot. Like, I don't know, it would just look a little bit odd, just having it on the dashboard, so I don't know if you would…
+
+[Researcher] 13:14:18
+Gotcha.
+
+[Researcher] 13:14:29
+Mm-hmm.
+
+[Interviewee] 13:14:30
+We're planning on, like, making each of those a separate page, or… I don't know. So that's what it was just asking about.
+
+[Researcher] 13:14:37
+Gotcha, gotcha. Yeah, no, we can definitely, like, incorporate that, because we're… we wanted to… we kind of wanted to be, like, like, to help, like, instructors, so it should be, like, customizable, um, or, like, if people, like, want, like, if, like you said, if you want to, like, be able to see more of this, like, quadrant than being able to open.
+
+[Interviewee] 13:14:51
+Mm-hmm. Yeah, although I think even as easily as you're saying like export to CSV, that could.
+
+[Researcher] 13:14:53
+Yeah.
+
+[Interviewee] 13:14:59
+That would provide the most cost customizability, is how you say? But that would provide the most customizable like features without you having to do, like, that much work, I think.
+
+[Researcher] 13:14:59
+Mm-hmm. Yeah.
+
+[Researcher] 13:15:09
+Mm-hmm. Gotcha, gotcha. So, like, having, like, a way to export the data as well, like, so then they can… they can… they can, like, put it with whatever they… whatever they're using, then they can also… yeah. Okay.
+
+[Interviewee] 13:15:09
+And then professors can do whatever the heck they want.
+
+[Interviewee] 13:15:17
+Right, yeah.
+
+[Interviewee] 13:15:23
+Right? Yeah, because I'm assuming a lot of like instructors are probably having some sort of like data like analysis on their end, whether it's like Python or something else.
+
+[Interviewee] 13:15:31
+Then they can pretty much embed this into their current.
+
+[Interviewee] 13:15:35
+If they wanted to, right? This could replace their entire, you know, like, workflow or whatever, but it would be like a nice data point that they would probably not have before.
+
+[Researcher] 13:15:44
+Mm-hmm. Well, anything else about this, or I'll go to the next the next.
+
+[Interviewee] 13:15:51
+No, I think, yeah, this is great.
+
+[Researcher] 13:15:54
+Cool. So then next is called viewing visualizations for a particular student. So if you were to click on either the student's name in that like top quadrant, or like one of the dots, then it would take you to, um.
+
+[Interviewee] 13:16:05
+Mm-hmm.
+
+[Researcher] 13:16:07
+It would take you… oh, yeah, or you can also, like, like, there's… we have, like, dropdowns at the top, too, for, like, going to different navigation rates. So this will take you to student metrics, but for this particular student. So, for example, first they have, um.
+
+[Interviewee] 13:16:13
+Hong Kong.
+
+[Researcher] 13:16:21
+Let's see. Can you pause it here? Thanks. So the top part top left is basically like enrollment information. So if you want to see like what major, or if there are honors for our course, we have like a pretest. So it's like if they get 100%, then they wait the course. But yeah, and then.
+
+[Interviewee] 13:16:33
+Hmm.
+
+[Interviewee] 13:16:37
+Yeah.
+
+[Researcher] 13:16:40
+On the right of that is an intervention log, so if you wanted to, like, keep track of, like, how you meet with students, um, that would be an option.
+
+[Interviewee] 13:16:44
+Hmm. Oh, that's really nice.
+
+[Researcher] 13:16:48
+Yeah, and then this so below that where you see like these like kind of buttons. These buttons are linked to the timeline that's underneath. So right now they're like for different metrics. Then it'll like these are like composite metrics. And then when you click on them, it'll explain like.
+
+[Interviewee] 13:17:05
+Hmm.
+
+[Researcher] 13:17:06
+how we got this. So right now, it's on the average time spent. So then it's showing how the student spends an average amount of 2 hours and 15 minutes on, like, assignments, and then you'll be able to see on the timeline, this is the breakdown, so this is how much time, and then compare it to the class average.
+
+[Researcher] 13:17:23
+Yeah, so then theoretically, if you were to click the other ones, then it would it would change the timeline and be… it would change the y-axis at least. And then the bottom is another assignment is an assignment table, but just for the student again, so to have their, for example, their score, class average, and then some of their metrics.
+
+[Interviewee] 13:17:27
+Right.
+
+[Interviewee] 13:17:35
+Hmm.
+
+[Researcher] 13:17:38
+And then same thing as the overall dashboard. You'd be able to like decide what kind of metrics you want, and like you'll be able to choose.
+
+[Researcher] 13:17:47
+But yeah, so I guess impressions, likes and dislikes.
+
+[Interviewee] 13:17:52
+Nice. Yeah, I really like this, especially like the… adding a log to the student.
+
+[Interviewee] 13:17:58
+Okay, so it is like difficult to like keep track of right now, like we have 200 students.
+
+[Interviewee] 13:18:04
+I basically just have, like, a separate nodes. And if it gets too busy, I just save whatever emails they sent me, and I just… I don't delete them. I just have them… I flag them, and I'm like, I'll get back to those. So, like, just in case.
+
+[Researcher] 13:18:15
+Hmm.
+
+[Interviewee] 13:18:19
+Um, I wanted to, like, check on something, then I'll remember those. They're just there.
+
+[Interviewee] 13:18:24
+So this is like a nice way to see all of that. I wonder, like… We thought it would be interesting to… And I guess this is risky in terms of, like, implementation, but it would be nice.
+
+[Interviewee] 13:18:36
+Like, in some ways, just, like, have some sort of, like.
+
+[Interviewee] 13:18:40
+maybe checkmark or something. Where maybe, like, a log is like you email them and it identifies that log as an email. So then you could potentially then check which ones of your showroom students did you email?
+
+[Interviewee] 13:18:53
+So you would be able to see that at, like, a larger scale, but that's like, it's in some ways, like so specific that I wonder.
+
+[Interviewee] 13:19:01
+Right, do you get into, like, kind of, like, the, um… that play between, like, how much implementation time are you gonna spend on writing this application and trying to fit all different cases, whether, like, just having a text box so anyone can write anything there, then that's probably also, like, for the better.
+
+[Researcher] 13:19:19
+Gotcha. When you said, when you say check mark, do you mean like like linking to the potentially struggling students like thing like that's like that's the list of people you want to talk to, or like, or…
+
+[Interviewee] 13:19:19
+Um, but yeah, so I think, yeah. No, go ahead.
+
+[Interviewee] 13:19:32
+um, sort of like, it's like, for example, like, for… In 1027, yeah, the… They sent an email over here, but the only way that you would be able to know that at a larger scale is, like, just going back to the student and the intervention log and reading.
+
+[Interviewee] 13:19:50
+Have you sent an email with something like a checkmark or something, you can just, like, be like, oh yeah, I sent the email this day, or whatever like, or that this log contains.
+
+[Researcher] 13:19:51
+Mm-hmm.
+
+[Interviewee] 13:19:59
+the information that I sent an email. Or maybe it could just be as simple as I checking if a log contains the word email, then that means that you sent an email, right? It could be like that simple. But just so that then for the dashboard, you can be like.
+
+[Researcher] 13:20:09
+Okay.
+
+[Interviewee] 13:20:13
+For you struggling students, it seems like you only emailed 9 out of 12 of them, right? Or like you did email all of them, just like, and some way to kind of remind yourself or the instructor to be like, Hey, maybe like you accidentally forgot, or like.
+
+[Interviewee] 13:20:27
+You were… you meant to not, even though those three other students, I don't know.
+
+[Interviewee] 13:20:32
+But just like simmer things to. add to the kind of, like, the dashboard. I feel like with, yeah, 20, 30 students, you would know which ones you did email and you didn't.
+
+[Interviewee] 13:20:42
+But with… in my case, I'm like, I don't… I know an idea of who I emailed, but I don't know what actually happened. It actually would be interesting to then see, like, did they reply to the email, right?
+
+[Interviewee] 13:20:53
+To see if they're actually, like, engaging with whatever it is that I'm trying to reach in. So stuff like that would, I think would be, yeah.
+
+[Researcher] 13:20:59
+Gotcha. So, some integration… like, integration of email, um… So that way it's like it kind of keep tracks of it for you, and then, um… Yeah. Is that is that? Just make sure I got it.
+
+[Interviewee] 13:21:05
+Well, yeah.
+
+[Interviewee] 13:21:10
+Yeah, I I. sort of, yeah, yeah, I think it's but I don't want to make it like super specific to email. It's more just like.
+
+[Interviewee] 13:21:18
+You talk to the student and they acknowledge that he talked, you know, like, maybe you, and after class or something, but just, like, at least.
+
+[Interviewee] 13:21:25
+there was some communication that happened that they are.
+
+[Interviewee] 13:21:28
+Aware that they are kind of like your concern for them or something. I don't know.
+
+[Interviewee] 13:21:33
+Because instead, right now, the… If you do have, yeah, 200 for 500 students, I don't know.
+
+[Interviewee] 13:21:40
+You do know which students you spoke to if you see their face again, likely, or if you see their name.
+
+[Researcher] 13:21:44
+Mm-hmm.
+
+[Interviewee] 13:21:45
+But if I use it like you don't know at a larger scale or you wouldn't be able to quickly pull up a list like, oh, I emailed all these students or I talked to all of these, right? But in here with like a log, the only way that we would be able to do that right now is just, like.
+
+[Interviewee] 13:21:59
+going to that log and then searching the word like email, right? But if the algorithm and like behind the scenes, the implementation could just like check and think like, oh, it contains a word email. So that means that.
+
+[Interviewee] 13:22:12
+You did email them on this day or something. You know, the quick thing like that. But again, it's, like, so specific to the implementation, I don't want to make it, like… Super specific that it only works for, like, one professor.
+
+[Researcher] 13:22:14
+Hmm.
+
+[Interviewee] 13:22:22
+So that's just, like… but I was, like, quickly speaking about that. So not that, maybe not that useful, but yeah.
+
+[Researcher] 13:22:26
+Mm-hmm. Another thing is still useful because, like you said, the scalability, how many intervention logs will you look at if you have 200 students and you have 200 intervention logs. So I think being able to, like, filter through like and filter through slash, like, maybe have some what's it called?
+
+[Interviewee] 13:22:36
+Yeah.
+
+[Researcher] 13:22:44
+Like, if you already emailed them, it kind of was like, oh, okay, like, it keeps track of that, then, yeah, that totally makes sense.
+
+[Interviewee] 13:22:49
+Mm-hmm. Yeah. Yeah, but definitely not, like, I've already… and I like everything else. I actually had a question also for… because you mentioned your school does, or your class has a pre-test score.
+
+[Researcher] 13:22:58
+Mm-hmm.
+
+[Interviewee] 13:23:02
+So does that mean that… It's customizable in that way, where, like, instructors cannot, like, certain additional features, or it is pulling up from the LMS, or how is it actually getting in that beta score value?
+
+[Researcher] 13:23:16
+Yeah, I think for us, because it was in… it was kind of like an assignment in Canvas. So that's… it was like a special assignment. But yeah, I would say yeah, I guess I'm not sure if Canvas usually has enrollment information. Actually, so.
+
+[Interviewee] 13:23:22
+Hmm.
+
+[Researcher] 13:23:31
+I don't… I think it would depend on, I guess, what… whatever. I think it would be customizable enough that instructors could choose what to show in terms of, like, the enrollment information. So if they have that somehow, they could. They could probably put it in.
+
+[Interviewee] 13:23:36
+Oh, yeah.
+
+[Interviewee] 13:23:47
+Yeah. Yeah, that's fair. Yeah, yeah, that makes sense.
+
+[Researcher] 13:23:47
+But, yeah, because I can't answer your question.
+
+[Interviewee] 13:23:52
+That would also be, you know, that'd be nice. I don't think I… GT, we don't get enrollment information, but I do have students like answer a survey.
+
+[Interviewee] 13:24:02
+that they can add, like, their major, whatever. Right, yeah. Yeah. I mean, I do have them do it anonymously. So I wouldn't. I don't actually know. But.
+
+[Researcher] 13:24:02
+Yeah, so if you could. Yeah. So maybe you could import that or something, or have that. Yeah.
+
+[Researcher] 13:24:12
+Oh, okay, yeah.
+
+[Interviewee] 13:24:13
+But yeah, but I mean, I don't really… Yeah, I don't care about the major bridge. I thought it would be interesting to like add any any specific things like maybe.
+
+[Researcher] 13:24:18
+Yes.
+
+[Interviewee] 13:24:22
+maybe you made a separate assignment in Canvas, I don't know. And then you wanted to, like, just do. You know, add that specific like assignments to this dashboard just by saying like, Yeah, add this assignment. I don't know.
+
+[Interviewee] 13:24:34
+I was just wondering how that works.
+
+[Researcher] 13:24:34
+Mmm. Gotcha. Yeah, no, I think you can do that, like you said, customizability again. So it's like you could have, like, like, like, if there was a pre… if the pretest was like that, or if there was some, like.
+
+[Interviewee] 13:24:40
+Yeah.
+
+[Researcher] 13:24:46
+If you had some information, or you wanted to, like, have, like, some special note for each student or something, probably have that. Yeah.
+
+[Interviewee] 13:24:51
+Mm-hmm. Yeah, yeah, sounds nice. Um… Yeah, I think it's pretty cool. From a… UI perspective. Sorry, I'm annoying, but I didn't know like those five boxes were buttons until you clicked on them. You mentioned buttons, I was like, oh, I wonder where they are. But that was just a me kind of like, because usually buttons do have like a board, I don't know, like.
+
+[Researcher] 13:24:54
+Cool. Anything else about this page, or…
+
+[Researcher] 13:25:02
+Mm-hmm.
+
+[Researcher] 13:25:10
+Ah, okay. Oh, got you.
+
+[Interviewee] 13:25:17
+Usually, like, a shadows. Yeah, yeah. But it doesn't really I mean, it's just like such a minor detail that it's really bad.
+
+[Researcher] 13:25:17
+like a more shadow. Okay.
+
+[Interviewee] 13:25:25
+Um, especially if you have some sort of, like, onboarding process, then… You'd be like, oh yeah, you can click on these, by the way. I don't know.
+
+[Researcher] 13:25:26
+No, it's fine. Mm-hmm.
+
+[Researcher] 13:25:33
+Gotcha. No, that's super fair, because, yeah, we're trying to make it intuitive, so that way hopefully you don't need as much onboarding. That's the… that's the whole point of, like, UI, right? Or the UI UI. So, yeah.
+
+[Interviewee] 13:25:42
+Yeah. Mm-hmm.
+
+[Researcher] 13:25:44
+Yeah, no, that's a good point. But yeah. So should I go to the next one or?
+
+[Interviewee] 13:25:47
+Yeah, I think that's yeah, it's really cool. Yeah, go ahead.
+
+[Researcher] 13:25:51
+Cool, so then the last bit is comparing visualizations between two class sections. For this we don't really have a like there's not like a thing to show. But, um… Let me see, Selen, does it go, does this video go to, like, it just goes back to the class-wide metrics?
+
+[Interviewee] 13:26:01
+Mm-hmm.
+
+[Researcher] 13:26:11
+Yeah. Okay. Yeah, you can just keep it there. So then this is more like a like, you have to imagine it. There's a feature we're considering about. If you imagine, it'll be the same layout as this, but it'll be like a separate page that allows you to compare different classes of students.
+
+[Interviewee] 13:26:22
+Mm-hmm.
+
+[Researcher] 13:26:26
+and kind of like an overlay. So, for example, if you had the average of current class A, and you want to look at either last semester's class or look at a concurrent class. Then you'd be able to like compare, and it'd be like like, for example, to be like 2 bar, like, it'll be on the same axis, but then just like.
+
+[Interviewee] 13:26:29
+Hmm.
+
+[Interviewee] 13:26:38
+Yeah.
+
+[Researcher] 13:26:43
+two bars, uh, per assignment, or, like, they'll have, like, different colors for the dot plots, um, to indicate which class the students are from. So yeah.
+
+[Interviewee] 13:26:43
+Mm-hmm. Okay.
+
+[Interviewee] 13:26:52
+Mm-hmm. Yeah, that sounds really cool.
+
+[Researcher] 13:26:54
+Yeah, so I guess, would you use this feature? Do you think, like you think it's useful?
+
+[Interviewee] 13:27:00
+Yeah, I think I would definitely use it, um… It provides something way more context in like canvas or any other elements, I think would.
+
+[Interviewee] 13:27:09
+So it's really like, yeah, it's pretty it's pretty useful to what I would like to do out. In some cases, I guess it depends on like how you're doing the homeworks and everything else. Like in my case.
+
+[Interviewee] 13:27:20
+I don't think I would be able to know the syntax errors, because that's like a separate.
+
+[Interviewee] 13:27:25
+It's outside of Canvas, but it would know what they got on the grade, right? Because I sync that into Canvas, right? And so having even stuff like that right now, that's not something that I know in Canvas right now. Like, that's… I would have to, like, potentially export that Excel sheet.
+
+[Researcher] 13:27:32
+Mm-hmm.
+
+[Interviewee] 13:27:41
+And then just do the analysis on Python. I think that's what I would just do right now.
+
+[Interviewee] 13:27:47
+And what I actually do right now, that's… Just, like, everything that I do on for the class is just like doing the analysis for everything that Canvas gives me as an Excel sheet or CSV.
+
+[Interviewee] 13:27:58
+And then using pandas in Python. So, not having to do that for every single thing would be nice.
+
+[Researcher] 13:28:02
+Gotcha. Then… I was gonna say for then for like for your use case, like, so does it? Is it actually harder to use if it's baked into Canvas? Is it better as like a standalone?
+
+[Researcher] 13:28:19
+like a standalone, like, app, instead of, like, baked into Canvas? Would that be…
+
+[Interviewee] 13:28:25
+Well, I think in other cases it would work.
+
+[Interviewee] 13:28:29
+because it would still provide me some of the context that canvas like it would use the the data that's already on campus, and then just use that. The other things that I have like on top of that is like for… The main thing is the, like, map grader that I used to, like, it's our homework.
+
+[Interviewee] 13:28:47
+platform. And even then that platform kind of sucks. So I have to, it doesn't tell me everything. I have to export that also as a CSV. And then I analyze that so I can calculate the grades and upload them to Canvas, right?
+
+[Interviewee] 13:29:01
+And then exams. So also that is settled separately, but everything basically ends up being on campus.
+
+[Interviewee] 13:29:10
+And which is like the many thing that I care about to actually analyze those different grades and see any trends that happened. And I also.
+
+[Researcher] 13:29:10
+Okay.
+
+[Interviewee] 13:29:20
+I… when I do, like, those uploading the grades of camps and everything else, I also, like, I use a Canvas API to also add in like when did they submit it? Kind of like that submission time. So I would have also, like.
+
+[Interviewee] 13:29:31
+you know, the kind of like late or crammy students, which is like the early ones and stuff like that. So even then that would work.
+
+[Researcher] 13:29:39
+Gotcha. Okay.
+
+[Interviewee] 13:29:41
+Yeah. Which is, like, just… it's extra work, but just, like, I have to do that regardless. Like, it doesn't have… doesn't have to do anything with… with this dashboard. It just has to do with the platform.
+
+[Researcher] 13:29:47
+Hmm.
+
+[Researcher] 13:29:51
+Mm-hmm. Gotcha. But keeping it in Canvas, it helps. It would be. It would help integrate into your workflow like already. Okay.
+
+[Interviewee] 13:29:51
+That we use for the class.
+
+[Interviewee] 13:29:58
+Yeah, but if it was outside, I don't think everything would be pretty… I already use the API, so it can't be worse than that because the Canvas API is like, yeah, it's pretty.
+
+[Researcher] 13:30:06
+Gotcha.
+
+[Interviewee] 13:30:09
+Yeah, it's interesting.
+
+[Researcher] 13:30:12
+Okay. And then, so I think that's all the questions and stuff. Is there any other thoughts? Other last thoughts about this dashboard as a whole, or anything else you want to say?
+
+[Interviewee] 13:30:23
+No, I think it's pretty cool. It's yeah, it's really it's really nice, and I.
+
+[Interviewee] 13:30:29
+I would love to see this, like, yeah, as a… as a thing. And that I could use and stuff. Yeah.
+
+[Researcher] 13:30:35
+Gotcha. Okay. Thank you so much, Adel. Let me stop recording. But yeah, thank you again for all this and your feedback and everything. And then I was gonna say, if you need any if you need a participant for any of your studies, you have my email or at least or anything. If you if you need undergrads or something, I… Lisa, I can send it to my lab and stuff as well. We work with a lot of undergrads researchers. So yeah.
+
+[Interviewee] 13:30:51
+Oh, thanks. Yeah.
+
+[Interviewee] 13:30:59
+Oh, nice. Okay. Perfect. Yeah, thank you. Thanks so much. I was going to email you actually later for I don't know if you saw.
+
+[Researcher] 13:31:05
+Oh.
+
+[Interviewee] 13:31:08
+the C, like… grad students, they made a discord.
+
+[Researcher] 13:31:13
+Oh, really? Oh. Um, no, I'm not in it. Yeah, send it… yeah, send me the link. Yeah.
+
+[Interviewee] 13:31:13
+Um, and I don't know if you were in it, so yeah, I'll probably send you a link to it.
+
+[Interviewee] 13:31:18
+Okay. Okay. Sounds good, yeah. I'll do that and leave today.
+
+[Researcher] 13:31:21
+Awesome. Sounds good. So I guess have a good rest of your day, and then I'll I'll I'll see you in Discord, at least. Or yeah.
+
+[Interviewee] 13:31:26
+Yeah. You too. Yeah, yeah, of course. Yeah, and have a great weekend, too.
+
+[Researcher] 13:31:32
+Bye. Thank you so much.
+
+[Interviewee] 13:31:34
+Of course, yeah. Bye.
+
+

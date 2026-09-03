@@ -1,0 +1,1744 @@
+[Researcher] 11:07:30
+Transcription… let's see. Can you just say something really quick to make sure it, like, saves?
+
+[Interviewee] 11:07:35
+Hello, hello, hello.
+
+[Researcher] 11:07:38
+Zoom has this, like, I don't know if you tried doing Zoom's transcription. It's like, you have to manually click save transcript, otherwise it doesn't save with the names.
+
+[Interviewee] 11:07:48
+Oh, weird!
+
+[Researcher] 11:07:49
+And yeah, so the… there's a default transcript, and then, um… And then that one just has the timestamps and the, like, the words, but not the names. So it's just… yeah. And I don't know why they do it, because they have the date, like, they're able to split audio files and everything, but this is a manual you have to click save transcript. Otherwise you don't get it.
+
+[Interviewee] 11:08:00
+Oh, man.
+
+[Researcher] 11:08:10
+But okay, it's working. Yeah. So then this, and I'll hit record. Okay, I think it's going. So the first question here is, can you briefly tell me about the kinds of CS1 courses that you've taught recently? So some to give us context. So, for example, like maybe the average age of students.
+
+[Researcher] 11:08:30
+Um, are they major, non-major? What language, class size, stuff like that?
+
+[Interviewee] 11:08:34
+Yeah, that's great. So the class size is 300 to 600. The age range is they tend to be traditional age college students. So 18 to 22 and then my students tend younger, so more likely to be 18 to.
+
+[Interviewee] 11:08:51
+20. And they're non-majors. About half of them are business majors, and this meets a quantitative reasoning requirement. So, um… It, like, meets a requirement in the business school and some others on campus.
+
+[Researcher] 11:09:06
+gosh, and most of them are business. So then are business majors? Oh.
+
+[Interviewee] 11:09:10
+about half. Yeah, about half. And then the programming language is, we use Python and Excel.
+
+[Interviewee] 11:09:18
+although they have Excel homework problems, but they have no excel exam problems because of technical difficulties. The the like secure testing center that we use can't use like doesn't allow excel access.
+
+[Researcher] 11:09:32
+Okay, interesting. And then, is it in person? So they all, like, do all, like, 300 to 600, they all, like, come to the lecture hall?
+
+[Interviewee] 11:09:34
+Yeah.
+
+[Interviewee] 11:09:39
+Yeah, so we have two 50 min lectures a week, Monday, Friday, and then in between the two 50-minute lectures, we have an hour 20 lab that they attend.
+
+[Researcher] 11:09:49
+Okay. And then, let's see. Oh, and then do you have TAs for this as well, or…
+
+[Interviewee] 11:09:55
+Yeah. So right now I have something like 350 students, and I have 6 Tas, and then I have.
+
+[Interviewee] 11:10:05
+And… Is that right? Maybe I have 10 or 15 undergrad Tas.
+
+[Interviewee] 11:10:13
+They just work a few, like, some of them only attend one lab.
+
+[Researcher] 11:10:14
+Hmm.
+
+[Researcher] 11:10:18
+Okay, so this?
+
+[Interviewee] 11:10:19
+Or attend TAs or… and, um, course assistants or the undergrad Tas. They also attend lecture to help facilitate discussion.
+
+[Researcher] 11:10:27
+Ah, okay, so the six TAs are graduate-level students, and then the 10 to 15, those are the course assistants. Those are the undergrad Tas, basically.
+
+[Interviewee] 11:10:30
+Mm-hmm. Yeah.
+
+[Interviewee] 11:10:35
+Yeah, that's right.
+
+[Researcher] 11:10:37
+Okay, gotcha. And then, do they, like… do they have different, I guess, um… are the graduate TAs, there's the people that grade or, like, do office hours, usually, or…
+
+[Interviewee] 11:10:46
+Yeah, no one grades. The Tas do office hours. One of my course assistants does office hours. She's a CS major. The other course assistants. Our students are not Cs majors. They just took the class.
+
+[Interviewee] 11:11:03
+And then, yeah, my Tas have other administrative responsibilities administering extensions, transferring grades from one system to another system, doing great corrections, stuff like that.
+
+[Researcher] 11:11:16
+Gotcha. And then what aspects of teaching do you find particularly rewarding? And then on the flip side, are there anything you find particularly challenging?
+
+[Interviewee] 11:11:24
+Yeah, I love every part of teaching. It's so fun. I mean, I… yeah, I like to imagine the only thing I wouldn't do for free is handle cheating cases, and I like to imagine my whole salary pays me to handle cheating cases, and then I get paid so well for them.
+
+[Interviewee] 11:11:39
+and it makes me less grumpy. But the but yeah, I love teaching. I love talking to my Tas about how we can improve the course. I love meeting with students and seeing where they're confused. I… I've been making a bunch of videos for the class, which I love. I love it all. And then things that aren't great like I think it I have differential rates of.
+
+[Interviewee] 11:12:07
+I have differential rates of grades, or, like, differential grades by race and ethnicity in my class.
+
+[Interviewee] 11:12:15
+And I don't have enough data to know how to take effective action on that.
+
+[Interviewee] 11:12:23
+Um, last year I tried being really proactive about all the students who, like, weren't going to be, you know, in in the first five weeks showed any signs that they might not pass the class, you know, missing any homework assignment, missing.
+
+[Interviewee] 11:12:38
+Not taking the test, etc. Um, and, like, doing a lot of one-on-one outreach. And I wish I could, like.
+
+[Interviewee] 11:12:46
+I wish students wouldn't just ghost me. Maybe that's.
+
+[Interviewee] 11:12:50
+I don't know that that's a thing I'm dissatisfied with. At my old institution, you could run into people in the dining hall that were ghosting you, and that was better to be like, oh, hello!
+
+[Interviewee] 11:13:01
+I you've maybe missed some emails from me. You gonna do anything in this class? That's not how I would phrase it, but.
+
+[Interviewee] 11:13:09
+Yeah, I miss that. Yeah, yeah, yeah, I don't need it in the dining hall with them, do you know what I mean? At Harvey Mudd, I was at Harvey Mudd before, it has 850 students.
+
+[Researcher] 11:13:09
+Was it like a smaller institution, I guess? So then now it's, like, at a bigger one, the scalability and everything.
+
+[Researcher] 11:13:18
+Mm-hmm. Oh, that's much smaller.
+
+[Interviewee] 11:13:22
+It's so much smaller. And I ate in the dining hall multiple days a week, and so then you can, like, run into people. I'd have my office hours there.
+
+[Interviewee] 11:13:31
+It was easier to like track people down.
+
+[Researcher] 11:13:34
+Right, right. Yeah. Can you describe a time, then, when you thought a student needed help, and then how did you intervene?
+
+[Interviewee] 11:13:44
+Yeah, um, maybe, like, most recently I like some students haven't done all the homework assignments, and like the goal for the homework assignments, they're mastery based. The goal is everybody gets 100%.
+
+[Interviewee] 11:13:59
+And so, um. Right before spring break, I announced that I'm extending the deadline on all the old homework assignments so that they can go back and do those homework assignments.
+
+[Interviewee] 11:14:13
+And then… so this is like en masse, right? So, um, I think I emailed, like, 170 people, so I emailed them in brackets, being like, hey.
+
+[Interviewee] 11:14:23
+Your homework scores look great, like, you're missing less than, you know, one homework problem, or, like, one homework assignment, but you can make that up. And, like, the goal is for everybody to get 100% on the homework, yadda yadda yadda. And so I sent that in each of the grade bands, and then the last like.
+
+[Interviewee] 11:14:40
+10 to 15 students who have the lowest scores. I sent them individual emails with their name in the subject line, making sure that they know that they can make up those homework assignments. My logic is that.
+
+[Interviewee] 11:14:52
+Oh, my gosh, how are you going to do well on the exams if you haven't done the practice of the homework?
+
+[Researcher] 11:14:58
+Mm-hmm. Gotcha. Would you say is this how you typically like reach out to students? So it's usually like being more proactive is like you see, like, students and, like, I don't say the danger zone, but it's, like, kind of, like, at risk a little bit, then you'll reach out to them via email, and then… See if they, like, reach… either reply or, like, come to office hours.
+
+[Interviewee] 11:14:59
+Yeah.
+
+[Interviewee] 11:15:17
+Yeah, yeah, I think, um, yeah, two weeks before that in my staff meeting, or like 3 weeks before that in my staff meeting, I was like, Okay, Tas, I want you to go through all the students who are in your lab section and see, like, who should we worry about?
+
+[Interviewee] 11:15:33
+And, like, what should we do to support them? And so they started emailing and meeting with students that they were worried about.
+
+[Interviewee] 11:15:44
+And so it's not always me.
+
+[Researcher] 11:15:44
+Okay, so the… Gotcha, so it's like you use your, like, I guess your student support, um, staff as well, kind of, okay.
+
+[Interviewee] 11:15:51
+Yeah.
+
+[Researcher] 11:15:54
+I was like, what's your return rate, would you say? Like, so it's, like, a number of people that, like, you send emails to, like, how many usually come back, or, like, come the office hours, like, so that way it doesn't get to the… it doesn't go to the void, you know?
+
+[Interviewee] 11:16:06
+Yeah, I think it's hard to know, so some of it. It's like, you know, I'm I'm not gonna because it's not that time consuming to send these emails to tell them to make up the homework assignment.
+
+[Interviewee] 11:16:18
+I'm not gonna check how many of them do it, that's not totally true. Later on in the week, I'm gonna be like, oh, just a little bit more time left. So I will do that, so I guess I will have some data about that.
+
+[Researcher] 11:16:27
+Hmm.
+
+[Interviewee] 11:16:30
+I think for students who in the beginning of the semester last year I thought might drop the class. Maybe they were like 10, and maybe like 3 eventually got back to me.
+
+[Interviewee] 11:16:45
+But maybe those students just dropped the class. You know what I mean? So I in some ways they're not like.
+
+[Researcher] 11:16:45
+Gotcha.
+
+[Interviewee] 11:16:51
+a struggling student, they're like a shopping student. But it's hard for me to tell, depending upon when they choose to drop the class, whether they… plan to stay in or want to stay in, you know.
+
+[Researcher] 11:17:03
+Mm-hmm. Gotcha, no worries, no worries. How challenging is it to determine when a student requires additional support? And do you think class size affects this difficulty?
+
+[Interviewee] 11:17:03
+I don't have good data on that.
+
+[Interviewee] 11:17:14
+Yeah, for sure. It does. So one thing I try and do so that my Tas know who to be supporting is we do in the lab, essentially an oral exam, a no-stakes low oral exam. Like, you have to do the oral exam, but you don't.
+
+[Interviewee] 11:17:31
+If you don't get it right, then you get tutored, and the goal is to help students know, um, like, you should be able to explain this problem, do you know what I mean? Or whatever. Um, and then help get them caught up if they are not.
+
+[Researcher] 11:17:42
+Mm-hmm.
+
+[Interviewee] 11:17:46
+But so the goal with that is that my TAs who do these during the lab, I have two to three TAs per lab of 40 students that they like are doing these oral exams with students every week and then have a sense of like.
+
+[Interviewee] 11:18:01
+who they should check in on, who asked for help versus who doesn't ask for help during lab, and you need to, like, be more proactive.
+
+[Interviewee] 11:18:09
+Um… What's up? I lost track of your question.
+
+[Researcher] 11:18:13
+Oh, it was like, how challenging is it to determine when a student requires additional support?
+
+[Interviewee] 11:18:13
+How do I? Yeah. Yeah, yeah, I think we don't always know what support. So like there's a program for students. It's like they it's like pre business, and it. I think it's a instead of being a 4 year degree. It's a 5 year degree, so that they like.
+
+[Interviewee] 11:18:35
+have a one-year on-ramp into the program, and one of the students, they… that program requires that they meet with their instructor, so right in the beginning of the semester, I, like, started trying to get a hold of them. One of the eight has only written back once, and has not met with me.
+
+[Interviewee] 11:18:52
+Um, and one of the students. She had low grades just because she didn't know how to use her computer to be able to download an excel file, modify it, and upload it again. So she was missing all the homework points.
+
+[Interviewee] 11:19:07
+where there was Excel, but had perfect points on everything else, and, like, even in lab, didn't ask for help, didn't go to office hours, do you know what I mean? And so it was, like, because through this program, she was required to meet with her instructor, then I got to sit down with her and, like, look at all of her grades.
+
+[Interviewee] 11:19:23
+which weren't, like, super bad, but we're still concerning.
+
+[Interviewee] 11:19:28
+I think it's really… I think it's really hard with a big course, and, um, like, a lot of my practices are really unsustainable, where then, because I'm emailing so many students individually, I'm getting a lot of individual emails, because then when other comes up, they're like, oh, hey, Colleen, like.
+
+[Researcher] 11:19:28
+Mm-hmm.
+
+[Interviewee] 11:19:44
+You know, I have to go to this dent emergency dental appointment, and I'm like, oh my god, we have a Google form for that. But I think, and because with 350 students or whatever this semester, it's like that's too much for me to keep up with. Um… But I don't know a way around it.
+
+[Researcher] 11:20:01
+Mm-hmm. Gotcha. Um, would you say, I guess you would say your class size is pretty large then as well. Yeah.
+
+[Interviewee] 11:20:06
+Yeah, yeah, I think so. But Harvey Mudd standards, you know. I'm like, Oh, I I can't know everyone's name.
+
+[Researcher] 11:20:14
+What would you say is the maximum, like, threshold where anything above that, like that number of students is like you wouldn't be able to provide like the personalized support that you want to.
+
+[Interviewee] 11:20:25
+Yeah, at Harvey Mudd, I was teaching like 2 sections of 80.
+
+[Interviewee] 11:20:30
+And even there was a… it was hard to know how everybody was doing, you know?
+
+[Researcher] 11:20:35
+Mm-hmm.
+
+[Interviewee] 11:20:36
+Um… Yeah, yeah, I don't know exactly. Maybe more than 40. Yeah, let's yeah, less than 350. Yeah.
+
+[Researcher] 11:20:42
+Gotcha. Bike is less than… I guess less than 3 less than 350 Gotcha. And I guess also like when I ask just because you're a CS Ed researcher as well, like, how would you classify like a small, medium, large, like, like… Yes.
+
+[Interviewee] 11:20:54
+Oh, I don't know. Yeah, that's a good question. Maybe medium is 100.
+
+[Interviewee] 11:21:01
+So maybe it's like… 60 to 150 is medium, and over 150 is large.
+
+[Researcher] 11:21:10
+Uh, sure. Okay. Yeah, no, it's okay. I was just wondering, because, like, because we've also been that's something we've been like thinking of too about like, how do we classify? Because everyone also has different. Everyone have such different reference points. Um…
+
+[Interviewee] 11:21:10
+I but I don't know. I just made that up.
+
+[Interviewee] 11:21:21
+Yeah. I think 350 is large.
+
+[Researcher] 11:21:26
+I'm not sure, gotcha.
+
+[Interviewee] 11:21:27
+Yeah, and maybe you have like an extra large or dehumanizing category. It's like, you know, 500 plus or something.
+
+[Researcher] 11:21:35
+Yeah, no, yeah, we… yeah, we've interviewed some people with that, so I was just like, that's… It's impressive how they have the space for that as well, I guess, in a way, like the physical space.
+
+[Interviewee] 11:21:41
+Yeah.
+
+[Interviewee] 11:21:48
+Mm-hmm.
+
+[Researcher] 11:21:49
+Um, but yeah. Um, is what are some… I guess you kind of alluded to it, but then, um, what are some signs or behaviors in students that, um, help you identify that they need help? So you mentioned, like, I guess, like, looking at grades, or looking at assignments. Are there any other things.
+
+[Interviewee] 11:22:04
+Yeah, I think like low grades on homework. Low grades on lecture or lab attendance, right? So these are the sort of free points. Not demonstrating understanding on the oral exams during labs.
+
+[Interviewee] 11:22:21
+also to leave lab. They do a checkout question where they're asked to explain their code.
+
+[Interviewee] 11:22:27
+And in that either, like, not finishing the lab or, like, using ChatGPT for the lab such that they can't explain their code that they wrote, or that they have in there. We have a lot of exams. So we have an exam 0.
+
+[Interviewee] 11:22:42
+And then exam one exam one retake exam 2, exam 2 retake 3, 3 retake, 4, 4 retake, and a final exam. And so those.
+
+[Interviewee] 11:22:54
+Um, give us a good… like, those are another signal. Additionally, we can see if they are are or are not using the practice exams that we have, because that's another sign of like, oh, you're not using some of the strategies we think are going to help you be successful.
+
+[Interviewee] 11:23:13
+Yeah. And then in Ta vibes. You know, during lab, during lecture, we also have Tas and staff wandering around helping people, and I think that's another opportunity to be like, oh.
+
+[Interviewee] 11:23:29
+Like, I'm, you know, I was helping a pair of students on a problem, and I was like, oh, I need to follow up with you guys. Like, this is.
+
+[Interviewee] 11:23:37
+We need this problem is harder for you than it should be, you know.
+
+[Researcher] 11:23:41
+Mm-hmm. Roger. So it sounds like for your class, this way the class is like structured. There's a lot of like check-ins like for students.
+
+[Interviewee] 11:23:48
+Yeah, yeah, hopefully a lot of feedback. So another thing we did is… We use clickers, and so.
+
+[Interviewee] 11:23:56
+like, after… so there'll be a clicker question, you know, solo vote, group vote, and then afterwards, I'll, like, explain the answer.
+
+[Interviewee] 11:24:04
+And then, on that slide, I'll have, like, a, oh, I originally got it. I get it now, or I'm still confused.
+
+[Interviewee] 11:24:12
+And so then sometimes I'll have had TAs reach out to students who said they're, I'm still confused on something that's, like, particularly important.
+
+[Interviewee] 11:24:20
+Um, to see if we can offer them additional support around that specific concept.
+
+[Interviewee] 11:24:26
+So yeah, there's a lot of data sources to figure out.
+
+[Interviewee] 11:24:31
+who to reach out to and who might. Yeah, sorry.
+
+[Researcher] 11:24:32
+Yeah, and you mentioned, you mentioned the retakes, too. So is it like the same exact exam? They just retake it, and then their grade gets like replaced? Like, whichever one's higher, I guess, or…
+
+[Interviewee] 11:24:43
+Yeah, it's the exams are param are like randomized. So it's like, Oh, hey, here, give them one question from this question pool. So they go into a testing center and they take it. So everybody's exam is different. And so it tends to be the same, like.
+
+[Researcher] 11:24:58
+Ah, okay.
+
+[Interviewee] 11:25:01
+structure of an exam, so maybe the same question pools, maybe a few additional question pools.
+
+[Interviewee] 11:25:08
+But they tend to be about the same, and then it's 90% the higher grade, 10% the lower grade.
+
+[Researcher] 11:25:16
+Mmm, okay. Gotcha. So it kind of hurts to take the to take the retake, but not that much, basically, whichever.
+
+[Interviewee] 11:25:16
+So it's basically the higher grade.
+
+[Interviewee] 11:25:23
+Yeah, yeah, yeah, yeah. And I mean, when you do the math, it's just like, oh, say you get a 90 on 1, and a 60 on the other, like, that… you end up, like, with a pretty score pretty close to 90.
+
+[Interviewee] 11:25:38
+you know, like, it just… 90-10 is not much of a… uh, cost.
+
+[Researcher] 11:25:38
+Right.
+
+[Researcher] 11:25:44
+Mm-hmm, gotcha, gotcha. Did you ever feel uncertain about providing extra support to a student? So here we mean, like, either you weren't sure how to, like, help them, or you weren't sure if, like, it was the right time to help them, or if it's, like, you want to give them more time to, like, figure it out, stuff like that.
+
+[Interviewee] 11:26:00
+I think not the like, let me wait. I think with students, we're not sure what's the right support, you know. So we have a student who.
+
+[Interviewee] 11:26:10
+like, has been getting. I think, when they go and take the exam sort of freezes up and, like, won't try all the problems during the exam.
+
+[Interviewee] 11:26:22
+And and so it was getting really low scores. And the TA has… TAs have been taking the lead in contacting the student, and they, like, sort of act like everything's fine.
+
+[Interviewee] 11:26:35
+And so it's just like do we need to like.
+
+[Interviewee] 11:26:40
+send an email that's like, no, bad. Like, you… you're gonna fail this class. Like, that's where you're headed. Do you know what I mean? Like, it… do they… do we need to freak them out, or are they already so freaked out that we would cause harm? Like, it's just it.
+
+[Researcher] 11:26:48
+Mm-hmm.
+
+[Interviewee] 11:26:56
+No one. We have a lot of slack messages being like, Oh, my God, like, how do we support this student?
+
+[Interviewee] 11:27:02
+Yeah.
+
+[Researcher] 11:27:03
+Gotcha. And then, do you use any tools or canvas features to identify students in need? So here we're asking, like, do you use, like, like, for example, like, do you run any statistics on your own, like Excel or something? Or do you mainly just look at the grade book and then.
+
+[Researcher] 11:27:18
+Like, manually go from there.
+
+[Interviewee] 11:27:19
+Yeah, I export it, um, just because it's annoying to work with. And so, yeah, I export it, and then, um… put some filters on. Maybe I'll color students that we're worried about. So it depends if I'm doing it myself versus sharing the data with TAs to be like, Oh, my canvas also doesn't have what lab section they're in.
+
+[Interviewee] 11:27:45
+which is annoying. And so I'll, like, download the grades and merge it with their lab section so that then my Tas can sort and filter and see who are their students in their section that have low exam scores or low homework completion, or something like that.
+
+[Researcher] 11:27:46
+Hmm.
+
+[Researcher] 11:28:04
+Then what are the biggest challenges you face as a CS1 instructor in identifying students in need? So if you get to pick like one or two aspects.
+
+[Interviewee] 11:28:17
+I in some ways I think I know which students are struggling.
+
+[Interviewee] 11:28:24
+I think the I think the I don't know what to do.
+
+[Interviewee] 11:28:28
+It's, like, one big piece of it. Um… But I think… and maybe it also is like time. Do you know what I mean? Because it's, like, when I have a really important question where students during lecture, where students say, um, I'm still confused, then I have Tas reach out, but I.
+
+[Interviewee] 11:28:49
+I, like, wish that I had capacity to be doing that all the time, you know, but then maybe that's too much intervention.
+
+[Interviewee] 11:28:58
+And I think it would be, I think I would want a more like surgical implement if I had a way to, like.
+
+[Interviewee] 11:29:07
+make sure that all the people I reached out to to took, like, an action, like going to office hours.
+
+[Interviewee] 11:29:14
+But I have pretty blunt instruments where I we email more people.
+
+[Interviewee] 11:29:19
+and then only some of them go to office hours.
+
+[Interviewee] 11:29:24
+Yeah, I don't know.
+
+[Researcher] 11:29:26
+So you'll see… so it's like seeing the follow through, like, did they actually, like, they actually reach out? Like, if you ask them, like, hey, like, you should go to these resources. Did they actually use these resources?
+
+[Interviewee] 11:29:37
+Yeah. Yeah, yeah. And I think so much of it, particularly teaching a course that a lot of first-year students take, so much of it is like collaging, you know, like when when I found students who I thought were going to drop the class last semester, who then were not planning on dropping the class. It's like.
+
+[Researcher] 11:29:47
+Mm-hmm.
+
+[Interviewee] 11:29:56
+One person, sounds like they were depressed, and so they were, like, not spending much time on work, and, like, distracting themselves with friends. It's just like, that makes sense.
+
+[Interviewee] 11:30:06
+Another student was… it was their first time living in an apartment.
+
+[Interviewee] 11:30:10
+you know. It was just like, Oh, yeah, that's a lot. Another student was rushing a Greek organization. And so was struggling with that time management. I don't know.
+
+[Researcher] 11:30:19
+Hmm.
+
+[Interviewee] 11:30:23
+I'm sorry, I think that was a little off topic.
+
+[Researcher] 11:30:26
+No, I think it makes sense. It's just like figuring out, like you said, figuring out how to balance, like, how much support can you give, because they're still adults at the end of the day, like, there's still, like, supposed to be independent.
+
+[Interviewee] 11:30:33
+I mean… I don't mind… If I could be effective in the… support I'm providing. I think there sort of wouldn't be a limit to how much support I'd be providing. You know.
+
+[Researcher] 11:30:50
+Mm-hmm. But it's gotta figure out what they need and then also like balance like all the students as well. Like if you give it to, you can support to everyone, you have to, like, like, be like, oh, I would give this to every… like, I would give this equally to everyone, and that makes, like, being fair and stuff as well.
+
+[Interviewee] 11:30:51
+But… Yeah.
+
+[Interviewee] 11:31:06
+Yeah, I don't… I think, um… I think it can still just be equitable to have things that are available to students who need more. I'm happy with that. Do you know what I mean?
+
+[Researcher] 11:31:13
+Mm-hmm. Gotcha, gotcha.
+
+[Interviewee] 11:31:16
+like that doesn't for me. That doesn't raise any alarm bells.
+
+[Researcher] 11:31:22
+Gotcha. So we're just, like, managing the 300 students.
+
+[Interviewee] 11:31:26
+Yeah, and, like, figuring out… Yeah, how to support them, particularly like when it… when it's around Python knowledge, I feel like, oh, actually, my staff has the skills for that, and I know how to coach them on doing more of that. But for…
+
+[Interviewee] 11:31:41
+For some of the, like, broader skills about, like, managing depression, and then putting time into work, do you know what I mean? And, like, there's, like, a lot that were unqualified to support them on.
+
+[Researcher] 11:31:55
+Gotcha. Yeah. So then next set of questions we're going to ask about concerns slash features for an instructor tool. So then first are you comfortable with using the learning management system? Your institution asked you to use, and would you feel comfortable using an Lms plugin to process student data to provide you with insights about your students?
+
+[Interviewee] 11:32:02
+Mm-hmm.
+
+[Interviewee] 11:32:14
+Yeah, I am comfortable using canvas. I use canvas and prairie learn. Yeah, I think like the plugin would need to be like approved by my institution, right?
+
+[Researcher] 11:32:25
+Yeah, assuming it is, then then it's fine, I guess, or… Gotcha. And then, does your university, is it… is Canvas, like, a content manager, or do they do any, like, um, like, data collection with it, or is it mainly just, like…
+
+[Interviewee] 11:32:27
+Yeah, yeah, then that seems fine, yeah.
+
+[Interviewee] 11:32:38
+You know, we have a… we have a program where… that I've participated in it, where it's, like, early warning for first-year students.
+
+[Interviewee] 11:32:46
+So I think… I think they're doing some data analysis. Maybe this was only last semester when I opted in.
+
+[Researcher] 11:32:47
+Hmm.
+
+[Interviewee] 11:32:53
+But doing some data analysis. to pilot strategies to identify first-year students who need additional support.
+
+[Researcher] 11:33:03
+Mm-hmm. Gotcha. Do you know anything about, like, are they using, like, what are they using, like, grades or, like, activity?
+
+[Interviewee] 11:33:09
+Yeah, it's just grades. And my canvas is just a grade book. I mean, it has links and other stuff like that, but they don't do any work in Canvas.
+
+[Researcher] 11:33:11
+Ah, okay.
+
+[Researcher] 11:33:18
+Ah, so is it Prairie Learn? That's where they do most of their stuff.
+
+[Interviewee] 11:33:21
+Yeah, prairie learns where they do all the work. And so then I'm just always moving grades over from Prairie Learn or from my lecture system, or from my like attendance system.
+
+[Researcher] 11:33:32
+Got you, got you. Okay, so it's like, so you would you say, like, you're the technologies you use for your class, they're, like, kind of like separated, and then you just manually, like, move things around.
+
+[Interviewee] 11:33:40
+Yeah, it's annoying, too. Yeah.
+
+[Researcher] 11:33:43
+Gotcha. And then, let's see, do you think CS1 instructors would benefit from having a tool that could identify students in need? Why or why not?
+
+[Interviewee] 11:33:52
+Yeah, I think so. I think it's not always clear what to do with the data.
+
+[Interviewee] 11:33:59
+Um, and I think it's not always.
+
+[Interviewee] 11:34:05
+Yeah, I think there's, like, the it's hard to get them to put in time.
+
+[Interviewee] 11:34:10
+And there's the like flailing behavior where we need them to put in time in different ways.
+
+[Interviewee] 11:34:18
+Um, and… but, so in general, yeah, it seems promising. I don't… I actually don't know what other people are doing to track students that they're worried about. I think.
+
+[Interviewee] 11:34:29
+Some of my, um, colleagues, when they hear about what I'm doing, which I think is… I try and be really proactive, like very Harvey Mudd. They're just like they're adults. Do you know what I mean? Like, they're gonna fail this. They are gonna decide to fail this class. They're gonna decide to fail this class. And I'm like, no.
+
+[Interviewee] 11:34:44
+I'm gonna fight them on that decision. So I don't know what… what, like, a general faculty member… where they sit in terms of, like, no, if I can get them to learn this content kicking and screaming, I will get them to learn this content kicking and screaming. And not everybody is on the same side of that decision as I am.
+
+[Researcher] 11:35:07
+Gotcha, gotcha. Yeah, no worries. I was gonna say, I also feel like, personally, our, like, I feel like our samples will have some sample bias as well, like, because I'm, like, the people that sign up for… to interview with us are people that really care as well, so… yeah.
+
+[Interviewee] 11:35:21
+Yeah. Yeah, that's tricky.
+
+[Researcher] 11:35:25
+Yeah. I guess also what kinds of let's see. Oh, we kind of talked about this, but it's like, what kinds of tools or help do you think CS1 instructors identify students in need would benefit from? So here we're asking, um, if you had your dream, like, tool or, like, dream CS ed instructor tool, like, what would you, um… Like, what features would you like it to have? You can be as much have as much detail as possible, be as imaginative as you like as well.
+
+[Interviewee] 11:35:47
+Yeah, one thing that's really that's time-consuming for me is figuring out, like, what data to look at when.
+
+[Interviewee] 11:35:55
+And so, like… I I wish I had some information about, like.
+
+[Interviewee] 11:36:03
+you know, when should I email students? And about what? And so, like.
+
+[Interviewee] 11:36:09
+I think having like. Yeah, maybe something that would be helpful, too, is, like, if I'm sending students all these emails.
+
+[Interviewee] 11:36:19
+Like, I don't… it's hard for me to keep track of that I, like, just reminded them how important lecture is, because they didn't attend lecture on Friday. And then also, I'm sending an email reminding them about homework assignments. Like.
+
+[Interviewee] 11:36:33
+maybe it's more effective if I'm combining those into a single email, and maybe a tool could help me.
+
+[Interviewee] 11:36:40
+Um, with kind of my, like, customer management, or, like, my student management, so that.
+
+[Interviewee] 11:36:47
+so that I feel so that they feel more like.
+
+[Interviewee] 11:36:51
+humanized. Oh, I don't know how to do mail merge where I put a student's name in the subject line.
+
+[Researcher] 11:36:53
+Mm-hmm.
+
+[Researcher] 11:37:00
+Uh, so if it was automated, that would be, like…
+
+[Interviewee] 11:37:01
+And… That would be helpful to be able to, like… When bad, I want to put their first name in the subject line, because I think that's going to get more clicks.
+
+[Researcher] 11:37:12
+Mmm, okay, gotcha. So, like, kind of, like you said, kind of spooking them a little bit so they'll, like, open the email, um, but not spooking them too much that they will, like, like, not, um, not want to interact, I guess.
+
+[Interviewee] 11:37:14
+Yeah.
+
+[Interviewee] 11:37:18
+Yeah.
+
+[Interviewee] 11:37:23
+Yeah, yeah. Yeah. So I think around some of the email stuff I do and know and like some guidance on what might be most effective in my class, you know, like, when should I send each of these emails?
+
+[Researcher] 11:37:25
+I gotcha.
+
+[Researcher] 11:37:37
+Okay. Gotcha. And then, how would you make, uh, sense of the visualization? How would you make sense of your student data? So we're thinking about, like, data visualization, or just things you'd want to see, like, on the screen if you were to open up this tool.
+
+[Interviewee] 11:37:39
+I…
+
+[Interviewee] 11:37:45
+Mm-hmm.
+
+[Researcher] 11:37:50
+So yeah.
+
+[Interviewee] 11:37:50
+Yeah, I mean, one thing, um, that could be cool is, like.
+
+[Interviewee] 11:37:55
+hey, here are students. Here are three things that might be concerning. Attendance, homework completion, exam grades.
+
+[Interviewee] 11:38:03
+And it's like, you know, here are students where we're worried, where we're in the red zone for all three versus, like… Red zone for two of them. I don't know, something… something to help me.
+
+[Interviewee] 11:38:19
+This gets at the, like, multiple emails thing, too, of, like… Oh, are they like? Are they in the red zone for all of my metrics such that I should be sending them one email?
+
+[Interviewee] 11:38:32
+that like pulls in the things that make me worried.
+
+[Interviewee] 11:38:38
+Um… Like, I think.
+
+[Interviewee] 11:38:42
+And so I think sort of being able to see.
+
+[Interviewee] 11:38:46
+like how many students are in each of these zones maybe could be helpful?
+
+[Researcher] 11:38:53
+When you say, like, zones, do you mean like like just like different levels of, uh, struggle, if that makes sense? So just like, okay, this is, like, the we really need to talk, or the ones that's just, like, this is a little concerning, but not… Too much yet.
+
+[Interviewee] 11:39:00
+Yeah.
+
+[Interviewee] 11:39:06
+Yeah, yeah, some visualization to help me with some of the grouping right? So like, you know, I just went through my spreadsheet sorted by their homework grade, and was like, Okay, they have full credit. They don't need an email. Okay, they're missing less than half a point, which is how much homeworks are worth. Okay, they're missing between half a point and one point. They're missing. And so I'm like doing some grouping.
+
+[Interviewee] 11:39:28
+of thing of people that I think are similar. But I think it's.
+
+[Interviewee] 11:39:34
+I think it, yeah, I don't have a great, like.
+
+[Interviewee] 11:39:40
+brainstorming strategy for design, but having some descriptors about like recently they are dropping the ball. That sounds too judgmental. But it's just like, oh, they were crushing it on homework, and like, Oh, man, they they like have stopped submitting as much homework.
+
+[Interviewee] 11:39:57
+or, like, oh, they're just like always a little bit under full credit. Some of that. I think some of those groups maybe would be helpful to me.
+
+[Researcher] 11:40:07
+Gotcha, gotcha.
+
+[Interviewee] 11:40:08
+It's easy for me to see the, like, sorted data. I have access to that.
+
+[Researcher] 11:40:14
+But seeing, like, seeing it visualize where you're like, okay, this is a group of students, this is another group of students.
+
+[Interviewee] 11:40:15
+Bye. Yeah. Like figuring out who's, um… whose homework scores have been trending downward?
+
+[Researcher] 11:40:26
+Okay, so some, like, time series. So sometime longitudinal, like, this is what their behavior's been, um, over the last, like, couple weeks or something. Okay.
+
+[Interviewee] 11:40:26
+like, I think that would be kind of a pain for me.
+
+[Interviewee] 11:40:35
+Yeah. Yeah, but then it's tricky, because, like, is my intervention really going to be different if it's trending down? Maybe it is, because then I'm like, oh, hey, what's up?
+
+[Interviewee] 11:40:46
+I don't know.
+
+[Researcher] 11:40:49
+or something to say, like, Hey, we noticed this trend. That way it's a little more like, um, I don't want to say, like, not, like, the other ways are not concrete, but it's like, okay, we actually have, like, there's actually a trend you can see. Okay.
+
+[Interviewee] 11:40:52
+Yeah.
+
+[Interviewee] 11:41:00
+Yeah, yeah. Yeah, yeah, like a, hey, we saw this downward trend in your homework scores. We wanted to see if everything's going okay. Like, do you know what I mean? I think some, like, check in with then with a concrete question.
+
+[Interviewee] 11:41:14
+That has, like, a one-word answer so that we can, like, get them to reply, you know?
+
+[Researcher] 11:41:19
+Mm-hmm, gotcha, gotcha. Cool. So then I think now I'm going to share my screen, and I'll show the prototype of the dashboard that we have. I know you kind of saw it a little bit at the Doc Consortium, but now you'll see it on a screen instead of just a screenshot. So I guess there's that.
+
+[Interviewee] 11:41:26
+Great. Yeah.
+
+[Interviewee] 11:41:33
+Yeah, I love it. I am gonna need to go in 4 minutes to another call.
+
+[Interviewee] 11:41:39
+We can always… maybe your IRB doesn't allow this, but I can always.
+
+[Researcher] 11:41:39
+Ah, um.
+
+[Interviewee] 11:41:44
+Like, call again. Okay, okay.
+
+[Researcher] 11:41:45
+No, that's totally fine. Yeah. Um, sorry, what time, like, same day today, or…
+
+[Interviewee] 11:41:51
+Yeah. Um, I don't have any other time today, but I have time, um… Let me look.
+
+[Interviewee] 11:42:04
+Um… But I have time tomorrow.
+
+[Researcher] 11:42:08
+Mm-hmm.
+
+[Interviewee] 11:42:08
+almost any. Yeah, before 10 a.m. Central, or after.
+
+[Interviewee] 11:42:14
+or afternoon Central?
+
+[Researcher] 11:42:18
+Gotcha. Yeah, I think that should also be… that should also be fine with me. Let me see… Just load my, like, calendar's, like, loading. Um…
+
+[Researcher] 11:42:35
+Yeah, I don't have anything scheduled for tomorrow as well, so I'm gonna say, is there a time that works better for you, then I can just add… I'll add a calendar invite.
+
+[Interviewee] 11:42:47
+Yeah, how much more time do you think we should schedule for?
+
+[Researcher] 11:42:51
+Um, I would say, like, maybe 15, 20 minutes, because it… to give you an example, it's like, I'll show the prototype, and then there's, like, 3 action slash scenarios, and then for each of them, I would ask you, like, your first impressions, thoughts, and feelings, things you'd like or dislike.
+
+[Interviewee] 11:42:55
+Okay.
+
+[Interviewee] 11:43:01
+Okay.
+
+[Interviewee] 11:43:07
+Yeah. Yeah. Would you want to do like 9 30 tomorrow? Central? I don't know what time zone you're in.
+
+[Researcher] 11:43:12
+Uh, we're EST, so I think I think yes. So then, okay, let me. Okay, I will. Let me just write that down, and then I'll after this meeting, then I'll it's a so for me it's 10 30, and then I mean, it's Google Calendar. So it'll update.
+
+[Interviewee] 11:43:13
+Oh, okay, so 10.30 for you. Okay.
+
+[Researcher] 11:43:29
+Um, for you. Okay, so Wednesday, 10 30… Okay, cool. I'll schedule 10.30 to 11, um, just for, like, buffer time, but I think, um, yeah, I don't think… I think that's the maximum it would take, as well, um, because that's the last part of the interview anyway, um, is the prototype, but…
+
+[Interviewee] 11:43:40
+Okay. Okay. Awesome.
+
+[Interviewee] 11:43:45
+Okay. Awesome. I'm sorry for the timing.
+
+[Researcher] 11:43:46
+Yeah, cool, so I'll… No, it's okay, I probably should have, um… I realize our, like, the way our thing is scheduled, it says, um, what's it called? 45 minutes, so I understand as well. That might have been… that might have been why, as well.
+
+[Interviewee] 11:43:56
+Oh, yeah, yeah, yeah. Yeah, yeah, yeah, yeah, sorry, I only booked 45 minutes, because I saw I was only 45 minutes.
+
+[Researcher] 11:44:03
+Yeah, no worries, but thank you so much, thank you so much.
+
+[Interviewee] 11:44:05
+Okay, that's great. So we'll chat tomorrow, then.
+
+[Researcher] 11:44:08
+Yeah, and then let me stop the recording here, and then, yeah, so I guess… thank you so much for the first part of the interview, I guess, and then I'll see you. Yeah.
+
+[Interviewee] 11:44:14
+No, it's great. Yeah, we'll see you tomorrow. Okay, awesome. Thanks!
+
+[Researcher] 11:44:18
+Yep. Thank you so much, Colleen. And yeah, see you. Thank you. Good luck with your next meeting.
+
+[Interviewee] 11:44:20
+See you both later. Thanks. Bye.
+
+[Researcher] 11:44:24
+Bye. Okay.
+
+[Researcher] 11:44:30
+Hi. Yeah, she's one of Dr. Vart's, like, I think, long time friends or something
+
+--------------- Part 2 ------------------------------
+
+[Researcher] 13:02:18
+No, I'm totally fine. Let me. Okay. I'll just say something really quick, just to make sure it's going.
+
+[Interviewee] 13:02:22
+Hello, hello, hello. Can you hear me?
+
+[Researcher] 13:02:25
+Mm-hmm.
+
+[Researcher] 13:02:32
+Yep. Okay, there it's going. So awesome. And then I'll start recording as well.
+
+[Researcher] 13:02:38
+Okay. Okay. So then I think we answered all the questions. So then that's the now I'm I was going to share my screen, I think. So then I'll share my screen, and I'll show a prototype. I mean, I know you already saw like.
+
+[Interviewee] 13:02:39
+Perfect. Mm-hmm.
+
+[Researcher] 13:02:52
+part of it, but you'll see it. Yeah, I mean, you'll see it instead of a screenshot, I guess. You'll have… Let's see loads. Yeah.
+
+[Interviewee] 13:02:54
+Yeah, but like, how much do I remember?
+
+[Interviewee] 13:03:04
+Mm-hmm.
+
+[Researcher] 13:03:05
+So then I'm going to walk through… I'm gonna, like, read through like 3 scenarios, and then after each one 3 scenarios as in like actions that we would you would probably be doing if you were to use the dashboard. And then from each one I'll ask about like, what are your.
+
+[Interviewee] 13:03:16
+Mm-hmm.
+
+[Researcher] 13:03:21
+like first impressions, or anything you like or dislike, because it should give us both, uh, both views, that way, um, help us, like, uh, get in next… get the… help us design the next iteration of the dashboard so we have some direction. Yeah. So the first one is called viewing visualizations from one class section. So after logging into Canvas as an instructor.
+
+[Interviewee] 13:03:32
+Awesome.
+
+[Researcher] 13:03:40
+then you'll be met with this page that shows data visualizations of student behavior metrics for one of your class sections.
+
+[Researcher] 13:03:46
+And then there are these, like, four quadrants here. So I'll go over each of them. So the first one, oh, also you can… if you have different sections, you can, like, change, uh, which section of class you're seeing. For the first one here, it's about a list of potentially struggling students.
+
+[Interviewee] 13:04:02
+Mm-hmm.
+
+[Researcher] 13:04:03
+So, for example, this will be, like, their names, their grades, and then these would be reasons why they're struggling. So these would be those based on those labels. Let me see if I can make this a bit bigger.
+
+[Interviewee] 13:04:14
+Yeah, I can zoom in.
+
+[Researcher] 13:04:16
+I was gonna say I can make this full screen for me, then maybe it's a little slightly bigger, I guess.
+
+[Interviewee] 13:04:21
+Yeah. But I… if we're looking at one quadrant on Zoom, it allows me to, like, zoom in.
+
+[Researcher] 13:04:26
+Okay. So then, yeah. So these, I guess, tags or labels. They're based off behavior metrics that we collect from what's it called? We collect from like students while they're using our IDE inside Canvas. So, for example, if they have, we can track like.
+
+[Interviewee] 13:04:28
+Yeah.
+
+[Researcher] 13:04:43
+when they're getting syntax errors, and when they're compiling. So, for example, a high syntax error tag would be, like, um, the ratio between the number of times they got a syntax error over the number of compiles. It's quite high, so then that's why they'd be tagged this way. And then the right side is a.
+
+[Interviewee] 13:04:55
+Mm-hmm. Mm-hmm.
+
+[Researcher] 13:05:00
+Um, histogram of average scores across weeks, but then you'd be able to change.
+
+[Interviewee] 13:05:02
+Do you want to talk about each one as we go, or no?
+
+[Researcher] 13:05:06
+Um, yeah, I can pause for each one of that, if that's like better. Yeah. So I guess.
+
+[Interviewee] 13:05:10
+Okay. Yeah, I think I think with low effort, I think you mean low engagement.
+
+[Interviewee] 13:05:16
+And I think effort… Feels too judgy to me. Maybe I mentioned that before, but I don't… I think low effort is bad. I wouldn't want any teacher to see that. I wouldn't want my TAs to see it.
+
+[Researcher] 13:05:16
+Hmm.
+
+[Researcher] 13:05:21
+I think so. Yeah.
+
+[Researcher] 13:05:28
+Mm-hmm.
+
+[Interviewee] 13:05:29
+And then I wonder how, um, wheel spinning and high syntax errors are different?
+
+[Interviewee] 13:05:34
+And I think I don't know what low test ratio means.
+
+[Researcher] 13:05:38
+Gotcha. Yeah, for wheel spinning, we had it as like, if they either never got the question correct, or they got the question correct, but it took more than it took them more than 75% of other students like more submissions.
+
+[Interviewee] 13:05:52
+Yeah. Yeah. And maybe that's not meaningfully different than high syntax errors.
+
+[Researcher] 13:05:53
+Yeah. Gotcha. We're also thinking, like, the instructor could also define these, so maybe we'll have some, like, default, um, default, like, this is how we calculate student behavior. Is this way? So it's like you could also like change these, or you could remove them, add your own like we want to make it.
+
+[Interviewee] 13:06:04
+Mm-hmm.
+
+[Researcher] 13:06:13
+like, customizable. So then, I guess, would you say, like, and then I guess, low test ratio is because we have, like, unit tests. So this would be like maybe their the code is compiling, but then they're not making. So maybe this might be like a logic. They might be struggling with like logic or like.
+
+[Interviewee] 13:06:27
+So it's not like an exam. That's not… test isn't a synonym for exam.
+
+[Researcher] 13:06:32
+Not in this context, yeah, because yeah. Right, yeah, we could have, like, maybe, like, have, like, a glossary or something, or when they, like, hover over.
+
+[Interviewee] 13:06:34
+Ah. Yeah, that's fun and tricky in terms of naming things.
+
+[Researcher] 13:06:45
+That's something we're considering. Um…
+
+[Interviewee] 13:06:46
+I think you… it might mean you can only ever use test cases. Few test cases passing, or you know.
+
+[Interviewee] 13:06:53
+like, I think when just a… I think in like in technical writing, I think avoiding synonyms, so that if you're using.
+
+[Interviewee] 13:07:01
+test to mean exam, you just never use the word test, you always use exam. When instead of using tests for a test case, you always say test case to disambiguate.
+
+[Researcher] 13:07:09
+Okay, gotcha, gotcha. Yeah, okay, that makes sense then. So it's like, whenever we… I think… then I think for our stuff… I don't know if we have exams in this prototype, but yeah, then I guess we'll, like, keep that in mind. So it's like, whenever we say unit, whenever we say test, we mean, like, unit test here, which I mean, I guess we have it.
+
+[Interviewee] 13:07:25
+But I I would also, yeah, I would either I would explicitly say test case or unit test. So tests never appears by itself. Because then it's ambiguous if it means a unit test, or if it means exam.
+
+[Researcher] 13:07:28
+Mm-hmm.
+
+[Researcher] 13:07:33
+Mm-hmm. Mm-hmm. Right. Okay. Gotcha, gotcha.
+
+[Interviewee] 13:07:40
+Similar to the, like, oh my god, never use a synonym in an academic paper. Never.
+
+[Researcher] 13:07:45
+Right, because if you wanted, like, technical…
+
+[Interviewee] 13:07:45
+maybe the only. Yeah, you want to be so precise. And like, maybe the only synonym you can use is student and participant.
+
+[Interviewee] 13:07:55
+But other than that, I think, like, they should be absolutely prohibited.
+
+[Researcher] 13:07:55
+Mm-hmm. Gotcha. That makes sense. That makes sense. I guess, for this section, is there any other things that you think should be different things you like or dislike for this quadrant?
+
+[Interviewee] 13:08:01
+Yeah.
+
+[Interviewee] 13:08:10
+Um, maybe for the current grade, maybe when I click on student A, that takes me to all their grades.
+
+[Interviewee] 13:08:16
+But I think for me, it might be more intuitive to have the percentage be clickable because I think, oh yeah, that's going to take me to student A's grade.
+
+[Researcher] 13:08:17
+Hmm.
+
+[Researcher] 13:08:26
+Ah, okay, okay. Yeah, I'd say the… this is actually the next. This one will go to the next. That will be the next. What's it called? The next scenario? Actually, yeah, but okay, I see. So it's like, would you? So would you like this to take you to a whole different page, or, like, it could be also like a hover where it's like, here's the breakdown, and then you click it, and then it goes, or…
+
+[Interviewee] 13:08:28
+What?
+
+[Interviewee] 13:08:33
+Okay.
+
+[Interviewee] 13:08:45
+Yeah, yeah, I can imagine a hover. I can imagine it just takes me to the like regular student page with their grades in Canvas.
+
+[Researcher] 13:08:53
+Okay, gotcha, so just maybe, instead of the link here, the link would just be here instead.
+
+[Interviewee] 13:08:54
+You know? I think that would be intuitive to me.
+
+[Researcher] 13:08:59
+Mmm, okay, gotcha. Yeah, and mhm.
+
+[Interviewee] 13:09:01
+because I do think there's a difference between the like there's a student page in Canvas that I can sometimes get to, and there's like the students grade in Canvas. I think those are different pages in Canvas.
+
+[Researcher] 13:09:12
+Gotcha, because I think the profile is just usually, like, their name and like like just enrollment. Okay.
+
+[Interviewee] 13:09:16
+Yeah, yeah, yeah, yeah.
+
+[Researcher] 13:09:18
+Gotcha. Okay, gotcha. That makes sense then. Yeah. And also there would be more students examples as well. Yeah.
+
+[Interviewee] 13:09:22
+Yeah. Okay. Yeah, yeah, yeah.
+
+[Interviewee] 13:09:26
+and maybe it's like sortable or something, or maybe I can click… high syntax errors and see all the students with high syntax errors. Like, maybe there's some filtering.
+
+[Researcher] 13:09:34
+Gotcha. Yeah, we could add that here, like, or the like sorting, like, just, uh, you know, basic table function stuff. Yeah.
+
+[Interviewee] 13:09:41
+Yeah, yeah, yeah, that seems cool. Should we go to class-wide metrics?
+
+[Researcher] 13:09:43
+Okay, cool. And then… Sure, yeah, so then this part is about, um, it's like if you want to show a different data feature or like behavior metrics. So, for example, this one's just average score, but you can change it to time spent coding. So for our data, we have, like, every time the timestamps every time a student starts typing.
+
+[Researcher] 13:10:04
+So it's like, for example, we want to track how much time they're actively coding, we could look at the difference, the sum of the difference between those timestamps up to, like, some threshold, where we just assumed that they left, you know, then, um, yeah.
+
+[Interviewee] 13:10:11
+Mm-hmm. Yeah.
+
+[Researcher] 13:10:16
+Or, like, for example, submission count, um, and it would… right now it's ordered by assignments, but you'd be able to change that as well.
+
+[Interviewee] 13:10:22
+Yeah, I I think on instead of having like a histogram like this. I'd love a box plot. Do you know what I mean? Like a box and whisker plot for each? Because that's what's most relevant to me.
+
+[Researcher] 13:10:30
+Mm-hmm. Gotcha.
+
+[Researcher] 13:10:36
+Mm-hmm.
+
+[Interviewee] 13:10:36
+is in, like, seeing the shape of the data.
+
+[Researcher] 13:10:40
+Okay, so more like a distribution instead of just like.
+
+[Interviewee] 13:10:45
+Yeah. Yeah, and I think a box and whisker plot is just, like, an easy way for me to see the data, you know?
+
+[Researcher] 13:10:45
+the score. Okay. Gotcha.
+
+[Researcher] 13:10:52
+Mm-hmm. Is it kind of like… because I think they have it in Canvas, but it's like, would it be, like, those kind of where it shows the grade, but then just for other metrics, I guess?
+
+[Interviewee] 13:11:00
+Yeah, I haven't seen… I don't know where I find history… or, like, box and whisker plots in Canvas.
+
+[Researcher] 13:11:06
+Oh, yeah, I don't know it in the instructor view, but I know sometimes there's like a show distribution option in Canvas, like, so when in some of my classes, when the grades like when the grades are released, some of the professors let you see the distribution, so you can see who got the highest, the lowest, and then they have a box and whisker plot.
+
+[Researcher] 13:11:22
+So you can kind of… and then they'll plot where you are on the thing, but I think the instructor has to, like, allow it, because I know some classes they weren't… it wasn't visible, and then some other classes it was just, like, there.
+
+[Interviewee] 13:11:23
+Okay. Hmm.
+
+[Interviewee] 13:11:33
+Hmm. Yeah. Yeah.
+
+[Researcher] 13:11:34
+Yeah. Well, anything else about this, or just it should just be it should just be a box plot instead.
+
+[Interviewee] 13:11:41
+Yeah, I think just a box plot instead.
+
+[Researcher] 13:11:43
+Okay. And then this one is a metric comparison. So this is like, if you have 2 different. You have 2 different data features, and you want to see if there is a relationship between the 2, then you would be able to like there would be more like assuming like you can like input. You can design which?
+
+[Researcher] 13:11:59
+metrics you want. But right now, this will show the syntax error ratio versus the unit test ratio, and then each student is a dot on this plot, and then, for example, then if you have, like, a low unit test ratio and a lot of syntax errors, then maybe this is, like, somebody's putting a lot of effort, but not making.
+
+[Interviewee] 13:12:16
+Mm-hmm.
+
+[Researcher] 13:12:17
+much progress versus, like, um, here, maybe they're getting some syntax errors, but they are getting a high unit test ratio. So they're probably fine. And then these might be like they're getting it really fast, so they're either really good, or maybe they're copy-pasting. It's right now it's like.
+
+[Researcher] 13:12:32
+This is just, like, whatever the metrics are, then we can't see the behavior, but we can see, like, at least the relationship between two of them. Yeah.
+
+[Interviewee] 13:12:39
+Yeah, I like it. And I think, like this is where having, um… having something where I could show it to students would be really helpful. Do you know what I mean? Because I might want to encourage some behavior change, right? Like, if you're getting a ton of syntax errors.
+
+[Researcher] 13:12:51
+Mm-hmm.
+
+[Interviewee] 13:12:58
+Like that, that seems helpful for me to be like, oh, we're seeing lower unit. I don't know. I don't know exactly what I would say.
+
+[Researcher] 13:13:05
+Mm-hmm.
+
+[Interviewee] 13:13:07
+Maybe these two things are kind of confusing to compare, because if I have a syntax error, I'm not running my unit tests.
+
+[Interviewee] 13:13:19
+So maybe these are kind of incompatible to plot against each other.
+
+[Researcher] 13:13:20
+Yeah. Mm-hmm. Yeah, because these are definitely correlated, because, yeah, if you don't have… you can't get your syntax, then you can't get the unit test score. Um, yeah.
+
+[Interviewee] 13:13:29
+Yeah.
+
+[Researcher] 13:13:31
+So then maybe, like, if it… maybe you could do, like, syntax error versus, like, an exam score or like a project score. Yeah, then that could be that could be option. Yeah.
+
+[Interviewee] 13:13:36
+Yeah, yeah, yeah, yeah.
+
+[Researcher] 13:13:40
+Okay, and then you mentioned, like, possibly looking at, like, a different view for students, like, would it just be there? Would you want them to just see their metrics then, or do you want them to see, like, how they compare to the class?
+
+[Interviewee] 13:13:53
+Oh, I was thinking that, like, during lecture, I would take a screenshot of this.
+
+[Researcher] 13:13:57
+Oh, okay, okay, gotcha. Mm-hmm.
+
+[Interviewee] 13:13:58
+Do you know what I mean? So things like.
+
+[Interviewee] 13:14:02
+Yeah, like, I was too lazy to do it, but I was like, oh, you know, I want to, um, plot home… average homework score versus exam score to help them see, like, oh, if I want to hire exam score, I should do more of the homework.
+
+[Researcher] 13:14:15
+Mm-hmm.
+
+[Interviewee] 13:14:16
+So sometimes, and I am happy to pH if I think like actually something will be helpful like doing the homework will be helpful to their learning.
+
+[Researcher] 13:14:24
+Mm-hmm. Gotcha. Okay. Yeah, no, I can see that. That's really cool. Then, yeah, because it's like something concrete to be like you can actually feel it's like I'm not just telling you to do the homework.
+
+[Interviewee] 13:14:25
+to be like, hey, look at this, look at this pattern.
+
+[Researcher] 13:14:39
+This is actually like based on previous classes or based on the previous assignments, like, if you're doing well in the assignment, there's a chance there's a high chance you probably are doing well in the homework, and vice versa.
+
+[Interviewee] 13:14:43
+Yeah.
+
+[Interviewee] 13:14:49
+Yeah. Yeah.
+
+[Researcher] 13:14:50
+Gotcha. And then this side is about the submission timeline. So this is like looking at how early people submit. So right now it's showing the latest 3 assignments, and it's a timeline that's counting down because it's counting down days before the due date. So 0 would be when.
+
+[Researcher] 13:15:06
+Whenever you assign the due date, and, um, you can, like, set a threshold, but basically each dot is a student again, and then the blue is like the normal submissions, or, like, early submissions versus like when you get closer to the deadline, then they can be marked as, like, late or cramming. What are your thoughts on this?
+
+[Interviewee] 13:15:23
+Yeah, this one seems unworkable if I have 400 students. All the other ones seem like they work great for 400 students. But I don't know what this one would look like for 400 students.
+
+[Researcher] 13:15:29
+Hmm. Gotcha.
+
+[Researcher] 13:15:34
+Gotcha. What if it was, like, you could zoom in? Would that help? Or is it because of the number of dots, or is it like just something else?
+
+[Interviewee] 13:15:41
+Yeah, well, like, um… Yeah, it seems like too easily I would get like a line of dots, and I wouldn't be able to actually make any meaning for it. Like, if I have 400 students. Maybe it's just a solid line.
+
+[Researcher] 13:15:53
+Mm-hmm. Oh, because everyone is submitting at the same at different times. Gotcha.
+
+[Interviewee] 13:15:58
+Yeah, on average, I have one person submitting an hour in the 4 days before it's due, you know, or, you know, I open my new homework. I have two homeworks a week, and I open them a week in advance. And so for the 7 days.
+
+[Researcher] 13:16:05
+Hmm.
+
+[Interviewee] 13:16:13
+that they might be turning it in. I probably have somebody submitting it every hour.
+
+[Researcher] 13:16:18
+Okay, what if they were grouped then? Then what if it was just like, oh, this, like, this… you could hover over a section instead, and it'd give you a list of students that submitted around that time, would that.
+
+[Researcher] 13:16:28
+Help the visuals, or is it still, like, it still wouldn't be… too useful.
+
+[Interviewee] 13:16:33
+Yeah, I don't… I don't know if it is helpful. Maybe it's like is my what what action am I trying to take? Is it like some of my students are starting too late. So they're actually not able to, like.
+
+[Interviewee] 13:16:46
+finish it before the deadline?
+
+[Researcher] 13:16:48
+Yeah, I would say that's kind of what we were kind of going for, is seeing, like, how early people start assignments to see like if that affects so that way it's like, for example, if you wanted to meet with someone, and it's like, well, if you started the homework like an hour before it's due, then, of course.
+
+[Interviewee] 13:17:03
+Yeah. But is this capturing when it's submitted, or when it… when they start it?
+
+[Researcher] 13:17:03
+you might not be able to complete it. Is there a different way?
+
+[Researcher] 13:17:10
+Um, okay, oh yeah, for us, a submission is a compile because of the coding, but then so then this would be like when they first compile. But then it can be changed, of course, like, based on like how you would want to. So if it's like, for example, if it's like an assignment, like a textbook assignment, then that would just be when they like submit.
+
+[Interviewee] 13:17:14
+Got it, got it, got it.
+
+[Researcher] 13:17:26
+The, I guess when they submit the assignment, the wholesome assignment, I guess.
+
+[Researcher] 13:17:32
+But yeah.
+
+[Interviewee] 13:17:33
+Yeah, yeah, yeah, I mean, we have a Canvas isn't where we do it, but we do have, like, oh, they ran their code, you know, or compiled their code.
+
+[Researcher] 13:17:40
+Mm-hmm.
+
+[Interviewee] 13:17:43
+Yeah, I wonder…
+
+[Interviewee] 13:17:48
+Yeah, it's like first engagement. I do find that.
+
+[Interviewee] 13:17:55
+Yeah, and maybe that one is just, like, not as meaningful to me. So I do see that some students will kind of poke around the homework right after it's released, but they don't necessarily really work on it. And so I don't treat that as an indication that, like, that's a.
+
+[Researcher] 13:18:08
+Mm-hmm.
+
+[Interviewee] 13:18:12
+behavior I'm particularly trying to incentivize.
+
+[Researcher] 13:18:15
+Got you. So maybe more of the… maybe if it looked at more of the patterns, or like how they were like interacting with the assignment, then that would be more useful than just the beginning, I guess.
+
+[Interviewee] 13:18:26
+Yeah.
+
+[Researcher] 13:18:28
+Hmm. Okay. Gotcha. Is there anything you can think of that would, like, help show that from here? Or is it like it's okay if not, too.
+
+[Interviewee] 13:18:36
+Yeah, maybe it's like, um…
+
+[Interviewee] 13:18:43
+Yeah, and maybe it's ignoring students who just poke around like I think seeing some like, maybe even hear a histogram is interesting to me about like on each day, how many.
+
+[Researcher] 13:18:57
+Mmm, how many… Got you. Or is it like… or it could be, like, if they've completed more than, like, some percentage of the assignment, then we can say that they're… this is when they've actively started working on it, or something like that.
+
+[Interviewee] 13:18:57
+people have submitted.
+
+[Interviewee] 13:19:11
+or actually having the inverse might be easier for you. So it's like, here's how many people haven't started, haven't started, haven't started, haven't started, haven't started. And so then, if there are kind of at a granularity that's helpful to me at the end, I'm going to get to a really little bar, and maybe I want to, like, intervene with those students.
+
+[Researcher] 13:19:29
+Ah, okay. Gotcha, because yeah. Gotcha. So it would help 0, non zero out, but help you like identify the ones that weren't submitting earlier, because everyone that submitted, you probably they're probably fine if they're turning in their assignments.
+
+[Interviewee] 13:19:30
+So instead of the aggregation, it's like, who hasn't started yet?
+
+[Interviewee] 13:19:46
+Yeah, yeah, yeah.
+
+[Researcher] 13:19:47
+Okay, gotcha. No, that makes a lot of sense.
+
+[Researcher] 13:19:51
+Cool, and then the last part of this page is just another… it's just a full class roster that would just be like kind of like the canvas grade book a little bit. But.
+
+[Researcher] 13:19:59
+like, in terms of, like, oh, here's their grade. And then here's some metrics. So it's more just like a table. But yeah, and then these are highlighted because it's like you can say, like, for example, based on some threshold, if you want to flag students, then so, for example, like, if 85% of their compiles are becoming syntax errors, then this would be like a flag, for example.
+
+[Researcher] 13:20:19
+Um, or if their unit test ratio is really low. But again, like we said, these are correlated, so if this one's high, this one's probably also high. This one's, like, yeah.
+
+[Interviewee] 13:20:27
+Yeah. Yeah, I wonder if there's something about like.
+
+[Researcher] 13:20:29
+Mm-hmm.
+
+[Interviewee] 13:20:30
+being able to see patterns. So it's like an increase.
+
+[Interviewee] 13:20:37
+in error rate. Um… Mm-hmm. Yeah, I think for a particular student about like, oh.
+
+[Researcher] 13:20:39
+For a particular student, or for like the class as a whole. Okay.
+
+[Interviewee] 13:20:46
+because I think it's not uncommon that like students have like had maybe a little bit of programming before they take the class. So in the beginning they're just like kind of doing fine, and then they hit kind of a cliff. And so seeing when students hit a cliff would be helpful.
+
+[Interviewee] 13:21:02
+and and like a big spike in their. um, error rates or something like that. I could imagine that is helpful.
+
+[Researcher] 13:21:02
+Hmm.
+
+[Researcher] 13:21:10
+Okay, cool. I would say that actually leads into our next like thing when we look at like visualization for a particular student. But is there anything else about this page that you want to like?
+
+[Researcher] 13:21:20
+Okay, cool. So then, yeah, the next bit is viewing visualizations for a particular student. So if you click on their name or the dot, then so right now click on the name, then it'll take you to, um.
+
+[Interviewee] 13:21:20
+Oh, I'm good.
+
+[Researcher] 13:21:32
+Did I click it? Okay, there we go. It'll go to a dashboard that's showing metrics specifically for a for a single student. So this would, for example, be like some enrollment information for us. We have a pretest. So if they get 100% on the pretest, that means they have enough knowledge, and they can, like, they waive the course, basically.
+
+[Interviewee] 13:21:39
+Mm-hmm.
+
+[Interviewee] 13:21:50
+Mm-hmm.
+
+[Researcher] 13:21:50
+And this one can tell you if they're a major or not. And then we have this intervention log here as well.
+
+[Researcher] 13:21:56
+And then here's where we try to, like, explain some of the metrics. So this is kind of hinting at, I guess, if we saw a spike, it would probably be here. So, for example, these are metrics about like their behavior. So this will be like, this is how much on the average time of per assignment, the student spends 2 hours and 15 min, and then the class average is.
+
+[Interviewee] 13:22:04
+Yeah.
+
+[Researcher] 13:22:15
+one hour and a half, and then these are buttons, so if you click it, it would affect this timeline here. So this one is selected, so it's saying, like, here's what the student… how much time the student did compared to the class the class average. And if you theoretically theoretically, if you click.
+
+[Interviewee] 13:22:19
+Mm-hmm.
+
+[Researcher] 13:22:30
+this one, then it would change the average score, like, on the y-axis and everything. And you'll be able to change what metrics you want to see. So you could put, like, the syntax errors, um, or something, and then have it show, like, per assignment, be like, okay, maybe there's a spike in assignment three instant x errors, then maybe that's where they.
+
+[Interviewee] 13:22:32
+Yeah.
+
+[Researcher] 13:22:46
+started struggling. Yeah.
+
+[Interviewee] 13:22:48
+Yeah, I can imagine with the, um, like, your boxes are really clean, and I really appreciate the like the class average. I wonder if you could throw in like a standard deviation, and that would give me like a little bit more information, but might not clutter things too much.
+
+[Researcher] 13:23:07
+Like, have it in the… do you want it also showing here, like, the… I don't know if you can show it with, like, error bars, kind of.
+
+[Interviewee] 13:23:13
+Yeah, I think it'd be for me, I think it'd be clean in the boxes, but… But I don't know.
+
+[Researcher] 13:23:18
+Mm-hmm. Okay. Gotcha. So like something. So something here was just like the class average, and then the standard deviation for the would you? Is the standard deviation for the student or for the class? Okay.
+
+[Interviewee] 13:23:30
+over the class. Yeah, because I think the standard.
+
+[Researcher] 13:23:31
+Gotcha, so between each student, this is, like… Okay, gotcha, so that way it's like, if it's really drastic, then it's like, okay, then… and the standard deviation's really small, then it must be like, okay, this is a very outlier student, versus if it's just really ranged, the standard deviation is really high, then it's just like, okay, this is… we just have a bunch of students that, I guess, work at different… work differently.
+
+[Interviewee] 13:23:34
+Yeah.
+
+[Interviewee] 13:23:40
+Yeah.
+
+[Interviewee] 13:23:51
+Yeah, and I think. I think… maybe the box and whisker plot, and then showing where the student is within each of those box and whisker plots is actually more meaningful.
+
+[Researcher] 13:24:05
+Got you. Like, instead of this timeline, or you mean, like, in addition to?
+
+[Interviewee] 13:24:09
+Yeah, maybe that's just, like, too much information for a user, but I think, like, when I see this, like, slightly dipping, slightly increasing.
+
+[Interviewee] 13:24:20
+In some ways, I'm like, eh. I could think about that as a flat line, and, like, my interpretation doesn't change that much.
+
+[Researcher] 13:24:27
+Mm-hmm.
+
+[Interviewee] 13:24:28
+And so… Here, I don't know if assignment two really went that much better or maybe just there was a smaller standard deviation. So I can imagine seeing like.
+
+[Interviewee] 13:24:41
+maybe even their percentile? or maybe that's easier than and uh… I don't know.
+
+[Researcher] 13:24:44
+So this is…
+
+[Researcher] 13:24:50
+Gotcha. When you say, like, like, for boxing wizard plot, then it'd be, like, kind of like a vertical box and whisker for each of these, basically. Gotcha.
+
+[Interviewee] 13:24:54
+Yeah, yeah, yeah. Yeah, I think whenever I'm doing like a score, I think it is more intuitive for me for the box and muscular plot to be vertical here and in general.
+
+[Researcher] 13:25:04
+Okay. Okay. So then on the other page, it's like we can. We'll change the orientations that way.
+
+[Interviewee] 13:25:10
+Yeah, I think it just like sequential box and whisker plots.
+
+[Researcher] 13:25:14
+Okay, gotcha. And then when you said, like, showing the percentile, I mean, I guess you can show it on the… you can show it with the box and whisper plot a little bit.
+
+[Interviewee] 13:25:21
+Yeah, or even even the average time spent like telling me the percentile. Maybe that's helpful.
+
+[Researcher] 13:25:28
+The percentile of the students, so it's like, oh, they're in the top, like, um, like, for example, this is, like, really… I don't know how to do the math right now, but it's, like, you're really there in, like, the top, like, um.
+
+[Interviewee] 13:25:30
+Yeah.
+
+[Researcher] 13:25:38
+What's it called? Like, not… I don't want to be like 99%, but they're like, this is how much time they're spending more than most students. So then this is like an outlier.
+
+[Interviewee] 13:25:38
+Yeah. Yeah.
+
+[Interviewee] 13:25:47
+Yeah, and you might, because. because the like percentile, it's not obvious if, like, say that was in the slowest 10% of students. Would that be 10th percentile, or that be 90th percentile? So you might.
+
+[Researcher] 13:26:02
+Gotcha. How to explain how to write it.
+
+[Interviewee] 13:26:03
+you might have to use… like, more time than 90% of students. Like, you might not be able to use percentile without adding extra words, so you might as well then not assume people know percentile.
+
+[Researcher] 13:26:12
+Mm-hmm. Right, and then maybe it's more explainable anyway to say it that way too, or it's just like they're spending more time than 90% of students, or like, okay.
+
+[Interviewee] 13:26:19
+Yeah, yeah, yeah. Yeah.
+
+[Researcher] 13:26:25
+Contrary. Yeah, and then the bottom part here is, like, an assignment table, but just for this student. So this one, I guess, is also like I said, kind of like the grade book or the usual. Yeah.
+
+[Interviewee] 13:26:32
+Mm-hmm. Yeah, cool.
+
+[Researcher] 13:26:35
+Um, yeah, anything else about? Oh, I guess also because we mentioned, I think you mentioned before about like you work pretty closely with your Tas. I was wondering like, what did you think about like a.
+
+[Researcher] 13:26:46
+Um, like a TA view of this dashboard, like, for either the class… both the classroom and the student performance dashboard here. So I was going to ask, like, what kind of feature… what things should be the same, or what things should be different? Like, are there certain information you don't want your Tas to, like, see?
+
+[Interviewee] 13:27:02
+you know, I don't for for my course assistants and my undergrads. I don't let them see great data.
+
+[Researcher] 13:27:09
+Okay.
+
+[Interviewee] 13:27:10
+But for my TAs, I have full like they have full access to the all the students grades. And so there, I think like having a drop down for what section they're in or whatever, I think would be helpful.
+
+[Researcher] 13:27:21
+Mm-hmm. Okay, gotcha, gotcha.
+
+[Interviewee] 13:27:22
+So it's like, so they can see just their students.
+
+[Researcher] 13:27:28
+Yeah, but then you would keep everything here the same, because since they have full access anyway. Okay, so they would see all the grades, everything, and then they just… okay.
+
+[Interviewee] 13:27:31
+Yeah. Yeah. Yeah. Yeah. And then I think my undergrads, I think they just don't need to know. Do you know what I mean? I feel like.
+
+[Researcher] 13:27:39
+Gosh, it's, like, too much.
+
+[Interviewee] 13:27:40
+Yeah, and they're always in a and their peers, and they're always in a like interacting with students with a TA around. So the TA could be like, you know, that student over there, like, we need to get them caught up. So can you go and help them?
+
+[Researcher] 13:27:56
+Gotcha. So it's like the TAs are kind of like like the middleman, I guess. So then, okay. Yeah.
+
+[Interviewee] 13:28:00
+Yeah, yeah, yeah.
+
+[Researcher] 13:28:03
+Cool. And then, yeah, and I guess also, is there anything about the intervention log or anything, or about? I mean, I think you mentioned like about keeping track before about like.
+
+[Interviewee] 13:28:12
+Oh, I love that. Yeah, I think, um, and I assume I can click on those to see what we sent, and, like, did we… did we do? Does that keep whether we were? We heard back from them? Do you know what I mean?
+
+[Interviewee] 13:28:24
+Is that just a note, or does that, like, allow me to actually track those messages? Some, like, customer management?
+
+[Researcher] 13:28:24
+Gotcha.
+
+[Interviewee] 13:28:31
+Stuff.
+
+[Researcher] 13:28:31
+Uh, we can try to make it, because I think right now it seems kind of manual, but then, yeah, we've been discussing, like, is there a way to make it more automated? Like, if you can connect to… if you're gonna send this email anyway, there's a way to, like, connect it to email.
+
+[Interviewee] 13:28:44
+Yeah, but Canvas lets you send emails. And so if you use the canvas messaging, maybe you can like pull info directly from that.
+
+[Researcher] 13:28:53
+Okay. Gotcha. Yeah. So we can. Yeah, because there was also thinking like, maybe if you want to see like who which Tas they've like interacted with, then you can also that could also be like a thing that could be here as well. So you can see like if they actually tried reaching out to to get help.
+
+[Interviewee] 13:29:03
+Mm-hmm.
+
+[Researcher] 13:29:08
+Um, as well. So yeah.
+
+[Interviewee] 13:29:09
+Yeah, maybe this is something kind of trivial. But.
+
+[Interviewee] 13:29:14
+when I think about dates in my class, I always think, oh, this is week 6, this is week 7. This is week 8. And so, actually, the dates are way less useful to me than, like, what week of the semester am I in?
+
+[Researcher] 13:29:24
+Oh, okay. Yeah, okay. No, that's actually super useful, because, like I said, it's like how we're presenting it as well. So yeah, I think for a week. So then it's kind of like, maybe you can have the… let the user select what's week one and stuff, or if you want to, like, skip a week. Okay, yeah.
+
+[Researcher] 13:29:41
+Cool. Anything else about this, uh, or there's, like, the… there's, like, one more scenario.
+
+[Researcher] 13:29:46
+Okay, so then the last one is not really a visual. We don't have visual for it yet, but it'll be a similar format of this. So this is about comparing visualizations between 2 class sections. So you just have to imagine it. But it says on a separate page.
+
+[Interviewee] 13:29:46
+No.
+
+[Researcher] 13:30:02
+Um, this will allow you to compare different classes of students, like, kind of like an overlay.
+
+[Researcher] 13:30:06
+So I guess if this was the histogram or like it can be the box and whisker plot. You would show like like a section of class A and then overlay it with like class B and like maybe a different color or something. Yeah, something like that. And this would… Right, right. So it'd be, like, for, um, like, if you wanted to… you can either compare, like, your current semester to last semester, or you can compare two consecutive, like, just, um, just two different sections, really. So I guess, what are your impressions of this feature? Is there anything you like or dislike about this idea? Anything you would.
+
+[Interviewee] 13:30:11
+Yeah.
+
+[Interviewee] 13:30:16
+Yeah, or even just side by side. Right? If they're different colors.
+
+[Interviewee] 13:30:34
+Yeah.
+
+[Researcher] 13:30:39
+features you would change, um…
+
+[Interviewee] 13:30:42
+Yeah, I like that. I don't. I don't think that would be the main thing I used.
+
+[Interviewee] 13:30:47
+Do you know what I mean? Like a.
+
+[Researcher] 13:30:48
+It wouldn't be a main functionality, but it'd be something you'd check like a little bit like once a semester, would you say, or like if you were really curious. I don't know.
+
+[Interviewee] 13:30:56
+I don't know. Yeah, I think it depends if I'm like changing something. Like I can definitely see myself being curious. Do I have particular lab sections where I have more struggling students?
+
+[Researcher] 13:31:10
+Hmm.
+
+[Interviewee] 13:31:10
+And if so, then maybe I need to change my staffing for that lab and give them more staff.
+
+[Researcher] 13:31:17
+Okay, got it. It's like they need more support or something.
+
+[Interviewee] 13:31:18
+But I… Yeah, yeah. So I can. So that seems like, oh, yeah, I'd want to make a dis… I'd be happy to pull staff from one lab and put them in another if I'm more struggling students in one lab. Um…
+
+[Interviewee] 13:31:31
+And maybe there's something I'm trying in terms of, oh, to help students with syntax errors, I'm trying to do this thing. Is it helpful?
+
+[Researcher] 13:31:41
+Mm-hmm. Yeah, so it's kind of like on an as-needed basis, like, if you change something in your class, or if you were checking like to see which student like which labs, which certain sections were needed more support. Um…
+
+[Interviewee] 13:31:41
+Maybe I care. Do you know what I mean?
+
+[Interviewee] 13:31:57
+Yeah, but I think it's unlikely that I will expect that I made a change where the outcome will be easily measured with one of these metrics.
+
+[Researcher] 13:32:09
+Mm-hmm. Gotcha. Yeah. So it's like probably it's a feature that's like it's nice to have in case you ever needed it, but you wouldn't really like seek it out.
+
+[Interviewee] 13:32:11
+you know.
+
+[Interviewee] 13:32:17
+Yeah. Yeah. I wouldn't put it in top 10.
+
+[Researcher] 13:32:20
+Gotcha, gotcha. Gotcha. So maybe more the data analytics. That's more of the like features that you're interested in.
+
+[Interviewee] 13:32:26
+Yeah. Yeah. And maybe it's like, maybe other faculty are different. But I'm sort of like singularly minded on my current students, you know.
+
+[Researcher] 13:32:27
+Okay.
+
+[Researcher] 13:32:33
+Gotcha, because every, every, like, class is different anyway, so it's just like…
+
+[Interviewee] 13:32:36
+Yeah, yeah, even if they're doing better or they're doing worse, is it? How important is it that I attribute that to something, and how well can I attribute that to something?
+
+[Researcher] 13:32:46
+Mm-hmm, gotcha. A different sample size… different sample every time, I guess. Gotcha.
+
+[Interviewee] 13:32:49
+Yeah, yeah, yeah.
+
+[Researcher] 13:32:51
+Okay, cool. Any other final thoughts about the dashboard? Any other things?
+
+[Interviewee] 13:32:56
+I don't think so. Yeah, this is really cool.
+
+[Researcher] 13:32:58
+Okay, gotcha. Thank you so much. Yeah, I was gonna say also the I'll stop sharing, but also I was like the I know you said it was trivial, but that's actually like the whole thing about the user design, about like how we convey stuff. So that's actually really important about the week calling it weeks instead of like the date.
+
+[Interviewee] 13:33:13
+Oh, yeah.
+
+[Researcher] 13:33:14
+like the NHCI stuff like that's like, yeah, how we like communicate. That's like a really big like thing to like because.
+
+[Interviewee] 13:33:20
+Yeah, I wonder if other people think that, too, because it does seem it seems so much faster to to guess, or to like estimate how much time has elapsed between each message.
+
+[Researcher] 13:33:29
+Right. Yeah, I know I imagined that because I think that's how like for example, I think that's how like a bunch of professors, or like when they're like, Oh, we're in week like whatever so make sure you have this versus like. So I would say, I think students probably measured dates because of like breaks and stuff.
+
+[Interviewee] 13:33:31
+you know.
+
+[Researcher] 13:33:45
+Or it's like, if they're not counting. Like they're not actually checking the syllabus, then usually it's like, I feel like it's by dates, but yeah.
+
+[Interviewee] 13:33:46
+Hmm.
+
+[Interviewee] 13:33:52
+Yeah, yeah, that makes sense.
+
+[Researcher] 13:33:54
+Oh, yeah. So for the user, then so that's why you can see it was designed by students. And then now we'll make the change for an instructor.
+
+[Interviewee] 13:34:01
+Yeah, yeah, yeah, yeah. Like, I know what topics are taught in week 9A lecture, you know?
+
+[Researcher] 13:34:07
+Right, versus, like, I think if I was telling, like, if someone asked me, like, advice on the class, I'd be like, oh, I think around, like, before spring break, there is a… there's an exam, like, I would say it that way, because that's when I remember there was, like, a break in the class. So yeah, so it's super interesting. But yeah, so I think that's… so that's all the questions.
+
+[Interviewee] 13:34:17
+Yeah. Yeah, yeah, yeah.
+
+[Interviewee] 13:34:22
+Yeah.
+
+[Researcher] 13:34:25
+Yeah, because the last question is just like, Oh, do you have anything else that would help us understand your experience, or like any questions for the research team? That's kind of it.
+
+[Interviewee] 13:34:33
+No, I don't think so. Yeah. Physical?
+
+[Researcher] 13:34:35
+Right? Yeah. Yeah, thank you so much for, like, all your insights, and also thanks for, like, meeting, um, everything.
+
+[Interviewee] 13:34:41
+Oh my gosh, I'm so sorry again. But I'm glad we got to connect a few days later.
+
+[Researcher] 13:34:44
+No worries. Yep. Yeah. So here, let me stop the recording and then, yeah, so I think we're all good to go then. And I guess, yeah, I guess have a good weekend. And I guess I guess we'll stay in touch, hopefully.
+
+[Interviewee] 13:34:52
+Awesome.
+
+[Interviewee] 13:34:58
+Yeah. Yeah, yeah, yeah, I hope so. Yeah, nice to see you. Yeah, good luck with the research.
+
+[Researcher] 13:35:02
+Yeah, so yep. So yeah, bye. Thank you so much. Maybe I'll see you at another conference.
+
+[Interviewee] 13:35:06
+Okay. I'm sure, I'm sure. Okay, take care.
+
+[Researcher] 13:35:09
+Yep. Bye. Thank you.
+
+
+

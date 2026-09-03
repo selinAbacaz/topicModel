@@ -1,0 +1,278 @@
+Researcher  0:00  
+Okay, there it goes. Oh, cool. So the first question is, can you briefly tell me about the kinds of CS one courses that you've taught recently? So just to give us some context, so for example, like average age of students, what language, what class size, stuff like that. Sure.
+
+Interviewee  0:18  
+So I teach CS one every semester for undergraduates, the composition is about half freshmen or freshmen and sophomores, meaning, you know, 18 years old, 19 years old. The other half might be as old as 21 or 22 the class size when I started in 2020. Was about 320 students per semester. At the moment, in our spring semester, which is kind of the off semester, it's down to 80. Last semester was 160 Yeah, we teach in Python. Previously we taught in Java, but a couple of years ago, I changed it to Python. Was that all? What was that? All of the information you were looking for there?
+
+Researcher  1:14  
+Um, yeah, pretty much was looking for context. I guess a follow up question is, um, is it all are they like non major and major like CS majors, they all take the same course.
+
+Interviewee  1:26  
+So technically, although my class is the intro programming class, it's an elective. Now for the major, it's like a recommended elective, but it's an elective for the major, because what we see is that most people who come to the school intending to be CS majors, have some sort of experience. That means that they either can skip this class, or they just skip the class anyway. The so if I, if I look at the breakdown right now, there's zero computer science majors currently in the class. There's a bunch of different other engineering majors, including, like, computer engineering or AI majors. We have this new thing that would be, yeah, and the rest are folks taking it from like other majors, just out of interest, or it also happens to satisfy this kind of like formal reasoning requirement we have at the school. One thing that we observe is that, I don't have great data on this, but anecdotally, a fairly high number of the students who take this class go on to take the next programming class. And if they do that, they're also fairly likely to take a couple more. So we convert a lot of people after the fact to minors or second majors in computer science. We definitely used to do that way more just because there were way more students. Now that has fallen off just a little bit, but all of that is to say, in general, relatively few people take the class when they are declared CS majors or minors, but that's sort of an undercount of The number of people who will have some CS degree at the time that they graduate and have taken the class, if that
+
+Researcher  3:27  
+makes sense. So it's like you said, it's a recommended course. But then a lot of people, they already have the coding background when they enroll, if they're enrolling in as a CS major, so then they usually skip the class. Okay, cool. And then what aspects of teaching do you find particularly rewarding? And then also, is there anything you find particularly challenging?
+
+Interviewee  3:47  
+Let's see rewarding. I like teaching large classes efficiently, and like humanly meaning. I really like teaching this class, because I get to work with a lot of different people, and I like to think really hard about how we can do things in ways that scale but still work well and still provide contact with students. It's a very pleasant challenge. I like just being in the classroom giving a lecture, I have a sort of the class is sort of semi flipped, or kind of active learning, E in the sense that there's videos that they're expected to watch ahead of time, so that we can dedicate in class time to a bunch of practice activities and problem solving, and I really like walking around the classroom and seeing what people are doing and helping folks during that time. I would say challenges are figuring out how to assess. Students like, I don't particularly love writing and giving and grading exams. I don't like that the model of like violating academic integrity on homework assignments has changed significantly in recent years due to prevalence of llms. I don't like having to think about whether someone may or may not have used an LLM to complete the assignment instead of their own effort, and what that kind of conversation has to look like after the fact. That's handily the worst part of my job. Yeah, but I like all the planning, and I like all the I like the actual teaching of it, and I like when I get to see the students,
+
+Researcher  5:53  
+gotcha, gotcha. Then speaking students. Can you describe a time when you thought a student needed help, and then how did you intervene? You were thinking more like the class like class material, but you can also think like personal reasons as well, whatever works. Yeah.
+
+Interviewee  6:09  
+So one thing that we do is we have a weekly staff meeting with all of our TAs. I have a lot of TAs. I'm very lucky. I have like, dozens of TAs for my class. Like, the ratio is ridiculous. And what this means is that we teach a bunch of different recitation sections, and each ta gets one section, and so the TAs have a much more like fine grained view on a student to student basis of who is getting the material and who is not so much. So there have been a couple of times this semester, for example, that during our staff meeting, we'll just be asking, you know, how did recitation go this week? How did Office Hours go? And a TA will just sort of mention, like, oh, we had this really interesting experience with the student where, like, I was helping them with their homework, and they couldn't explain any part of it. So I could see that they needed help. And then I can say, all right, well, who was that person? And they tell me the name, and I go, it kind of makes sense, like they're not coming to class, or they do come to class, and I don't see them, you know, they don't really do the activities, or something like that. And then I say, Okay, well, maybe we need to have a little discussion about how you can change your strategies to make work more efficient or easy or pleasant for you, and then I reach out to the student, and we hopefully have a just casual, quick one on one chat. And that system works pretty well. I I gave that as sort of a general example, but I have done a very specific version of that within the past week where ta just pointed something out about one of their recitation students. I we talked about that student, I reached out to the student, and then we had a chat about what to do.
+
+Researcher  7:52  
+So that's how you generally would intervene. Like, it's like from the TAs, like, if the TA, like, notifies you, then you'll go check on them. Yeah, that is yes, gotcha. And then I guess, how often you say, Does it happen? Quite frequently is like, like, like, a TA, like, usually will. They'll generally like, if they see something, then they'll like, say it, yeah.
+
+Interviewee  8:20  
+There we have these kind of guided discussions in our meeting where people are invited to talk about things that are Yeah, student interactions that stood out to them for one reason or another. And so yes, that is generally how it works. I yeah, I also just, like in the classroom, when people are working on activities, I can kind of walk around and see what people are doing when, when people are kind of ignoring the activities, or kind of not putting in very much effort, or they seem to be struggling and they're putting in a lot of effort and not getting anywhere, I can have a sort of quick intervention there, where I just ask them casually how it's going, and they'll often tell me, on some level how it's going, and then, and then we can kind of just go from there, The the thing that I would like to be able to do more is, like, based on grades or missing assignments, have some sort of system that, just like, tells a TA that this student needs to be reached out to so they're in your recitation. Please do me a favor, and just like, have a quick chat with them, and then, if anything seems more complicated than tell them to get in touch with me, a more systematic approach that involves an actual human conversation would be excellent. Gotcha.
+
+Researcher  9:57  
+Gotcha. Oh, also, how many is it? One? Section of 80 then, or is it like, Okay,
+
+Interviewee  10:03  
+right now, in the spring, it's one section of AD. In the fall, it was like two sections of 80. Yeah, it has been changing a little bit the average section size. So we'll see what it is in the fall. I don't know. Gotcha.
+
+Researcher  10:18  
+And then How challenging is it to determine when a student requires additional support and then, does this? Does class size affect this difficulty?
+
+Interviewee  10:35  
+My sense is that when I put my eyes on the student, either like looking at their exam, or when I pull up their set of grades and grade scope, or if I just try to have a conversation with them during class, I feel that it's usually pretty easy actually to identify when somebody is in need of some intervention or not, provided that I am looking at that person, but to do to actually get my eyes on that person, or get my sort of focus on that person's case. That is the harder part. Even in a class of 80 students, I find it not trivial to come up with some strategy that lets me surface the potential cases that need some intervention right now and then get in touch. I mean, one thing this is, like, slightly embarrassing, but the I don't have, like, the I don't have an aggregated view of anybody's grades, anywhere. I have all of their grades, but grade scope doesn't give grade book view. So like to see what somebody would like if they're getting an A or something. I that requires some effort from me. There's something that you can do where you like, link it back to Canvas and use the LMS system there to show you a great view, or whatever. But that requires other kinds of manual effort and sort of discipline in doing it that I don't do.
+
+Researcher  12:26  
+Yeah, no worries. I guess. What is the if you had to pick, like, the maximum threshold, you felt like you couldn't like anything of that, plus one, like you couldn't give the student personalized support. Like, what number of students would that be? Would you say maybe,
+
+Interviewee  12:56  
+like 350 students, because my sense is, like, the 8020 rule applies, like, 80% of people are, in general, fine and not really needing of any intervention that, like, requires a human touch other than maybe just like, like, I could imagine the problem being solved with you didn't do very well on this exam. Please make sure that you come to office hours more, or post on ed or something, and either they do it or they don't. But like, a bad exam, in and of itself, is not actually always that reflective of a deeper problem. So my sense is that, like 80% of students often don't need an intervention, or the kinds of intervention that they need are sort of barely human in a or that they're directed by the student. And I have a lot of resources, so it's all good. The 20% are people that, like, obviously need some sort of conversation with me at some point during the semester about, like, Look, you got to read the homework specifications more carefully. I know it's a lot, but like you, if you just sit down and read it all the way through, that's going to save you a lot of agony on the assignments. And even though that feels something that should be sort of obvious to me, is actually a conversation that I have in practice like five times a semester, and actually seems to help the students, or at least they Yeah, they seem to report that it helps them a little bit to have that reframe. So, you know, throughout an entire 14 week semester, if I had to have five to 10 meetings with students, where meeting could be defined something like, we're just going to talk really quickly before or after class. Or they come to my office hours, or I set up a time outside of class to meet with them for a specific appointment. You know, I could probably do that for five to 10 students a semester and or, sorry, five to 10 students a week. And then, you know, there's maybe 10 real weeks of the semester where things are going on. So, you know, 50 to 100 students. So I don't know about, you know, somewhere between 304 100 students, I think, is where it would start to break down that I wouldn't be able to intervene with the folks that I need to all of which is to say, I think for me, the problem is definitely more getting to identify them, as opposed to actually finding time or having some way to do that intervention. Gotcha.
+
+Researcher  15:32  
+Cuts to the next question, because I was asking, what are some signs or behaviors that you use to identify students? So I know you mentioned, like, if you once you like, have eyes on them, then you can kind of like, figure it out. But then are there any signs or any like behaviors you use to like, identify who to talk to, outside of the TA, outside of asking TAs or Yeah?
+
+Interviewee  15:53  
+So poor scores on exams, missing assignments. When I casually chat with somebody during lecture about a problem and ask them, you know what's going on, or even just look at their solution, that can honestly tell you pretty quick, like one thing that I see a lot is folks that sort of convince themselves that they sort of understand what's going on, but when they're trying to, like, write a little bit of code out, like it's just a disaster, like it would score a zero on the exam, even though they can kind of explain what's going on. And that's the kind of thing that I see it and I think, like, Okay, we need to have a chat about the fact that, like, conceptually, you might understand some things, but there's some skills that you're, you're, you're not up to speed on so quick sort of check ins about small activities and problems. That's another way that it can be fairly easy do don't know if this counts, but I mean, there are some students that identify for themselves, that say, I you know, I'm concerned about my performance in the class. Yeah.
+
+Researcher  17:15  
+Okay, cool. And then did you ever feel uncertain about providing extra support, as in, like you didn't know if it was like the right time to or you weren't sure like what they needed help with.
+
+Interviewee  17:27  
+So there's one case that I don't know how I feel about, how I handled it recently, which is, there's a student that was coming to office hours a lot early on in the class. We have a lot of office hours, and we encourage people to go to office hours to get help with their assignments, but we do see this kind of like frequent flyer behavior that's not very good. Meaning, folks will come to office hours and they'll, like, have one question, and then they get that question answered, and then they kind of immediately have the next challenge, and so then they put themselves back in the queue to get helped again and again and again and again. So there was one student who we saw that she, like, asked like, eight questions across two different visits to office hours, which kind of felt like, you know, you could, you know, you could spend a little bit more time thinking about this for yourself. So I I thought, you know, like on the one hand, I don't want to intervene in a way that makes her feel like she's being watched, and I also don't want to intervene in a way that makes her feel like she did the wrong thing. Because I also think it's sometimes reasonable to just ask a bunch of questions in office hours, provided that, you know, all of them represent some amount of prior thought and engagement with the problem. But on the other hand, I wanted to maybe see if there was the kind of intervention that we could take that would prevent folks from having this sort of frequent flyer behavior later on in the semester, when it actually is more of a problem. And so I said, like, you know, can we just talk for three minutes after class, which, of course, already sort of scares the student when they don't know what it's about ahead of time. And so I already feel really bad about that. And she, like, was like a deer in headlights. And I was like, no, no. Like, it's something wrong. Just whatever. But then, you know, we have the conversation, and I have to sort of thread the needle of like, Thank you for going to office hours. That's really great. There's one thing that we observe sometimes, which is that students can become slightly over reliant on Office Hours. You should keep using Office Hours in the way that you find helpful. But just, you know, don't be surprised if at some point somebody asks you, just you know, like, Hey, thanks for coming. My sense is that you could probably make some progress on this on your own. So feel free to hang out, but please hold off on like asking the next question for a few minutes and just see if anything. Comes through and like, I felt like that was kind of a balanced message. But on the other hand, I can see that this person has stopped coming to office hours, not entirely, but like quite a bit. So now I'm like, I don't know. So to wit you, uh, students sometimes perceive any kind of intervention or attention as like, like a personal failing or something to be ashamed of, and they don't respond that well to the additional attention. And that is something that I am sometimes a little bit
+
+Researcher  20:51  
+concerned about. Yeah, honestly, when you said the queue, like, is it? Is it very busy in office hours, I'm guessing, no. I mean, not used to be extremely busy. Like even a
+
+Interviewee  21:01  
+year ago is quite busy. It is not busy anymore. Nobody is coming to office hours. We're like, like, to the point that next, next semester, like, right now, we have like 50 shifts of office hours in a week among all of the different TAs, some like running parallel. Like, next semester, we're gonna have like, 10 shifts or something like that. Like, there's no reason to have as many office hours as we do.
+
+Researcher  21:25  
+Yeah, gotcha. Would you say that's due to, like, LM stuff, or, like, just changes in student behavior?
+
+Interviewee  21:32  
+It would be my guess. I don't even think it's like, like, a dishonest thing with llms. Like, I mean, you can, in some meaningful ways, say, like, I don't understand list comprehensions. Just show me another example. Like, you know, that's fine to be honest. You know, that'll get you some help faster than going to a TA in office hours. So it's not like a totally irrational or dishonest set of behaviors. But yeah, I mean, I would guess that that has to mostly
+
+Researcher  22:03  
+other resources. I guess then they have other options. Yeah, yeah. And then let's see. Question is, next question is, do you use any tools or Canvas features to identify students in need? So I know you mentioned gradescope. Is there any other like tools like, either like, like Excel, for example, if you're doing like statistics or whatever, Oh
+
+Interviewee  22:25  
+sure, yeah. I mean, I download, I export data from like, office hours or grade scope or our ED discussion forum, and look at that in excel every so often. Or, you know, since we're all this specific kind of nerd of right, like a panda script to do some of it as well. Yeah.
+
+Researcher  22:44  
+And what kind of statistics do you run? Do you just like, use it to calculate grades, or do you use it to like distributions or anything?
+
+Interviewee  22:54  
+Yeah. So I for for exams. Sometimes I'll do slightly more advanced things, like item analyzes, like, on a per question basis, was this good or not? And then I can sort of go back and look like, did the score that the student got? Was it because they answered, you know, like this can sometimes help calibrate. Or, like, sometimes a student really wants to delve deeper on their exam performance. And sometimes I have to say, like, Look, you just got a little bit unlucky. Like, do this again, and you probably get a slightly better score. And like, here I can kind of prove it to you. Like, you know, you did well on questions that generally discriminated, and on this one, you just got kind of unlucky. So yes, sometimes I do more advanced things, like showing me the full distribution of grades, or showing me correlations between certain questions or certain assignments in the larger exam grade. But I think most of the like the thing that I do the most often is something that would be equivalent to a SQL query that's like select count star student name from Office Hours table grouped by a student name, yeah, gotcha.
+
+Researcher  24:08  
+Then, what are the biggest challenges you face as a CS one instructor in identifying students in need, like if you had to choose one or two aspects? I
+
+Interviewee  24:23  
+i probably the hardest thing right now is a lack of a single source of truth software with respect to both grading and storing grades, like viewing and storing student
+
+Researcher  24:47  
+grades. And then, okay, there's a last set of questions. And then there's like a part where I show you, like the prototype, yeah. So then this part is about concern, slash features for an instructor tool. So this first part's like a. Yes or no questions. It's just like, are you comfortable working with the LMS system that your institution asked you to use? And would you feel comfortable using an LMS plugin to process student data, to provide you with insights on your students?
+
+Interviewee  25:13  
+Yes, I'm comfortable using my LMS and yeah, I am happy to consider using plugins provided the university clears it and audits it for me and all that good stuff,
+
+Researcher  25:27  
+gotcha, gotcha. And then do you think CS one instructors would benefit from having a tool that could identify students in need? And why or why not?
+
+Interviewee  25:36  
+Yes, and because it's frankly, time consuming to do with the existing tools that we have. So anything that makes the process more automatic would be a massive help.
+
+Researcher  25:52  
+And then what kinds of tools then do you think instructors identify students in need would benefit from? So here we're thinking about characteristics or features that this tool should have, and then you can provide as much detail as possible. As possible, or be as imaginative as you want. Yeah, yeah.
+
+Interviewee  26:08  
+Identifying missing assignments is really important. Identifying assignments where a student is in the tail of the distribution. I uh, these are useful for kind of low stakes, low touch check ins where it's like, Hey, I see something may have gone wrong this week. Like, it's all good. You don't even have to answer this email. But I just want you to know, like, we're here. Anything you know you need let us know, or if there were extenuating circumstances, like, let's talk about it. It would be great to have a more holistic view of that student's performance, or of every student's performance. So like, Okay, let's get kind of imaginative here, because of things like sort of grade inflation, but also, just like grade breakdowns, students in my class can be doing not that well, but sort of can still, in theory, potentially get an A provided that they right the ship, and then they do better on the final compared to the midterm, because there's this policy for making things up. So I don't actually need something that tells me what their projected grade is right now. What I do need is like, here are students for which there are missing assignments, or here are students for which their average grade on assignments has gone down. Or here are students for which their exam grades are significantly lower than their homework averages. These are folks that I need to be concerned about from the point of view of like, are they doing their own homework or not? Not because I need to go after them, but because this is a way in which you can, pretty quickly, you know, explain to them what the problem probably is and what they can do about it. Yeah, yes, that's what comes
+
+Researcher  28:17  
+to mind. Gotcha. Can you elaborate on the You said they had to make they can make up work is that, like,
+
+Interviewee  28:23  
+they can't make up homework assignments, but we have two midterm exams, each worth 6% of the grade, and then a final exam, which is worth 12% of the grade. The final exam is sort of the I generated by concatenating midterm one and midterm two, and then, like, slightly mutating all of the questions. So in some sense, it's like a second shot at both midterm one and midterm two that you take at the end of the semester for the questions on the final that correspond to midterm one topics I calculate, like a fake retake of midterm one score. So I take all of those questions and I give you a score, and it's like, this is your try to add a midterm one, and if that score on the final, the part of the final that corresponds to midterm one, if that's better than your relative performance on the actual midterm one, then just automatically replace your worst earlier performance with the improved later performance. Same for midterm two.
+
+Researcher  29:29  
+Okay, gotcha well. And then would you use the tool that you just described? Would you use such a tool and why or why not?
+
+Interviewee  29:38  
+I would use that tool, and I would use it to complement the strategies that we always use to make me feel more confident that certain students aren't falling through the cracks to a. Um, maybe think differently about when students do or don't actually need intervention beyond just like, what a TA seems to suggest, and also like, hopefully to save some time where, when I feel like I want to go through and search through student assignments to see if anybody missed, like, the first homework or something like that, something where I can just, like, click a button to do that, instead of kind of going through a workflow that doesn't actually support that, and then figuring out on my own, like lowering the activation energy would be significantly helpful.
+
+Researcher  30:40  
+And then, how would you want to make sense of your data? So here we're thinking about data visualization. And then is there any like plots or things or concept you would like to see visualize like when you look at this app or this like tool?
+
+Interviewee  30:55  
+I think that like just a nice, resortable and colorable. Tabular view of like the Full Grade Book is probably one of the most important things, because it will be really hard in general for me to know all of the specific conditions that I actually care about ahead of time. So being able to just kind of sort by this assignment, or sort by this assignment and this assignment, or short by number of missing assignments, or something like that. And then just kind of look at where the rows are red, or where the columns are read for a student, I can kind of think like, okay, that's like, this is somebody I should or shouldn't reach out to. Yeah, so, I mean, I guess something like, in terms of this is controlling a tabular view, it would be having these sort of like, sort by aggregate functions that something like Canvas doesn't already have meaning, sort the students by the number of missing assignments that they have or the number of assignments that are less than a certain percentage threshold, or something like that. That kind of aggregator would be a step in the right direction. I don't think it has to be that complicated either, to like, really unlock some stuff in terms of, like, more classic visualizations.
+
+You know, I don't know, like something that shows, something that charts student assignment or student performance in one group against student performance in another group of assignments, like homework average versus exam average, so that you can see like, are they on the top left or the bottom right? Can kind of like, mouse over points and see like, Oh, this is this person. And that's kind of concerning, based on other things that I know about them, or whatever that could be kind of helpful. I mean, the the data visualization challenge here, I think, is like I uh,
+
+in the context where we're dealing with a lot of students, the thing I need help with is figuring out how to drill down into particular students. So for classes of any appreciable size, the visualization ends up with a bunch of different like a lot of marks, most of which won't actually be that useful for things that I care about. And so this is why I think, like potentially, a nicely customizable tabular view is the thing that would help me the most. Gotcha.
+
+Researcher  34:00  
+Okay, cool. Then I'm gonna share my screen and I'll share the prototype that we have. You kind of guessed some of the features, though, which was kind of in a way, I guess that's good, but yeah. And then during this time, you should say things that you like, but also things that you don't like, because that'll help us give direction for the next iteration of the dashboard. Yeah. And I'm gonna go, there's three scenarios that are like, actions that we're expecting instructors to do in this. So then I'll like, walk you through, like, what the like, what the view is, I guess, and what like, how you would use it. And then I'll probably ask like, your likes, dislikes, first impressions, like that. So yeah, then you can see it, right? Yes, I can see it. Okay, cool. And I guess to give context, so we use block pi, but then we're not using a block base code. We're using like a Python IDE, and then everything for us baked into Canvas, so they like so a lot of students, the students will code in the. IDE complete assignments, and that's how we get like, action log data, and then we use these behavior metrics to have some so I'll explain some of the terminology and stuff, but that's kind of where it's coming from. Yeah. So the first let's see the first pit here is viewing visualizations from one class section. So after logging into Canvas as an instructor, then you'll be met with this following page that will show, like, data visualizations of student behavior metrics for one of your class sections. So here you'd be able to like, if you have multiple sections, you'd be able to like, choose which one to view. And then there's like, four quadrants here. And then the first one would be like a list of potentially struggling students. So these would be like, their name, would be like, their names, their grade, and then these would be like the reason why they're listed as potentially struggling. And instructors could decide, like, how they want to set thresholds or whatever for these. So these are be this like the student behavior metrics. So for example, low effort might be like, they're not interacting with the online course material as much, or they're like, not submitting as much as other students, for example, or high syntax error would be like, because for us, like I said, we can track like when they submit and when they like when they compile code, so we can look at how many syntax errors over like, the number of times they've tried compiling, in total, for examples, that would be like that. Or like wheel spinning would be like. They got the question right, but it took them a lot more compiles, or, yeah, or they just never got the question right. Like the instructor would be able to, like, design these kind of tags, yeah, yeah.
+
+Interviewee  36:30  
+The being able to design tags based on a certain condition and then, yes, apply that automatically, is really neat. Gotcha?
+
+Researcher  36:42  
+Yeah, can I say this would be kind of the in the way you could make a tag and filter it, you could do, like, the tabular, like, filtering this way. There's also a full class roster thing at the bottom, which is, I guess, kind of what you were alluding to, because you're saying, like, because we were, these are red because we're, like, assuming there's some threshold that you set as like, like, oh, this like, above or below, this is like a warning thing. So like, for example, your unit test ratio is really low, then it'll flag it. Or if you have a really high syntax error ratio, then flag it like that.
+
+Interviewee  37:12  
+Yeah, I think even adding a color channel to all of the cells, independent of whether they are past a certain threshold could still be useful. Because I think what this does is it helps signal context within a column for for what is normal or not normal even, or what like like, where the ranges actually are, even if something is not within that top 10% or bottom 10% this doesn't strictly help in the same way with like, Well, okay, so like, what I mean is, like, if you colored the average time spent column, like, green to red, or something I don't know, like, you know, short time on one end and long time on the other, it would help me see it, would help me get a sense of what the average is on that particular assignment, or something that would help me, would help me have more in depth conversations with students, in the sense that, like, sometimes they'll say, Oh, my God, this assignment took Me 10 hours. And I'll think, well, yeah, like that. That does that sounds frustrating to spend 10 hours on this assignment, and then I look at everybody, and it's like, the the average was like eight hours. And so I couldn't really have known that ahead of time, and but it turns out, like, you know, if you're spending 10 hours, that's not actually that much of a problem sign for me, or something like that. So yeah, gotcha.
+
+Researcher  38:42  
+So for each assignment, then, because this one's right now, this one's like, my students, this is like their average time on an assignment. But then for individual, if I was showing, like, for an individual student, how much time they spent on like an assignment, then it would be like that or Yeah. But I
+
+Interviewee  38:58  
+also think even on the aggregate average time spent that could still,
+
+Researcher  39:04  
+oh, because it'll get averaged together anyway, yeah.
+
+Interviewee  39:07  
+Like, both, both, I think, yes, okay. Reason being. Like, if instead of six students, I have 60 or 300 i I'll need some reminding about what is normal or not normal across all students in all of these different dimensions. Gotcha.
+
+Researcher  39:29  
+And then for the coloring. So would it be like, it would be red if they're, like, spending a lot of a lot more time, or a lot less time than than the average student, basically. So it's like, we pretend like two hours is like the average, then the three hour, two hour might be same, and then the other ones would be, like some other color, yeah,
+
+Interviewee  39:49  
+although I kind of wonder, like, like red sort of usually means bad, but things can be bad in multiple ways. Like, if they're spending zero minutes on average, that would also be kind of a problem. Um. So I guess maybe what I mean is like just some color scheme that has like a warm tone on one end and a cool tone on the other end, and is like white in the middle, or something, something that goes through sort of normal zone and then identifies extremes on either end. Gotcha. Gotcha. Okay, cool, yeah.
+
+Researcher  40:22  
+And then the, I guess the finish of the quadrants here, like this one is just showing a bar chart, and you can decide what you want the bar what you want is Y axis to be, I guess so right now, it's like, average score, but you could do, like, the time spent coding. So, like you said, if you want to you, like, in a particular assignment, was, like, really high for a lot of students, like, a lot of students like, a lot of students were spending time, then you could click that or like, syntax error ratio, submission count, you'd be able to like, choose which, what features like, you'd be able to design like, yeah. And then this is the metric comparison. So this is kind of what you were saying about comparing assignment to exam scores. Like you could do that potentially here, like, right now we have if there are behavior metrics, but you'd be able to, like, select what's on the y axis and the x axis. So then, for example, these are correlated, because if you have syntax errors, you probably can't get your unit test but then, for example, it'd be like, if they have a high, like, syntax error ratio and a low unit test ratio, then this would be, you could use this to, like, identify, oh, this is a struggling student, like, maybe in this area here. Or these are, like, they're putting in a lot of effort, and they eventually get it, but then it still took them a lot of time. So then maybe these are other different type of struggling student where it's like, it's more like they're putting in a lot more effort to get the grade, versus, like, maybe people here on this side of the plot, yeah. And then this is a some the last part here is a submission timeline that's just showing the latest three assignments right now. And it's like it's in counting down order, because it's counting down like the days due date. And then also each student on both of these plots is a dot right now. So it's like, this is when they first started working on the assignment. So anyone that's like, starts, like, really close here, then you can identify, you could use some threshold and define them as, like, late slash, like, cramming, yeah. So I guess, any thoughts on the rest of the page? I guess.
+
+Interviewee  42:24  
+Yeah, I personally, I don't pay too much attention to submission timeline, beyond on time or late. Yeah, that's just one thing for me. The other thing is, like the bar chart that you have up at the top right for class wide metrics, so like in my in my class, the assignments, that median score is like 100 or nearly so these bars will not show me any real meaningful like visual difference among them, so that I'm sure could differ from course to course. But for me personally, I would not be paying very much attention to that
+
+Researcher  43:22  
+you use anything like other method, I guess just, just
+
+Interviewee  43:27  
+not time spent, I think could be useful. The other one, the middle two, time spent, coding and coding and like successful to erroring, submission ratio seems useful as well.
+
+Researcher  43:42  
+And then, would you use a bar chart then? Or would you Is there a different data viz or different chart that you would prefer instead? It's
+
+Interviewee  44:00  
+a good question. I mean, the challenge of a bar chart is that it's significantly less useful when all or it's less useful at describing distances or differences when the differences are not that high relative to the average. So you could, in theory, use something like a scatter plot with an adjusted axis to make this a little bit more visually discernible when the differences are not so great relative to the averages
+
+Researcher  44:43  
+after like, starting at like 80 or something, because everyone's getting at least like or like. Most people are, yeah, like, this kind of, okay, yeah.
+
+Interviewee  44:54  
+Like, if you use a bar chart, you have to do it the way that you did it, and it's fine if the goal of the bar chart is to indicate. Hey, look, all of the assignments basically have the same average score. But my sense is that this is not the actual useful
+
+Researcher  45:09  
+Gotcha. Anything about metric comparison?
+
+Interviewee  45:21  
+Can you highlight a dot?
+
+Researcher  45:24  
+Yeah, right now. Yeah, right now. The hover just shows, like the student, and then we just have dummy data right now. But yeah, is there something you'd like to see, like, if it was, like,
+
+Interviewee  45:36  
+if you could, if it could be linked to that, like tabular view at the bottom, or actually all of the other views in general, where, say you click that point, and then it highlights that point across the submission timelines, and also it pins that person's row to the roster to the top of the roster view right below. That'd be pretty cool, doubly so, if you could draw a box to highlight a region and then similarly, highlight all of the all of those points across all of the other panels.
+
+Researcher  46:16  
+Okay, so it's like, if I want to get these, then it just kind of like, like, I would just highlight this area, or circle this area or something, and then, yeah, bring like these, like five students to the top, or like, highlight these five okay, yeah, gotcha. Gotcha.
+
+Interviewee  46:36  
+I apologies if this is annoying, but that's called, like, brushing and linking. If you want to look that up, possibly you know that. So I apologize if
+
+Researcher  46:45  
+I'm okay. I don't know, actually. So wait, so the brushing and linking, that's like, the highlighting or like identifying, and then it'll, like, link to the other things. Okay, yeah, exactly, yeah, no, thanks. I'll check that out. Then that helps. Then it's easier than describing in like a paragraph, but, yeah, cool. Um, anything else? Or I can go to the second part.
+
+Interviewee  47:07  
+I can go on to the next one. Gotcha?
+
+Researcher  47:11  
+Yeah, this what you were asking for here, kind of once again, it kind of predicts the next step, which is visual viewing visualizations for a particular student. So we're planning to do is like, well, we didn't have the brushing and linking part, but right now, it would be like, if you clicked on either.or the name of the student, then it would lead to a view specifically for that students like statistics. So then, for example, this would be like enrollment information. So for our like, course, we like if their honors or not, of what their major was. Because for us, we have like two different sections. So we have like a we have a section that's just CS major, and a section that's like everyone else. And then we also have like a pre test score. So if they get 100 on the pre test score, then they can, like, waive the course. Otherwise they all have to take the course. Yeah. Then we all have, like an intervention log here, and then the bottom part here's like, this would be like, those like tags where it would like list, like, why they're like, excuse, like, any like potential like, why they're struggling. And then these are buttons, but it would affect this like timeline here. We're basically trying to describe the composite metric here. So for example, if they have average time spent on an assignment, then this button is like selected, and then this will tell you like across these assignments. This is how the student performs in relation to the class average. And theoretically, if you were to click these other ones, it would update, and just change the y axis to like average score, or like the number of runs per assignment. And then this would be an assignment table, but specifically for the students. So like, for example, their score. And then in comparison to class average time spent some tech errors. And you can decide what columns to put here, of course, as well. Yeah.
+
+Interviewee  48:56  
+So provided that you have the control over what makes a student be at risk or not. Like, you can add the custom things, and then also you can add, like, certain columns to the table there. I think this is, like, pretty much perfect, like, this is exactly what I would be looking for. I like the intervention log, especially, that seems pretty nice, maybe like a kind of pie. Well, actually, this links into Canvas. So maybe this is not so imaginative a feature where you can select this is related to the intervention long but it's more of the global thing, as opposed to the individual thing. Find some way to select a group of students based on some criterion, and then send out an email or message or invitation to meet with you or something to all of the students automatically, and then have it add a note to the intervention log so that you can see it would be like,
+
+Researcher  49:54  
+really cool. Gotcha. So something automated like it does all the Yeah. It does like, it makes the email list for you. So you have to, like, because if you already identify them for our system, then you don't have to, like, open your email and then send them individual
+
+Interviewee  50:09  
+Yeah, like, if this plugs into Canvas or something like, it should be able to send some kind of message like that, or it might be able to send some kind of message like that, but, but I think the really crucial thing about that, like, for me, it's not that hard to come up with a group of students based on some criterion. The thing that is that I basically never have the wherewithal to do is to go in and for each student that I did that write a note in some sort of log for that student that says, like, here's something that I did to intervene and chat with them. So I think the thing that really would be exciting to me is the fact that it keeps a record of this so that me and the TAs can all look at the intervention log for that student and have it actually represent the truth of the world. Gotcha.
+
+Researcher  50:58  
+And then I guess a follow up question, because you sound like you like work a lot with your TAs. Was like, would you consider like a TA view of this instructor dashboard? And so is there anything that ta shouldn't see or like anything different from this view?
+
+Interviewee  51:13  
+At the moment, my TAs can basically see every single thing that I see, or I'm willing to share with them. So I'm not that concerned about a TA being able to see things that I would be happy if a TA could see this exactly.
+
+Researcher  51:31  
+Would they also be able to send emails? Or you think that would just be like, like, that's a good point.
+
+Interviewee  51:35  
+Maybe not send emails. Yeah, maybe I should be the only one who can actually reach out with emails. I mean, you know, I can have them manually write an email or something like that, but
+
+Researcher  51:45  
+maybe, but even, like, email blast, like, no,
+
+Interviewee  51:47  
+yeah, yeah, maybe no email blast.
+
+Researcher  51:50  
+And then what do you think about having students see this? Like, would that be a thing to like, have, like, not, I'm guessing, like, not, maybe not all the information. But would you consider, you think, like students themselves, would also like benefit from having this, like, some kind of view, or would it just be a like instructor, ta kind of tool?
+
+Interviewee  52:15  
+My feeling is that most of the information here would actually be demotivating to struggling students and irrelevant to students who are not struggling. So my reaction is, I can't see anything on this page that I think a student would need to see in this way. I think a grade book view for a student is pretty much sufficient, and they don't need to worry about they don't need to be constantly reminded how they're doing relative to a class average in my class, at least, because, like, there's no curve or anything like that. So like, students are already frustrated when they lose five points on an assignment that they might not need to be reminded that, on average, the score was perfect. Gotcha.
+
+Researcher  53:00  
+Gotcha. So it's like kind of whatever Are you easy to use grade scope, you said? So it's like whatever they can see in grade scope, that's probably already sufficient. Yes, I
+
+Interviewee  53:09  
+think good to focus on how they did and not that important to focus on how anybody else is doing most of the time. And I think it's useful for us to be able to exercise discretion when we reveal that information to them or not.
+
+Researcher  53:27  
+I forgot to ask too. So is Canvas more like a Content Manager? And then all the grades are on grade scope?
+
+Interviewee  53:32  
+Basically, I basically don't use Canvas, although I use it for other classes. I have a course website that manages all of the content. And I grade scope is where they submit their card.
+
+Researcher  53:52  
+Okay, I see it. Thanks. And then, do you have anything other thoughts on this? Or I'll go to the last like, I'll go to the last situation.
+
+Interviewee  54:02  
+This page is great. I overall very positive.
+
+Researcher  54:07  
+Gotcha cool. So then the last bit here is, it's an it'll, we don't have a visualization for it yet, but it'll be similar to the layout of the class wide metrics. I'll just go back to that. So then this is about pairing visualizations between two class sections. So it's like on a separate page that allows comparing different classes of students. It'll be like an overlay. So for example, if you want to see like two concurrent actions, like, see how those two perform against each other, then there'll be like a page will, for example, like it like two box plots, or whatever, or not box plots, two bar charts, or maybe like, it'll have like this is like this class in red and then in blue, have like the dots of the other class. So it can be either, yeah, either for two concurrent sections, or to like historical sections. So if you wanted to compare like last year to this year in terms of like. Whatever metrics. But, yeah, I guess. What do you think of this feature? Is it something we use?
+
+Interviewee  55:06  
+I would be interested in having a historical comparison. It's not useful for me to do multiple concurrent section comparison because they receive basically the same instruction and are evaluated on the same assignments and everything. So it's not a kind of it's not two different structures teaching the same class. It's me teaching the same class two different times. So I don't care too much about how one section is doing relative to the other, because in my experience, they do basically the same. But yeah, a historical comparison would be helpful. Like, was this exam easier or harder than last year? Or if I gave, for example, the same exam a couple of different times, are they doing better or worse than they used to
+
+Researcher  55:55  
+doctor so more for like, you to like, keep track of, like, how you're if you change them in the class. Or, like, Is it, like your course material, basically, like seeing how students, like react to it? Yeah.
+
+Interviewee  56:08  
+Or, you know, if the students are changing, because I actually don't. There's a lot of material in the class that I don't change. So something like the average time on assignments, or how many error full runs they have, that would be an interesting thing to observe changing over time.
+
+Researcher  56:31  
+Gotcha cool. And then I guess any other thoughts about the any of the scenarios or the dashboard in general, anything else? Nothing comes to mind. Okay, cool. So then, yeah, that's all the questions that we have, so I'll stop sharing. And then, um, yeah. I mean, yeah, the last question is, like, do you have anything, any questions from here the research team? But that's kind of like, that's the last question. No, not so much. Gotcha cool. So I guess thank you so much for participating, and then here I'll stop the recording. Um.
+
+Transcribed by https://otter.ai
